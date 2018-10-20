@@ -1,11 +1,13 @@
 ## read data from file
+## This doesn't work in PyCharm
 lines = open('avengers.csv').readlines()
 type(lines)
 
 
 
 ## Convert lines to rows
-rows = [] for line in lines:
+rows = []
+for line in lines:
     line_split = line.split(',')
     if len(line_split)==21:
         rows.append(line_split)
@@ -20,18 +22,20 @@ fieldnames = []
 for hv in header:
     hv_lower = hv.lower()
     hv_clean = hv_lower.replace('/','_').strip('?').strip('\n').replace(' ','_')
-    fieldnames.append(hv_clean) print(fieldnames)
+    fieldnames.append(hv_clean)
+print(fieldnames)
 
 
 
 ## Create dict-based record
 records =[]
-countera = 1
+ct1 = 1
 for x in rows:
-    d = dict(zip(fieldnames, rows[countera]))
+    d = dict(zip(fieldnames, rows[ct1]))
     records.append(d)
-    if countera == 172:
-        break countera = countera+1
+    if ct1 == 172:
+        break
+    ct1 = ct1+1
 print(records[50])
 type(records[32])
 
@@ -39,37 +43,38 @@ type(records[32])
 
 ## Convert record values to appropriate type
 ## I need to simplify with *args and **kwargs...I think???
-counterb = 0
+ct2 = 0
 for y in records:
-    records[counterb]["appearances"]=int(records[counterb]["appearances"])
-    records[counterb]["year"]=int(records[counterb]["year"])
-    records[counterb]["years_since_joining"]=2018-records[counterb]["year"]
+    records[ct2]["appearances"]=int(records[ct2]["appearances"])
+    records[ct2]["year"]=int(records[ct2]["year"])
+    records[ct2]["years_since_joining"]=2018-records[ct2]["year"]
 
-    if records[counterb]['current'] == 'NO': records[counterb]['current'] = 'False'
-    elif records[counterb]['current'] == 'YES': records[counterb]['current'] = 'True'
-    if records[counterb]['death1'] == 'YES': records[counterb]['death1'] = 'True'
-    elif records[counterb]['death1'] == 'NO': records[counterb]['death1'] = 'False'
-    if records[counterb]['death2'] == 'YES': records[counterb]['death2'] = 'True'
-    elif records[counterb]['death2'] == 'NO': records[counterb]['death2'] = 'False'
-    if records[counterb]['death3'] == 'YES': records[counterb]['death3'] = 'True'
-    elif records[counterb]['death3'] == 'NO': records[counterb]['death3'] = 'False'
-    if records[counterb]['death4'] == 'YES': records[counterb]['death4'] = 'True'
-    elif records[counterb]['death4'] == 'NO': records[counterb]['death4'] = 'False'
-    if records[counterb]['death5'] == 'YES': records[counterb]['death5'] = 'True'
-    elif records[counterb]['death5'] == 'NO': records[counterb]['death5'] = 'False'
-    if records[counterb]['return1'] == 'YES': records[counterb]['return1'] = 'True'
-    elif records[counterb]['return1'] == 'NO': records[counterb]['return1'] = 'False'
-    if records[counterb]['return2'] == 'YES': records[counterb]['return2'] = 'True'
-    elif records[counterb]['return2'] == 'NO': records[counterb]['return2'] = 'False'
-    if records[counterb]['return3'] == 'YES': records[counterb]['return3'] = 'True'
-    elif records[counterb]['return3'] == 'NO': records[counterb]['return3'] = 'False'
-    if records[counterb]['return4'] == 'YES': records[counterb]['return4'] = 'True'
-    elif records[counterb]['return4'] == 'NO': records[counterb]['return4'] = 'False'
-    if records[counterb]['return5'] == 'YES': records[counterb]['return5'] = 'True'
-    elif records[counterb]['return5'] == 'NO': records[counterb]['return5'] = 'False'
-records[counterb]['notes'] = records[counterb]['notes'].strip(' \n')
-records[counterb]
-if counterb == 171:
-    break counterb = counterb + 1
+    if records[ct2]['current'] == 'NO': records[ct2]['current'] = 'False'
+    elif records[ct2]['current'] == 'YES': records[ct2]['current'] = 'True'
+    if records[ct2]['death1'] == 'YES': records[ct2]['death1'] = 'True'
+    elif records[ct2]['death1'] == 'NO': records[ct2]['death1'] = 'False'
+    if records[ct2]['death2'] == 'YES': records[ct2]['death2'] = 'True'
+    elif records[ct2]['death2'] == 'NO': records[ct2]['death2'] = 'False'
+    if records[ct2]['death3'] == 'YES': records[ct2]['death3'] = 'True'
+    elif records[ct2]['death3'] == 'NO': records[ct2]['death3'] = 'False'
+    if records[ct2]['death4'] == 'YES': records[ct2]['death4'] = 'True'
+    elif records[ct2]['death4'] == 'NO': records[ct2]['death4'] = 'False'
+    if records[ct2]['death5'] == 'YES': records[ct2]['death5'] = 'True'
+    elif records[ct2]['death5'] == 'NO': records[ct2]['death5'] = 'False'
+    if records[ct2]['return1'] == 'YES': records[ct2]['return1'] = 'True'
+    elif records[ct2]['return1'] == 'NO': records[ct2]['return1'] = 'False'
+    if records[ct2]['return2'] == 'YES': records[ct2]['return2'] = 'True'
+    elif records[ct2]['return2'] == 'NO': records[ct2]['return2'] = 'False'
+    if records[ct2]['return3'] == 'YES': records[ct2]['return3'] = 'True'
+    elif records[ct2]['return3'] == 'NO': records[ct2]['return3'] = 'False'
+    if records[ct2]['return4'] == 'YES': records[ct2]['return4'] = 'True'
+    elif records[ct2]['return4'] == 'NO': records[ct2]['return4'] = 'False'
+    if records[ct2]['return5'] == 'YES': records[ct2]['return5'] = 'True'
+    elif records[ct2]['return5'] == 'NO': records[ct2]['return5'] = 'False'
+    records[ct2]['notes'] = records[ct2]['notes'].strip(' \n')
+    records[ct2]
+    if ct2 == 171:
+        break
+    ct2 = ct2 + 1
 
 print(len(records)," ",type(records[42]))
