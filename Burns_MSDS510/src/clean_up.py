@@ -84,3 +84,5 @@ for y in records:
     ct2 = ct2 + 1
 
 print(len(records)," ",type(records[42]))
+
+#Great work! Something that helps me is printing what is currently happening in the code. For example, print("Counting number of years"). etc. - Myrna
