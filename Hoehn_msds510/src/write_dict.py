@@ -13,7 +13,7 @@ def make_nice_name (name):
 
 def dict_write(input, output):
     with open(input) as f:
-        reader = csv.DictReader(open(input))  # The file is open at this point; should use "f" instead of open(input)
+        reader = csv.DictReader(open(input))  # Hsu-Comment: The file is open at this point; should use "f" instead of open(input)
         header = reader.fieldnames
         records = [row for row in reader]
     nice_names = [make_nice_name(field) for field in header]

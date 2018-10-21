@@ -13,7 +13,7 @@ def readRows(inputCSV):
     with open (inputCSV, 'r') as read:
         listOfOrderedDics =[]
         readCSV = csv.DictReader(read)
-        keys=readCSV.DictReader(read)
+        keys=readCSV.DictReader(read)  # Hsu-Comment: This line is extraneous since the "keys" variable is redefined in the next line.
         keys = readCSV.fieldnames
         for row in readCSV:
             listOfOrderedDics.append(row)

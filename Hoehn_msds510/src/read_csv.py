@@ -15,7 +15,7 @@ def csv_read(input):
         for row in file:
             new_file.append(row)
 
-    print(new_file[162])  # Dependent on what the assignment means by 162nd row, remember that Python indices start at 0.
+    print(new_file[162])  # Hsu-Comment: Dependent on what the assignment means by 162nd row, remember that Python indices start at 0.
 
 if __name__ == '__main__':
     targetFile = argumentexists(1)
