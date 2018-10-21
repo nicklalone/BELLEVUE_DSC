@@ -12,7 +12,7 @@ def read_csv(input_file):
             csv_reader = csv.reader(file)
             rows = [row for row in csv_reader]
         print("Print the 162nd row...")
-        pprint(rows[162])  # Depending on what the assignment means by "162nd row" but remember that Python indices start at 0.
+        pprint(rows[162])  #Remember that Python starts at 0, so it might not be entirely true that you are printing the 162nd row? -Myrna
 
     except:
         print('An exception occurred:', sys.exc_info())
