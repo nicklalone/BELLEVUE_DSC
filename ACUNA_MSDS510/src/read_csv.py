@@ -23,6 +23,7 @@ def read_csv_dict(csv_path):
     print('Printing fieldnames')
     pprint(fieldnames)
 
+    # Make fieldnames Python friendly by removing spaces, slashes, and question marks
     for name in fieldnames:
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))

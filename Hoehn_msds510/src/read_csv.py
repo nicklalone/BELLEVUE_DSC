@@ -1,12 +1,14 @@
 import csv,sys
 
-def argumentexists (index):
+
+def argumentexists(index):
     try:
         sys.argv[index]
     except IndexError:
         return ''
     else:
         return sys.argv[index]
+
 
 def csv_read(input):
     new_file =[]
@@ -16,6 +18,7 @@ def csv_read(input):
             new_file.append(row)
 
     print(new_file[162])
+
 
 if __name__ == '__main__':
     targetFile = argumentexists(1)

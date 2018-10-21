@@ -1,7 +1,9 @@
 import sys
 import csv
 
-def argumentExists(index):
+
+# need two blank lines between, functions should be all lower case
+def argumentexists(index):
     try:
         sys.argv[index]
     except IndexError:
@@ -10,16 +12,18 @@ def argumentExists(index):
         return sys.argv[index]
 
 
-def readRows(inputCSV):
+# need two blank lines between, functions should be all lower case
+def readrows(inputCSV):
     with open (inputCSV,'r') as read:
         listOfOrderedDics = []
         readCSV = csv.fieldnames
         for row in readCSV:
             listOfOrderedDics.append(row)
-        for key in keys:
+        for key in readCSV: # keys was undefined, changed to readCSV
             print(key, listOfOrderedDics[160][key], end=" ")
 
+
 if __name__ == "__main__":
-    csvToRead = argumentExists(1)
-    readRows(csvToRead)
+    csvToRead = argumentexists(1)
+    readrows(csvToRead)
 # having a little trouble with this one
