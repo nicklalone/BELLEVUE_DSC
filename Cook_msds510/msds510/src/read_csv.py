@@ -2,6 +2,8 @@ import sys
 import csv
 from pprint import pprint
 
+# The following code uses CSV reader and generates a CSV reader object
+# The CSV reader object is further iterated to get all the rows
 
 def read_csv(csv_path):
     with open(csv_path) as f:
@@ -11,6 +13,9 @@ def read_csv(csv_path):
     print('Printing Row 162 using csv.reader')
     pprint(rows[162])
 
+# The following code uses a dict reader and generates a dictionary reader object
+# The dictionary reader is iterated to get the rows
+# The Advantage with the dictionary reader is that we can extract fieldnames from the dictionary object
 
 def read_csv_dict(csv_path):
     with open(csv_path) as f:
@@ -23,10 +28,13 @@ def read_csv_dict(csv_path):
     print('Printing fieldnames')
     pprint(fieldnames)
 
+# The following takes in each of the fieldnames extracted and performs the following methods to make python friendly names
+
     for name in fieldnames:
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))
 
+#  The following code takes in file name as arguement and if the file name is not entered it will give out a message
 
 def main():
     args = sys.argv
