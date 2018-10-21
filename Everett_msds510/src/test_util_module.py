@@ -7,13 +7,14 @@ if __name__ == '__main__':
         dict(year='2005', intro='5-May'),
         dict(year='2013', intro='13-Nov'),
         dict(year='2014', intro='14-Jan'),
-         dict(year='2014', intro='14-aaa'),
     ]
 
+#prints the year an Avengers character joined
+#calculated and prints the number of days since the character joined the Avengers
     for record in records:
         year = record.get('year')
         intro = record.get('intro')
         print('Input Record - {}'.format(record))
-        print('Date joined - {}'.format(get_date_joined(year,intro)))
+        print('Date joined - {}'.format(get_date_joined(year, intro)))
         print('Days since joined - {}'.format(days_since_joined(year, intro)))
         print('')

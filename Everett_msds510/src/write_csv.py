@@ -1,13 +1,11 @@
 import sys
 import csv
 
-# change field names to Python friendly names
+
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
 
-#use dictionary reader to input Avengers csf file
-#call the function to convert to Python friendly names
-#use dictionarly writer to output new field names
+
 def main(input_csv, output_csv):
     with open(input_csv) as f:
         csv_reader = csv.DictReader(f)
