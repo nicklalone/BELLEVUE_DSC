@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b394d73c-e7dd-4b4f-b56e-8177b4dd0148" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Campbell-msds510/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Campbell-msds510/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msds510/scr/convert_to_utf8.py" beforeDir="false" afterPath="$PROJECT_DIR$/msds510/src/convert_to_utf8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msds510/scr/msds510/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/msds510/src/msds510/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msds510/scr/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/msds510/src/read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msds510/scr/test_util_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/msds510/src/test_util_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msds510/scr/write_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/msds510/src/write_csv.py" afterDir="false" />
-    </list>
+    <list default="true" id="b394d73c-e7dd-4b4f-b56e-8177b4dd0148" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +12,7 @@
     <session id="818603652">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
