@@ -1,7 +1,7 @@
 import sys
 import csv
 
-
+#This module creates header names that are more Python friendly
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
 
