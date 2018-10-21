@@ -1,3 +1,10 @@
+"""
+I think as we are new to github (at least I know I am) we all forgot that we should comment our code to make it easy for a third party to read
+Here for example, I would include a comment such as :
+Create function to open file and convert it to UTF-8
+Simple, but I think it will be definitively helpful to the next person that will takeover this code.
+"""
+
 import sys
 
 # The following code opens up the input file

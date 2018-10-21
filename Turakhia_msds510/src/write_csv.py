@@ -1,3 +1,7 @@
+
+#Format header columns to change to all lower case, remove question marks, slashes, line endings
+
+
 def argumentExists(index):
     try:
         sys.argv[index]
@@ -11,6 +15,8 @@ def argumentExists(index):
         corr_category=corr_category.replace('/','_')
         return corr_category
 
+    #creat new file and write newly formated data to the output
+    
     def processedCSV(output,headers,input):
         with open(output,'W',newline='') as written:
             dw=csv.DictWriter(written,fieldnames=headers)

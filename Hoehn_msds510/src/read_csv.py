@@ -1,3 +1,9 @@
+"""
+I think we are both guilty of not commenting our code
+Here I would put somethig as simple importing csv file
+although it may seems obvious it would help someone that will takeover the code or someone new to python programming like myself.
+"""
+
 import csv,sys
 
 def argumentexists (index):

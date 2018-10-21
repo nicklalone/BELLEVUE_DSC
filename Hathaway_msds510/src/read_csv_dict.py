@@ -1,3 +1,5 @@
+#this is a duplicate of the read_csv.py module
+
 import sys
 import csv
 from pprint import pprint
