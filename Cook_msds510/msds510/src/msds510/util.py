@@ -5,13 +5,13 @@ to find the date the character joined as well as calculate the
 number of days elapsed since the character joined.
 '''
 
-def get_month(intro):
-'''
-This section of code splits the intro field into two parts.
+'''This section of code splits the intro field into two parts.
 The dictionary is used to assign months to numbers.
 Each part is then checked against the dictionary
 to determine the month value.
 '''
+
+def get_month(intro):
 
     values = intro.split('-')
     months = dict(
