@@ -18,7 +18,8 @@ def main(input_csv, output_csv):
 
     """The following line is a combination of a list and a dictionary comprehension. 
     It takes the form of (k,v for (k,v) in collection.items)"""
-
+    # I have read conflicting things about using triple quotes for multi-line comments.
+    # Quite a few say not to use them because they will be garbage collected at some point.
     new_records = [{python_friendly_name(name): value for name, value in record.items()} for record in records]
 
     """ Dict Reader Requires us to specify the field names. Especially the writeheader 
