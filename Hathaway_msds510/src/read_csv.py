@@ -1,3 +1,7 @@
+#this module is to read in the Avengers csv file using the csv reader
+#it also uses the dictionary reader and
+#changes the field names to Python friendly names
+
 import sys
 import csv
 from pprint import pprint

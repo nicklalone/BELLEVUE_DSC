@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 # read data from file
 # This doesn't work in PyCharm
+=======
+## read data from file
+## This doesn't work in PyCharm
+## This won't work in PyCharm as it's not a function and I don't think you can call it to run it using any input file. If you needed to use this script on any other file, you would need to rewrite
+## this file for the new file.
+## I like how you use interations, but it would only work when you know how long a file
+## is before you run the file. To make the interation more general, in your third block of coding, you could use
+# if ctl == len(file)-1
+#     break
+>>>>>>> eefa1e681afad7ee45e9467b2d9da4002536b14a
 lines = open('avengers.csv').readlines()
 type(lines)
 
@@ -95,4 +106,10 @@ for y in records:
         break
     ct2 = ct2 + 1
 
+<<<<<<< HEAD
 print(len(records), " ", type(records[42]))
+=======
+print(len(records)," ",type(records[42]))
+
+#Great work! Something that helps me is printing what is currently happening in the code. For example, print("Counting number of years"). etc. - Myrna
+>>>>>>> eefa1e681afad7ee45e9467b2d9da4002536b14a

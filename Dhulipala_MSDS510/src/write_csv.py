@@ -1,5 +1,9 @@
 import sys
 import csv
+"""
+You can use triple quotes also for multiple line comments.
+
+"""
 
 # Method to make python friendly user names once extracted
 def python_friendly_name(name):
