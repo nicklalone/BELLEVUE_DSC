@@ -2,8 +2,12 @@ import sys
 import csv
 from pprint import pprint
 
-
+"""
+Comments are missing
+Also this looks good print('usage: read_csv <input_csv>') but explain two methods are getting invoked
+"""
 def read_csv(csv_path):
+    print('Printing ',csv_path)
     with open(csv_path) as f:
         csv_reader = csv.reader(f)
         rows = [row for row in csv_reader]
@@ -23,6 +27,7 @@ def read_csv_dict(csv_path):
     print('Printing fieldnames')
     pprint(fieldnames)
 
+    # Make fieldnames Python friendly by removing spaces, slashes, and question marks
     for name in fieldnames:
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))
