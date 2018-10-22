@@ -1,5 +1,7 @@
 import datetime
 
+# The following method gets the string from the input and splits by '-'
+# Declared a dictionary to associate string to a number
 
 def get_month(intro):
     values = intro.split('-')
@@ -8,11 +10,15 @@ def get_month(intro):
         Jul=7, Aug=8, Sep=9, Oct=10, Nov=11, Dec=12
     )
 
+# The following code matches the of the string value of month to integer
+
     if values[0] in months:
         return months[values[0]]
     elif values[1] in months:
         return months[values[1]]
 
+# The code below gets the integer for month using get month method
+# The method also converts the entered string year value to integer
 
 def get_date_joined(year_str, intro):
     month = get_month(intro)
@@ -20,6 +26,9 @@ def get_date_joined(year_str, intro):
 
     return datetime.date(year, month, 1)
 
+# The code below gets todays date
+# Gets the value for the date joined
+# Finally return the difference interms of days
 
 def days_since_joined(year, intro):
     today = datetime.date.today()

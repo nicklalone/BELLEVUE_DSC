@@ -1,5 +1,9 @@
 import datetime
-
+'''
+I was also bad at commenting my code.
+This module is a utility module that contains functions for
+manipulating the date fields into datetime objects
+'''
 
 def get_month(intro):
     values = intro.split('-')
