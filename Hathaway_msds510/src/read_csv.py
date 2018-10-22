@@ -31,7 +31,7 @@ def read_csv_dict(csv_path):
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))
 
-
+# Check to see if the command line interface has at least 2 arguments entered 
 def main():
     args = sys.argv
 
