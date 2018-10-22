@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
@@ -7,55 +6,8 @@
         <list>
           <option value="W29" />
           <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
         </list>
       </option>
     </inspection_tool>
   </profile>
-=======
-<component name="InspectionProjectProfileManager">
-  <profile version="1.0">
-    <option name="myName" value="Project Default" />
-    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-      <option name="ignoredErrors">
-        <list>
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
-<<<<<<< HEAD
-=======
-          <option value="W29" />
-          <option value="E501" />
-          <option value="W29" />
-          <option value="E501" />
->>>>>>> eefa1e681afad7ee45e9467b2d9da4002536b14a
-        </list>
-      </option>
-    </inspection_tool>
-  </profile>
->>>>>>> 377745faf70981593413cf246981cefe595e0a36
 </component>

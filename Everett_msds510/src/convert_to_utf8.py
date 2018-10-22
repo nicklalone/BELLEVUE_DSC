@@ -4,11 +4,11 @@ import sys
 def main(input_file_path, output_file_path):
     with open(input_file_path, encoding='ISO-8859-1 ') as f:
         text = f.read()
-
+# opens the file in write mode
     with open(output_file_path, 'w', encoding='UTF8') as f:
         f.write(text)
 
-
+# checks if there are 3 segments in the command line
 if __name__ == '__main__':
     args = sys.argv
     if len(args) < 3:
