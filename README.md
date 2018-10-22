@@ -18,14 +18,14 @@ The sort of learning path we'll expect from you this week is "mostly" straight f
 
 ### What is Markdown?
 
-[First Python Notebook: Hello Markdown](http://www.firstpythonnotebook.org/markdown/)
-[ Full Stack Python on Markdown](https://www.fullstackpython.com/markdown.html)
+* [First Python Notebook: Hello Markdown](http://www.firstpythonnotebook.org/markdown/)
+* [ Full Stack Python on Markdown](https://www.fullstackpython.com/markdown.html)
 
 In the end, Markdown is a language that can be extended and used for other languages. For example, I use these all the time: 
 
-[Convert Markdown to HTML](https://markdowntohtml.com/)
-[Tables Generator](https://www.tablesgenerator.com/)
-[Pandoc](https://pandoc.org/)
+* [Convert Markdown to HTML](https://markdowntohtml.com/)
+* [Tables Generator](https://www.tablesgenerator.com/)
+* [Pandoc](https://pandoc.org/)
 
 The whole point of this is that you can use Python to generate markdown files and through markdown, you have access to any readable format out there. It's an incredibly useful skill to have. Additionally, you will notice that all of the readme files and various documentation files on GITHUB use markdown. This will help you when creating your portfolio. 
 
