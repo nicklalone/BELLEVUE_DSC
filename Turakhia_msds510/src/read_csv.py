@@ -1,6 +1,7 @@
 import sys
 import csv
 
+# Hsu-Comments (All comments in this script is from Hsu):
 # Based on the indents, this Python script doesn't accomplish the task set in the assignment. It only defines the function "argumentexists."
 # Everything is completed when "argumentexists" is run. But I don't think you can run this separately since there is no sys.argv input for it.
 def argumentexists(index):
