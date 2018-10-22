@@ -15,7 +15,7 @@ def read_csv(csv_path):
     print('Printing Row 162 using csv.reader')
     pprint(rows[162])
 
-
+#Interate dict reader to print the row
 def read_csv_dict(csv_path):
     with open(csv_path) as f:
         csv_reader = csv.DictReader(f)
@@ -32,7 +32,7 @@ def read_csv_dict(csv_path):
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))
 
-
+#This code checks if the correct arguments were passed when invoked. If not, it will display the print message.
 def main():
     args = sys.argv
 

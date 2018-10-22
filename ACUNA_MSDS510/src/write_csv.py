@@ -1,6 +1,8 @@
 import sys
 import csv
 
+#It will be helpful to write comments in line so that the code is easily understandable and maintainable.
+
 # change field names to Python friendly names
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
@@ -14,8 +16,12 @@ def main(input_csv, output_csv):
         records = [record for record in csv_reader]
         fieldnames = csv_reader.fieldnames
 
+#Each dictionary is added as alist item in the new list
     python_friendly_names = [python_friendly_name(name) for name in fieldnames]
     new_records = [{python_friendly_name(name): value for name, value in record.items()} for record in records]
+	
+	#The following is to open the output file in the write mode
+	#While using dictionarywriter it is required to add fieldnames in the write mode
 
     with open(output_csv, 'w') as f:
         csv_writer = csv.DictWriter(f, fieldnames=python_friendly_names)

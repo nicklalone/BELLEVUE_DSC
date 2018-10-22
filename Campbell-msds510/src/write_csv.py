@@ -5,7 +5,7 @@ import csv
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
 
-
+#Method to take in the input file and output file arguments and gather the record and fieldnames from the input file
 def main(input_csv, output_csv):
     with open(input_csv) as f:
         csv_reader = csv.DictReader(f)
@@ -30,7 +30,7 @@ def main(input_csv, output_csv):
         csv_writer.writeheader()
         csv_writer.writerows(new_records)
 
-
+#This code checks if the correct arguments were passed when invoking this script
 if __name__ == '__main__':
     args = sys.argv
     if len(args) < 3:
