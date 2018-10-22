@@ -36,7 +36,7 @@ def csv_read(input):
 
 This will read the file and append a the new row.  Using the quote characters
 means that anything between the double apostrophes will be read as part of the
-file. This avoids the problem of splitting too much with commas as a delimiter.            
+file. This avoids the problem of splitting too much with commas as a delimiter.             
 '''
 
 # Create header
