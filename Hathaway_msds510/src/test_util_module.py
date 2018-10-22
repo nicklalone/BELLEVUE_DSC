@@ -1,5 +1,6 @@
 from msds510.util import get_date_joined, days_since_joined
 
+# suggest a different file name for this - "test_util" makes it seems like this is junk for testing.
 if __name__ == '__main__':
     records = [
         dict(year='1988', intro='Jun-88'),

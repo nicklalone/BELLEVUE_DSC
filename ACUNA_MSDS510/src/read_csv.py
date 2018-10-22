@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 import csv
 from pprint import pprint
@@ -45,3 +46,52 @@ def main():
 
 if __name__ == '__main__':
     main()
+=======
+import sys
+import csv
+from pprint import pprint
+
+"""
+Comments are missing
+Also this looks good print('usage: read_csv <input_csv>') but explain two methods are getting invoked
+"""
+def read_csv(csv_path):
+    print('Printing ',csv_path)
+    with open(csv_path) as f:
+        csv_reader = csv.reader(f)
+        rows = [row for row in csv_reader]
+
+    print('Printing Row 162 using csv.reader')
+    pprint(rows[162])
+
+#Interate dict reader to print the row
+def read_csv_dict(csv_path):
+    with open(csv_path) as f:
+        csv_reader = csv.DictReader(f)
+        fieldnames = csv_reader.fieldnames
+        records = [row for row in csv_reader]
+
+    print('Printing record 161 using csv.DictReader')
+    pprint(records[161])
+    print('Printing fieldnames')
+    pprint(fieldnames)
+
+    # Make fieldnames Python friendly by removing spaces, slashes, and question marks
+    for name in fieldnames:
+        nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
+        print("'{}', ".format(nice_name))
+
+#This code checks if the correct arguments were passed when invoked. If not, it will display the print message.
+def main():
+    args = sys.argv
+
+    if len(args) < 2:
+        print('usage: read_csv <input_csv>')
+    else:
+        read_csv(args[1])
+        read_csv_dict(args[1])
+
+
+if __name__ == '__main__':
+    main()
+>>>>>>> 8d9c3c470b3ce5d4b6c1970f922593046371fe98
