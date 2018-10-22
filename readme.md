@@ -1,4 +1,4 @@
-# DSC510 - Week 9	# FRIPP_MSDS510
+# DSC510 - Week 9
 ## Getting started with Markdown	
 
 This week, we're going to talk about writing a program to make a report. Once we get our code up to snuff, we're going to upload it to our repository AND then we will work on editing it a bit.	
@@ -35,8 +35,11 @@ Well, quite simply you can trick it by manually adding this stuff to your print 
 There is an example script in the folder called, `LALONE_MSDS510`. Let's talk about that!	
 ### The Starter Script.	
 Before I get started, I wanted to say that the chapters 26-29 were required reading for this week. While they are no longer required reading, they will be useful for you to look through to make this thing work!	
+
 There are a few files and folders inside of the repository `LALONE_MSDS510`. It is the *avenger* class and various utilities that we would have created ourselves had we stuck with the breakneck speed of the course. In all honesty, creating this script could take an entire semester itself. Instead of building it all, we will encounter a likely scenario in the coding world. Someone created it before you, didn't document it well, and you've inherited it as it is suddenly broken. From what we can see, it is missing some of the end of the Markdown Statement. 	
+
 From that perspective, we could also say that I have given you a scaffold upon which you will build more content. Your job is to use all your resources to get it finished. 	
+
 In addition to the script for the `avengers` class, there is also a file in MSDS_LALONE called, "Make Report." It is also missing an items. Namely, how do you connect the avenger class to the file? do I just say something like, `from msds510.avengers import something?` What do I import? Would that even work? 	
 
 Experiment and find out?	
