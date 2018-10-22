@@ -49,8 +49,8 @@ Experiment and find out?
 
 ## What `specifically` is the assignment this week?
 
-1. Download the director `LALONE_MSDS510` and copy the new scripts into your working folder.
-1. Evaluate and finish the avenger class so that it can generate a markdown report like the example. 
+1. Download the directory `LALONE_MSDS510` and copy the new scripts into your working folder.
+1. Evaluate and finish the avenger class so that it can generate a markdown report. Be sure to check the example report.
 1. Correct the `make_report.py` file so that it will import the Avenger class and work correctly from the command line.
 1. Upload your working code to the Github Repository into your folder by this Thursday.
 1. Help other students out by commenting on their code or correcting their code.
