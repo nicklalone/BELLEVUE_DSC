@@ -1,4 +1,3 @@
-@@ -1,58 +0,0 @@
 # DSC510 - Week 9
 ## Getting started with Markdown
 This week, we're going to talk about writing a program to make a report. Once we get our code up to snuff, we're going to upload it to our repository AND then we will work on editing it a bit.
