@@ -23,7 +23,21 @@ for line in lines:
         rows.append(line_split)
     Row_Count = len(rows)
     print("Number of Rows:", Row_Count)
+'''
+This code will ignore lines that have ','s in the middle.
+I used the following code to get around that problem
 
+def csv_read(input):
+    new_file =[]
+    with open(input) as f:
+        file = csv.reader(f, delimiter = ',', quotechar= '"')
+        for row in file:
+            new_file.append(row)
+
+This will read the file and append a the new row.  Using the quote characters
+means that anything between the double apostrophes will be read as part of the
+file. This avoids the problem of splitting too much with commas as a delimiter.            
+'''
 
 # Create header
 header = rows[0]
