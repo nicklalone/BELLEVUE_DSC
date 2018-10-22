@@ -13,3 +13,5 @@ for record in records:
     print("Date Joined -", joinDate)
     daysSince = days_since_joined((record['year']), (record['intro']))
     print("Days since Joined -", daysSince,'\n ')
+
+    #great use of the dictionary. Something that helps me keep track of the changes is commenting what is being changed and why. Could save some time in the future.

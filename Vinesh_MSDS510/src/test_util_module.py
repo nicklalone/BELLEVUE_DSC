@@ -7,6 +7,7 @@ if __name__ == '__main__':
         dict(year='2005', intro='5-May'),
         dict(year='2013', intro='13-Nov'),
         dict(year='2014', intro='14-Jan'),
+         dict(year='2014', intro='14-aaa'),
     ]
 
     for record in records:

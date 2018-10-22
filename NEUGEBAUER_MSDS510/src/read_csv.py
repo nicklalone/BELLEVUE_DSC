@@ -2,16 +2,17 @@
 import csv
 import sys
 from pprint import pprint
-
 import read_csv_dict
 
 
 def read_csv(input_file):
+    # add error handling
     try:
         with open(input_file) as file:
             csv_reader = csv.reader(file)
             rows = [row for row in csv_reader]
         print("Print the 162nd row...")
+    hsu_suggestion_branch
         pprint(rows[162])  # Hsu-Comment: Depending on what the assignment means by "162nd row" but remember that Python indices start at 0.
 
     except:
