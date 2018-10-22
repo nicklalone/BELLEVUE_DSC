@@ -39,7 +39,7 @@ There is an example script in the folder called, `LALONE_MSDS510`. Let's talk ab
 
 Before I get started, I wanted to say that the chapters 26-29 were required reading for this week. While they are no longer required reading, they will be useful for you to look through to make this thing work!
 
-There are a few files and folders inside of the repository LALONE_MSDS510. It is the *avenger* class and various utilities that we would have created ourselves had we stuck with the breakneck speed of the course. In all honesty, creating this script could take an entire semester itself. Instead of building it all, we will encounter a likely scenario in the coding world. Someone created it before you, didn't document it well, and you've inherited it as it is suddenly broken. From what we can see, it is missing some of the end of the Markdown Statement. 
+There are a few files and folders inside of the repository `LALONE_MSDS510`. It is the *avenger* class and various utilities that we would have created ourselves had we stuck with the breakneck speed of the course. In all honesty, creating this script could take an entire semester itself. Instead of building it all, we will encounter a likely scenario in the coding world. Someone created it before you, didn't document it well, and you've inherited it as it is suddenly broken. From what we can see, it is missing some of the end of the Markdown Statement. 
 
 From that perspective, we could also say that I have given you a scaffold upon which you will build more content. Your job is to use all your resources to get it finished. 
 
