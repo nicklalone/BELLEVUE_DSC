@@ -1,5 +1,7 @@
 import datetime
 
+# This module converts the dates from the original .csv file and puts them i a proper Python friendly format.
+
 
 def get_month(intro):
     values = intro.split('-')

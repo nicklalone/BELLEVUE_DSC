@@ -2,7 +2,7 @@ import sys
 import csv
 from pprint import pprint
 
-
+# some kind of commenting is appropriate in this file.
 def read_csv(csv_path):
     with open(csv_path) as f:
         csv_reader = csv.reader(f)

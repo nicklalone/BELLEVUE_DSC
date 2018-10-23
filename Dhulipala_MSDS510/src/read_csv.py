@@ -30,7 +30,7 @@ def csvdict_read(inputfilepath):
 def main():
     args = sys.argv
 
-    if len(args) < 1:
+    if len(args) < 1:  # Hsu-Comment: This should be a 2 instead of a 1. The Python command is index 0 so the length of the arguments is 2.
         print("Please enter the path name for the two files")
     else:
         csv_read(args[1])
@@ -38,4 +38,4 @@ def main():
 
 
 if __name__ == "__main__":
-      main()
+      main()  # Hsu-Comment: This is indented too much.

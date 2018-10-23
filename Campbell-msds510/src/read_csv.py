@@ -2,7 +2,7 @@ import sys
 import csv
 from pprint import pprint
 
-
+# use CSV reader to input Avengers csv file
 def read_csv(csv_path):
     with open(csv_path) as f:
         csv_reader = csv.reader(f)
@@ -11,7 +11,7 @@ def read_csv(csv_path):
     print('Printing Row 162 using csv.reader')
     pprint(rows[162])
 
-
+#use dictionary reader to input Avengers csv file
 def read_csv_dict(csv_path):
     with open(csv_path) as f:
         csv_reader = csv.DictReader(f)
@@ -23,6 +23,7 @@ def read_csv_dict(csv_path):
     print('Printing fieldnames')
     pprint(fieldnames)
 
+    #change field names to Python friendly names
     for name in fieldnames:
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))

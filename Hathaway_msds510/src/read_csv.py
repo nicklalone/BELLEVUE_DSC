@@ -1,3 +1,7 @@
+#this module is to read in the Avengers csv file using the csv reader
+#it also uses the dictionary reader and
+#changes the field names to Python friendly names
+
 import sys
 import csv
 from pprint import pprint
@@ -27,7 +31,7 @@ def read_csv_dict(csv_path):
         nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
         print("'{}', ".format(nice_name))
 
-
+# Check to see if the command line interface has at least 2 arguments entered 
 def main():
     args = sys.argv
 

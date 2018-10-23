@@ -1,6 +1,6 @@
 import datetime
 
-
+# seems like this should be in a folder named 'util" or somethign instead of 'msds510'
 def get_month(intro):
     values = intro.split('-')
     months = dict(
