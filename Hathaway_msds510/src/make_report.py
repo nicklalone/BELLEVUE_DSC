@@ -1,9 +1,11 @@
 import sys
 import csv
-from
+from #FRIPP Question: Is the comment below referencing what you're missing here? If not,did you mean to import something from another module?
 # if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 def main():
-    """interprets command line request
+    #Not sure if it's best practice, but I believe the docstring should start below your ' """ ' See Below w/ update
+    """
+    interprets command line request
     Args:
         argv: an array with input and output files
 
@@ -21,7 +23,9 @@ def main():
 
 
 def generateReport(infile, outfile):
-    """reads an infile, sorts the content, and
+    #Updatede docstring
+    """
+    reads an infile, sorts the content, and
        sends the sorted records and an outfile
        destination to printMarkdown to print
     Args:
