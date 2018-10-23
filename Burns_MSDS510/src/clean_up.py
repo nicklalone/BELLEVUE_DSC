@@ -45,13 +45,19 @@ for x in rows:
     records.append(d)
     if ct1 == 172:
         break
-    ct1 = ct1+1
+    #Burns Original: ct1 = ct1+1
+    #FRIPP Suggestion: This is a slightly cleaner way to write your original format; more to save keystrokes since both are readable
+    ct1 += 1
 print(records[50])
 type(records[32])
 
 
 # Convert record values to appropriate type
 # I need to simplify with *args and **kwargs...I think???
+#FRIPP Suggestion: Without the assignment definition, I wouldn't be too sure what this is supposed to do without reading
+#...a few times through the lines
+#You are correct in the *args (for tuples), **kwargs (for dictionaries) to allow you to iterate without implicit code
+#In a normal week where I wasn't behind, I'd have an immediate suggestion - will work on tomorrow :-)
 ct2 = 0
 for y in records:
     int(records[ct2]["appearances"])
