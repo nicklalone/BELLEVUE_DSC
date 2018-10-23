@@ -1,14 +1,5 @@
 from msds510.util import get_date_joined, days_since_joined
 
-
-#It is clear which records your are working with, but without access to the assignment as a reviewer,
-#I might be a little unclear why these particular records were selected
-#Would maybe suggest a quick comment section/descriptor of the module at the top of its intended use
-#-OR- if it is meant to be scalable, modifying with more flexible inputs based on conditional 
-#statements (i.e. don't rely on implicitly identifying the years and introductions,
-# rather using the readlines module and reading the values into the 
-#'year' and 'intro' storage lists)
-
 if __name__ == '__main__':
     records = [
         dict(year='1988', intro='Jun-88'),
