@@ -16,11 +16,10 @@ def main(input_file, output_file):
     except:
         print('An exception occurred:', sys.exc_info())
 
+# This gets executed first
 if __name__ == "__main__":
-    # execute only if run as a script
-    # do the arg parsing here, along with some validation for the user
-    print('Args listing:', sys.argv)
-    print('Note usage: convert_to_utf8.py <input_file>, <output_file>')
-    main(sys.argv[1], sys.argv[2])
-
-# new comment for fun
+    args = sys.argv
+    if len(args) < 3:
+        print('Note usage: convert_to_utf8.py <input_file>, <output_file>')
+    else:
+        main(sys.argv[1], sys.argv[2])
