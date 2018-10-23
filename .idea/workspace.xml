@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b62cff5f-e051-46d7-9367-2305d9013103" name="Default Changelist" comment="" />
+    <list default="true" id="b62cff5f-e051-46d7-9367-2305d9013103" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gardner_msds510/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gardner_msds510/src/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +32,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="395" />
-          <entry key="txt" value="181" />
+          <entry key="py" value="933" />
+          <entry key="txt" value="244" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="181" />
-          <entry key="Python" value="395" />
+          <entry key="PLAIN_TEXT" value="244" />
+          <entry key="Python" value="933" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
           <entry key="md" value="1" />
           <entry key="patch" value="1" />
-          <entry key="py" value="9" />
+          <entry key="py" value="25" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -54,8 +58,8 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="PATCH" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="9" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="25" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +67,104 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/write_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/read_csv_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/convert_to_utf8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/convert_to_utf8.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/read_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/test_util_module.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gardner_msds510/src/read_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +184,9 @@
         <option value="$PROJECT_DIR$/Burns_MSDS510/Baby Step.py" />
         <option value="$PROJECT_DIR$/Burns_MSDS510/src/convert_to _utf8.py" />
         <option value="$PROJECT_DIR$/Burns_MSDS510/src/clean_up.py" />
+        <option value="$PROJECT_DIR$/Anderson_msds510/src/tests_util_modules.py" />
+        <option value="$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py" />
+        <option value="$PROJECT_DIR$/Gardner_msds510/src/read_csv.py" />
       </list>
     </option>
   </component>
@@ -108,35 +212,62 @@
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Burns_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Burns_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Dhulipala_MSDS510" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Dhulipala_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Gardner_msds510" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Gardner_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoehn_msds510" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoehn_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hsu_msds510" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hsu_msds510" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Burns_MSDS510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Vinesh_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="Turakhia_msds510" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -432,7 +563,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.convert_to _utf8">
+  <component name="RunManager" selected="Python.util">
     <configuration name="Baby Step" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DSC510---Students" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -475,6 +606,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="read_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DSC510---Students" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Campbell-msds510/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Campbell-msds510/src/read_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DSC510---Students" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -496,13 +648,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DSC510---Students" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hoehn_msds510/src/msds510" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Baby Step" />
       <item itemvalue="Python.convert_to _utf8" />
+      <item itemvalue="Python.read_csv" />
+      <item itemvalue="Python.util" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python.read_csv" />
         <item itemvalue="Python.convert_to _utf8" />
         <item itemvalue="Python.Baby Step" />
         <item itemvalue="Python.test" />
@@ -514,6 +691,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -525,7 +703,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -541,7 +719,9 @@
     <MESSAGE value="Added Project to Burns folder" />
     <MESSAGE value="Added Pythoin Editor to 3.6" />
     <MESSAGE value="Copied Prof. Nick's convert file and converted to utf8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copied Prof. Nick's convert file and converted to utf8" />
+    <MESSAGE value="Megered with lateest version." />
+    <MESSAGE value="Modified note" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified note" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/test.py" />
@@ -569,18 +749,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/.idea/msds510.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/convert_to_utf8.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/src/convert_to_utf8.py" />
@@ -616,6 +784,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Campbell-msds510/src/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="12" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Campbell-msds510/src/write_csv.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/tests_util_modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gardner_msds510/src/test_util_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/write_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/read_csv_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/convert_to_utf8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/convert_to_utf8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/test_util_module.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gardner_msds510/src/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
