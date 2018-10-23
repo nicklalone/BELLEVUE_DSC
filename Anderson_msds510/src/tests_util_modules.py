@@ -12,7 +12,7 @@ if __name__ == '__main__':
     ]
 
 # The code below iterates through the each and every dictionary in the list
-# One dictionary is passed as an arguement at a time
+# One dictionary is passed as an argument at a time
 # Empty print statement is used to create a space between the output related to each record
 
   for record in records:
