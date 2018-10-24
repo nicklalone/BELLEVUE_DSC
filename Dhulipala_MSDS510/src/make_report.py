@@ -1,17 +1,15 @@
 import sys
 import csv
-# Python 3 uses dot notation to specify a sub-directory, then a file, and you import
-# a class within the file.
 from msds510.avenger import Avenger
-
+# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 def main():
-    """
-        Args:
-            argv: an array with input and output files
+    """interprets command line request
+    Args:
+        argv: an array with input and output files
 
-        Returns:
-            no return. Executed generateReport with
-            collected file names.
+    Returns:
+        no return. Executed generateReport with
+        collected file names.
     """
     if len(sys.argv) != 3:
         print("this report generator takes two parameters, "
@@ -23,17 +21,16 @@ def main():
 
 
 def generateReport(infile, outfile):
-    """
-        Reads an infile, sorts the content, and
-        sends the sorted records and an outfile
-        destination to printMarkdown to print
-        Args:
-            infile: a file location to read data from
-            outfile: a destination file location
-        Result:
-            executes the printMarkdown function with
-            sorted records and an outfile to write
-            the results to.
+    """reads an infile, sorts the content, and
+       sends the sorted records and an outfile
+       destination to printMarkdown to print
+    Args:
+        infile: a file location to read data from
+        outfile: a destination file location
+    Result:
+        executes the printMarkdown function with
+        sorted records and an outfile to write
+        the results to.
     """
 
     file = []
