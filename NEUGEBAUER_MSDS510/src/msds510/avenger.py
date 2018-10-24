@@ -1,6 +1,5 @@
 import datetime
 
-
 class Avenger:
     def __init__(self, record=None):
         """
@@ -177,23 +176,15 @@ class Avenger:
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
+                # Instantiate the Avenger object
                 avenger = Avenger(rc)
-                ofile.write()
-                ofile.write()
-                ofile.write()
-                ofile.write()
+                # Do stuff with it - specifically, print each element to the .md file
+                # specified in the command line arg
+                ofile.write('# ' + str(idx + 1) + '. ' + avenger.alias + '\n')
+                ofile.write('* Number of Appearances: ' + avenger.appearances_count + '\n')
+                ofile.write('* Year Joined: ' + avenger.year_value + '\n')
+                ofile.write('* Years Since Joining: ' + avenger.years_since_joining_value + '\n')
+                ofile.write('* URL: ' + avenger.url_value + '\n\n')
+                ofile.write('## Notes\n')
+                ofile.write(avenger.notes_value + '\n\n')
 
-                ofile.write()
-                ofile.write()
-                ofile.write()
-# The above will work like this:
-#       What is the avenger's name? This should be level 1.
-# How may appearances have they had? This will be a bullet point.
-# What year did they join? This will be a bullet point.
-# How many years since joining? This will be a bullet point.
-# What is the avenger's URL? This will be a bullet point.
-# The notes section will be last as a level 2 heading.
-# followed by the notes themselves.
-# Spacing will be up to you.
-
-# Remember to refer to the example report in the reports folder

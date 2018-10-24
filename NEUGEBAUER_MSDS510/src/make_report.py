@@ -1,7 +1,9 @@
 import sys
 import csv
-from
-# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
+# Python 3 uses dot notation to specify a sub-directory, then a file, and you import
+# a class within the file.
+from msds510.avenger import Avenger
+
 def main():
     """
         Args:
