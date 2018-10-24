@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b62cff5f-e051-46d7-9367-2305d9013103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/reports/top_ten_appearances.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/make_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/msds510.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/utils/conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/utils/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/process_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/run_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/tests/test_avenger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/tests/test_util_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hathaway_msds510/src/tests/test_util_date.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hathaway_msds510/reports/top_ten_appearances.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hathaway_msds510/src/make_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hathaway_msds510/src/make_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,8 +70,10 @@
     <session id="1148773793">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -105,7 +81,7 @@
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="13" />
+          <entry key="py" value="15" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -114,14 +90,43 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="15" />
           <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="183" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="183" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="186" column="23" lean-forward="true" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/make_report.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-246">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,12 +149,14 @@
         <option value="$PROJECT_DIR$/Anderson_msds510/src/tests_util_modules.py" />
         <option value="$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py" />
         <option value="$PROJECT_DIR$/Gardner_msds510/src/read_csv.py" />
+        <option value="$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py" />
+        <option value="$PROJECT_DIR$/Hathaway_msds510/src/make_report.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
-    <option name="y" value="16" />
+    <option name="y" value="15" />
     <option name="width" value="1795" />
     <option name="height" value="1000" />
   </component>
@@ -176,7 +183,34 @@
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
               <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="interim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="processed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="msds510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
@@ -360,16 +394,16 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -481,13 +515,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Gardner_msds510/src/read_csv.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -500,13 +528,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/convert_to_utf8.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -522,29 +544,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/read_csv_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hsu_msds510/src/write_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hoehn_msds510/src/msds510/util.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -586,9 +593,6 @@
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/.idea/src.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/make_report.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,21 +603,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LaLone_MSDS510/src/read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/read_csv.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2830" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -626,6 +619,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/run_tests.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="186" column="23" lean-forward="true" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/make_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
