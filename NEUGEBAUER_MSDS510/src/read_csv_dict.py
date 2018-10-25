@@ -2,7 +2,10 @@ import csv
 import sys
 from pprint import pprint
 
-
+"""
+    I split this apart unlike prof L because
+    it seems more modular this way. 
+"""
 def read_csv_dict(input_file, row_to_print):
     try:
         with open(input_file) as file:
@@ -19,6 +22,5 @@ def read_csv_dict(input_file, row_to_print):
         for name in fieldnames:
             nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
             print("'{}', ".format(nice_name))
-
     except:
         print('An exception occurred:', sys.exc_info())
