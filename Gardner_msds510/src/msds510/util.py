@@ -1,13 +1,4 @@
-import sys
 import datetime
-
-def argumentExists(index):
-    try:
-        sys.argv[index]
-    except IndexError:
-        return ''
-    else:
-        return sys.argv[index]
 
 
 def get_month(intro):
@@ -33,4 +24,4 @@ def get_date_joined(year_str, intro):
 def days_since_joined(year, intro):
     today = datetime.date.today()
     date_joined = get_date_joined(year, intro)
-    return (today - date_joined).days
+    return (today-date_joined).days
