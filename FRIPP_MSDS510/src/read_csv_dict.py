@@ -1,9 +1,10 @@
-import sys
-import csv
+#Open Avengers file as dictionary records from csv file
 
-with open('avengers.csv') as csvfile:
-    csv_reader = csv.reader(csvfile, delimiter',') 
-    for row in csv_reader:
-        print ', '.join(row)
+import sys, csv
+
+with open(file, newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        print(row[])
         
             
