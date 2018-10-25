@@ -1,58 +1,42 @@
-<<<<<<< HEAD
-import csv,sys
+import sys
+import csv
+from pprint import pprint
 
 
-def argumentexists(index):
-    try:
-        sys.argv[index]
-    except IndexError:
-        return ''
+def read_csv(csv_path):
+    with open(csv_path) as f:
+        csv_reader = csv.reader(f)
+        rows = [row for row in csv_reader]
+
+    print('Printing Row 162 using csv.reader')
+    pprint(rows[162])
+
+
+def read_csv_dict(csv_path):
+    with open(csv_path) as f:
+        csv_reader = csv.DictReader(f)
+        fieldnames = csv_reader.fieldnames
+        records = [row for row in csv_reader]
+
+    print('Printing record 161 using csv.DictReader')
+    pprint(records[161])
+    print('Printing fieldnames')
+    pprint(fieldnames)
+
+    for name in fieldnames:
+        nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
+        print("'{}', ".format(nice_name))
+
+
+def main():
+    args = sys.argv
+
+    if len(args) < 2:
+        print('usage: read_csv <input_csv>')
     else:
-        return sys.argv[index]
-
-
-def csv_read(input):
-    new_file =[]
-    with open(input) as f:
-        file = csv.reader(f, delimiter = ',', quotechar= '"')
-        for row in file:
-            new_file.append(row)
-
-    print(new_file[162])  # Hsu-Comment: Dependent on what the assignment means by 162nd row, remember that Python indices start at 0.
+        read_csv(args[1])
+        read_csv_dict(args[1])
 
 
 if __name__ == '__main__':
-    targetFile = argumentexists(1)
-    if targetFile:
-        csv_read(targetFile)
-=======
-"""
-I think we are both guilty of not commenting our code
-Here I would put somethig as simple importing csv file
-although it may seems obvious it would help someone that will takeover the code or someone new to python programming like myself.
-"""
-
-import csv,sys
-
-def argumentexists (index):
-    try:
-        sys.argv[index]
-    except IndexError:
-        return ''
-    else:
-        return sys.argv[index]
-
-def csv_read(input):
-    new_file =[]
-    with open(input) as f:
-        file = csv.reader(f, delimiter = ',', quotechar= '"')
-        for row in file:
-            new_file.append(row)
-
-    print(new_file[162])
-
-if __name__ == '__main__':
-    targetFile = argumentexists(1)
-    if targetFile:
-        csv_read(targetFile)
->>>>>>> eefa1e681afad7ee45e9467b2d9da4002536b14a
+    main()
