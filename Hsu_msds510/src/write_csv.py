@@ -1,40 +1,29 @@
 import sys
 import csv
 
-input_file = sys.argv[1]
-output_file = sys.argv[2]
+
+def python_friendly_name(name):
+    return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
 
 
-def make_nice_name(name):
-    new_name = []
-    for x in name:
-        temp_name = x.lower().replace(' ', '_').replace('/', '_').strip('?').strip('\n')
-        new_name.append(temp_name)
-    return new_name
+def main(input_csv, output_csv):
+    with open(input_csv) as f:
+        csv_reader = csv.DictReader(f)
+        records = [record for record in csv_reader]
+        fieldnames = csv_reader.fieldnames
 
+    python_friendly_names = [python_friendly_name(name) for name in fieldnames]
+    new_records = [{python_friendly_name(name): value for name, value in record.items()} for record in records]
 
-def reading(input):
-    with open(input, 'r') as f:
-        temp_file = csv.DictReader(f)
-        temp_file.fieldnames = make_nice_name(temp_file.fieldnames)
-        output_file = []
-        for row in temp_file:
-            output_file.append(row)
-        return temp_file.fieldnames, output_file
-
-
-def writer(input, output, header):
-    with open(output, 'w', newline='') as o:
-        output_writer = csv.DictWriter(o, fieldnames=header)
-        output_header = {}
-        # Want a row of the header;
-        for x in header:
-            output_header[x] = x
-        output_writer.writerow(output_header)
-        for row in input:
-            output_writer.writerow(row)
+    with open(output_csv, 'w') as f:
+        csv_writer = csv.DictWriter(f, fieldnames=python_friendly_names)
+        csv_writer.writeheader()
+        csv_writer.writerows(new_records)
 
 
 if __name__ == '__main__':
-    temp_csv = reading(input_file)
-    writer(temp_csv[1], output_file, temp_csv[0])
+    args = sys.argv
+    if len(args) < 3:
+        print('usage: write_csv <input_csv> <output_csv>')
+    else:
+        main(args[1], args[2])
