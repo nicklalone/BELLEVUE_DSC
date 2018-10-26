@@ -184,7 +184,7 @@ class Avenger:
                 ofile.write('* Years Since Joining: ' + str(avenger.years_since_joining()))
                 ofile.write('* URL: ' + avenger.url() + '\n' + '\n')
                 ofile.write('## Notes' + '\n' + '\n')
-                ofile.write(avenger.notes())
+                ofile.write(str(avenger.notes()))
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.
