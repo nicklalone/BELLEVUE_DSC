@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b62cff5f-e051-46d7-9367-2305d9013103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/msds510/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/date.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/avenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anderson_msds510/src/msds510/avenger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anderson_msds510/src/msds510/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/tests/test_avenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/tests/test_util_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anderson_msds510/src/tests/test_util_date.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +22,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="43" />
+          <entry key="py" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="43" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -93,9 +90,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py">
+        <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/run_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1677">
+            <state relative-caret-position="306">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/tests/test_avenger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -104,28 +114,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py">
+        <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/tests/test_avenger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/avenger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="198" column="63" selection-start-line="198" selection-start-column="63" selection-end-line="198" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/utils/conversion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1461">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="35" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -165,6 +157,7 @@
         <option value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py" />
         <option value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/date.py" />
         <option value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/Anderson_msds510/src/tests/test_avenger.py" />
       </list>
     </option>
   </component>
@@ -218,6 +211,13 @@
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
               <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,6 +244,13 @@
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
               <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,6 +258,19 @@
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
               <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
               <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
+              <item name="LaLone_MSDS510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,6 +293,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tyler\OneDrive\Projects\DSC510---Students\Anderson_msds510\src" />
       <recent name="C:\Users\burns\PycharmProjects\DSC510---Students\Burns_MSDS510\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -12513,7 +12534,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.avenger">
+  <component name="RunManager" selected="Python tests.Unittests in test_avenger.py">
     <configuration name="avenger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DSC510---Students" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -12556,7 +12577,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="process_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DSC510---Students" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -12564,32 +12585,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anderson_msds510/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DSC510---Students" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/date.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anderson_msds510/src/process_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -12619,20 +12619,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_avenger.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DSC510---Students" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anderson_msds510/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Anderson_msds510/src/tests/test_avenger.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.avenger" />
-      <item itemvalue="Python.conversion" />
-      <item itemvalue="Python.date" />
       <item itemvalue="Python.conversion (1)" />
       <item itemvalue="Python.test_util_module" />
+      <item itemvalue="Python.process_csv" />
+      <item itemvalue="Python tests.Unittests in test_avenger.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_avenger.py" />
+        <item itemvalue="Python.process_csv" />
         <item itemvalue="Python.avenger" />
         <item itemvalue="Python.test_util_module" />
         <item itemvalue="Python.conversion (1)" />
-        <item itemvalue="Python.conversion" />
-        <item itemvalue="Python.date" />
       </list>
     </recent_temporary>
   </component>
@@ -12674,19 +12688,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added comments to Gardner read.csv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Burns_MSDS510/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Burns_MSDS510/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Burns_MSDS510/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -12769,13 +12770,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Turakhia_msds510/src/read_csv_dict.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/convert_to_utf8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dhulipala_MSDS510/src/convert_to_utf8.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -12865,9 +12859,6 @@
     <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/util.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/process_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -12887,48 +12878,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/run_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/process_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/make_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Anderson_msds510/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/date.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/utils/conversion.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -12943,15 +12894,6 @@
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/test_util_module.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1677">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/msds510/avenger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -12959,10 +12901,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/utils/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/avenger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
+        <state relative-caret-position="3366">
           <caret line="198" column="63" selection-start-line="198" selection-start-column="63" selection-end-line="198" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/msds510/util.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/convert_to_utf8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/make_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/process_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hathaway_msds510/src/tests/test_avenger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anderson_msds510/src/tests/test_avenger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
