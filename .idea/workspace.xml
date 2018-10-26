@@ -161,11 +161,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="20" />
-    <option name="y" value="16" />
-    <option name="width" value="1795" />
-    <option name="height" value="1000" />
+    <option name="width" value="1245" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
