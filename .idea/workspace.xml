@@ -12,7 +12,7 @@
     <session id="714496261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -233,34 +233,6 @@
             <path>
               <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
-              <item name="Anderson_msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSC510---Students" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSC510---Students" type="462c0819:PsiDirectoryNode" />
               <item name="Hathaway_msds510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,7 +327,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../msds510" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -554,11 +526,11 @@
   <component name="ToolWindowManager">
     <frame x="520" y="117" width="1245" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24937862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937862" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15784115" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15784115" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
