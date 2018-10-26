@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b62cff5f-e051-46d7-9367-2305d9013103" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burns_MSDS510/src/msds510/avenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Burns_MSDS510/src/msds510/avenger.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,14 +31,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1015" />
-          <entry key="txt" value="328" />
+          <entry key="py" value="1028" />
+          <entry key="txt" value="416" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="328" />
-          <entry key="Python" value="1015" />
+          <entry key="PLAIN_TEXT" value="416" />
+          <entry key="Python" value="1028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/Burns_MSDS510/src/msds510/avenger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+              <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -381,7 +379,8 @@
     <MESSAGE value="Modified note" />
     <MESSAGE value="Added comments to Gardner read.csv" />
     <MESSAGE value="Copied Nick's src directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copied Nick's src directory" />
+    <MESSAGE value="Loaded variables into Outfile Write Block" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loaded variables into Outfile Write Block" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/test.py" />
@@ -543,7 +542,7 @@
     <entry file="file://$PROJECT_DIR$/Burns_MSDS510/src/msds510/avenger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+          <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
         </state>
       </provider>
     </entry>
