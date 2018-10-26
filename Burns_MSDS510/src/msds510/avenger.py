@@ -182,7 +182,7 @@ class Avenger:
                 ofile.write(self.appearances_count)
                 ofile.write(self.year_value)
                 ofile.write(self.years_since_joining_value)
-
+# Comment
                 ofile.write(self.url_value)
                 ofile.write("Notes")
                 ofile.write(self.notes_value.strip)
