@@ -1,21 +1,17 @@
 import sys
 
-try:
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
-except IndexError as err_log:
-    print('Error:', err_log)
-    print('Requires 2 arguments: 1st is input file, 2nd is output file.')
-    sys.exit()
 
+def main(input_file_path, output_file_path):
+    with open(input_file_path, encoding='ISO-8859-1 ') as f:
+        text = f.read()
 
-def convert(input, output):
-    with open(input, 'rb') as f:
-        lines = f.read()
-    decode_data = lines.decode('ISO-8859-1')
-    with open(output, 'w') as g:
-        g.write(decode_data)
+    with open(output_file_path, 'w', encoding='UTF8') as f:
+        f.write(text)
 
 
 if __name__ == '__main__':
-    convert(input_file, output_file)
+    args = sys.argv
+    if len(args) < 3:
+        print('usage: convert_to_utf8 <input_file> <output_file>')
+    else:
+        main(str(args[1]), str(args[2]))

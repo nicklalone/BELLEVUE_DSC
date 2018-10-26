@@ -1,15 +1,18 @@
-from msds510.utils.date_functions import get_date_joined, days_since_joined
+from msds510.util import get_date_joined, days_since_joined
 
-records = [dict(year='1988', intro='Jun-88'),
-           dict(year='1989', intro='May-89'),
-           dict(year='2005', intro='5-May'),
-           dict(year='2013', intro='13-Nov'),
-           dict(year='2014', intro='14-Jan')
-           ]
+if __name__ == '__main__':
+    records = [
+        dict(year='1988', intro='Jun-88'),
+        dict(year='1989', intro='May-89'),
+        dict(year='2005', intro='5-May'),
+        dict(year='2013', intro='13-Nov'),
+        dict(year='2014', intro='14-Jan'),
+    ]
 
-for x in records:
-    date_joined = get_date_joined(x['year'], x['intro'])
-    days_joined = days_since_joined(x['year'], x['intro'])
-    print('Input Record -', x)
-    print('Date joined -', date_joined)
-    print('Days since joined -', days_joined, '\n')
+    for record in records:
+        year = record.get('year')
+        intro = record.get('intro')
+        print('Input Record - {}'.format(record))
+        print('Date joined - {}'.format(get_date_joined(year, intro)))
+        print('Days since joined - {}'.format(days_since_joined(year, intro)))
+        print('')
