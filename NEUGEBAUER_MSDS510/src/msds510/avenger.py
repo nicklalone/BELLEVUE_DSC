@@ -180,11 +180,25 @@ class Avenger:
                 avenger = Avenger(rc)
                 # Do stuff with it - specifically, print each element to the .md file
                 # specified in the command line arg
-                ofile.write('# ' + str(idx + 1) + '. ' + avenger.alias + '\n')
-                ofile.write('* Number of Appearances: ' + avenger.appearances_count + '\n')
-                ofile.write('* Year Joined: ' + avenger.year_value + '\n')
-                ofile.write('* Years Since Joining: ' + avenger.years_since_joining_value + '\n')
-                ofile.write('* URL: ' + avenger.url_value + '\n\n')
-                ofile.write('## Notes\n')
-                ofile.write(avenger.notes_value + '\n\n')
+   ofile.write("# " + str(idx + 1) + ". "
+
+                            + avenger.name_alias() + "\n\n")
+
+                ofile.write("* Number of Appearances: "
+
+                            + str(avenger.appearances()) + "\n")
+
+                ofile.write("* Year Joined: " + str(avenger.year()) + "\n")
+
+                ofile.write("* Years Since Joining: "
+
+                            + str(avenger.years_since_joining()) + "\n")
+
+
+
+                ofile.write("* URL: " + avenger.url() + "\n\n")
+
+                ofile.write("## Notes \n\n")
+
+                ofile.write(avenger.notes() + "\n\n")
 
