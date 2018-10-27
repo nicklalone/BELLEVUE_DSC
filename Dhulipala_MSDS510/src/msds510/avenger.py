@@ -175,6 +175,7 @@ class Avenger:
         Result:
             prints the contents to a formatted outfile.
         """
+
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist, 1):
                 avenger = Avenger(rc)
