@@ -2,6 +2,7 @@ import sys
 import csv
 # Python 3 uses dot notation to specify a sub-directory, then a file, and you import
 # a class within the file.
+#Here, at first I tried from src.msds510.avenger and was wondering why my code wouldn't work.  it wasn't until I changed it to msds510 that it worked.
 from msds510.avenger import Avenger
 
 def main():
