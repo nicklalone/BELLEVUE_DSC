@@ -186,6 +186,14 @@ class Avenger:
                 ofile.write(avenger.url())
                 ofile.write("Notes")
                 ofile.write(avenger.notes())
+
+                """
+                We can use \n for creating new line while writing into the file.
+                We can use operator overlading concept and use + sign to add to strings before writing into the file.
+                We can use str function to convert int's to string before writing into the file.
+                We can use # for level 1 header label and double # for level 2 header labels.
+                We can use * for bullet list.
+                """
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.
