@@ -187,6 +187,11 @@ class Avenger:
                 ofile.write('\n\n## {}'.format("Notes"))
                 ofile.write('\n\n{}\n\n'.format(avenger.notes()))
 
+    '''
+    This looks like an awesome way to format the comments. I've seen where people have been using the placeholders,
+    but never using the {}. Does it work well?
+    '''
+
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.

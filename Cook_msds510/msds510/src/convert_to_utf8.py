@@ -2,6 +2,11 @@ import sys
 
 # The following code opens up the file
 
+'''
+This portion of the code reads the input file using ISO-8859-1 and stores it into the variable text
+The variable text is then used to write the file to the designated output file. The output file is
+written with UTF-8 encoding.
+'''
 def main(input_file_path, output_file_path):
     with open(input_file_path, encoding='ISO-8859-1 ') as f:
         text = f.read()

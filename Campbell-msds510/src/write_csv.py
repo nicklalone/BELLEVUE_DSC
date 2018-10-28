@@ -1,3 +1,4 @@
+# What does this function do? I don't understand it and am curious about it.
 <<<<<<< HEAD
 import sys
 import csv
