@@ -9,8 +9,6 @@ if __name__ == '__main__':
         dict(year='2014', intro='14-Jan'),
     ]
 
-#prints the year an Avengers character joined
-#calculated and prints the number of days since the character joined the Avengers
     for record in records:
         year = record.get('year')
         intro = record.get('intro')

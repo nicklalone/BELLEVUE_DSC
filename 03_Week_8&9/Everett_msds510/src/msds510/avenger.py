@@ -1,5 +1,6 @@
 import datetime
 
+
 class Avenger:
     def __init__(self, record=None):
         """
@@ -112,7 +113,7 @@ class Avenger:
 
         """
 
-        return (datetime.date(self.year(), self.get_month(), 1))
+        return datetime.date(self.year(), self.get_month(), 1)
 
     def days_since_joining(self):
         """
@@ -176,29 +177,23 @@ class Avenger:
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
-                # Instantiate the Avenger object
                 avenger = Avenger(rc)
-                # Do stuff with it - specifically, print each element to the .md file
-                # specified in the command line arg
-                ofile.write("# " + str(idx + 1) + ". "
+                ofile.write('# ' + str(idx + 1) + '. ' + avenger.name_alias() + '\n\n')
+                ofile.write('* Number of Appearances: ' + str(avenger.appearances()) + '\n')
+                ofile.write('* Year Joined: ' + str(avenger.year()) + '\n')
+                ofile.write('* Years Since Joining: ' + str(avenger.years_since_joining()) + '\n')
+                ofile.write('* URL: ' + avenger.url() + '\n\n')
+                ofile.write('## Notes\n\n')
+                ofile.write(avenger.notes() + '\n\n')
 
-                            + avenger.name_alias() + "\n\n")
+# The above will work like this:
+#       What is the avenger's name? This should be level 1.
+# How may appearances have they had? This will be a bullet point.
+# What year did they join? This will be a bullet point.
+# How many years since joining? This will be a bullet point.
+# What is the avenger's URL? This will be a bullet point.
+# The notes section will be last as a level 2 heading.
+# followed by the notes themselves.
+# Spacing will be up to you.
 
-                ofile.write("* Number of Appearances: "
-
-                            + str(avenger.appearances()) + "\n")
-
-                ofile.write("* Year Joined: " + str(avenger.year()) + "\n")
-
-                ofile.write("* Years Since Joining: "
-
-                            + str(avenger.years_since_joining()) + "\n")
-
-
-
-                ofile.write("* URL: " + avenger.url() + "\n\n")
-
-                ofile.write("## Notes \n\n")
-
-                ofile.write(avenger.notes() + "\n\n")
-
+# Remember to refer to the example report in the reports folder
