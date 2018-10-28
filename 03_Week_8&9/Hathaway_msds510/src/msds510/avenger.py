@@ -175,6 +175,13 @@ class Avenger:
         Result:
             prints the contents to a formatted outfile.
         """
+
+        '''
+        Use .fromat() method to simplify the formatting as an alternative like I used in my file
+        
+        Change enumarate default value of '0' to '1' by passing it in the enumarate methd as a parameter
+        
+        '''
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
