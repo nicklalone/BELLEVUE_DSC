@@ -175,6 +175,11 @@ class Avenger:
         Result:
             prints the contents to a formatted outfile.
         """
+
+        # When you ran this, you didn't name the output file with a .md at the end. You
+        # named it anderson_top_avengers - this isn't recognized. Suggest you rerun it,
+        # although it looks like your labels and your output file don't match (the initial
+        # capitalization is off.
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
