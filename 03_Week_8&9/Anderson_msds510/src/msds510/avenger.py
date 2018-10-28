@@ -180,6 +180,15 @@ class Avenger:
         # named it anderson_top_avengers - this isn't recognized. Suggest you rerun it,
         # although it looks like your labels and your output file don't match (the initial
         # capitalization is off.
+
+        ''' 
+        The advantage using enumarate function is that you can specifically pass an input to start the counting.
+        
+        For example, by default the counter is started at 0, but we can change it to 1 by passing it in the method
+        
+        enumarate(recordlist,1) so that we dont have to use +1 as counter
+        
+        '''
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
