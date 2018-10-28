@@ -175,6 +175,9 @@ class Avenger:
         Result:
             prints the contents to a formatted outfile.
         """
+
+        # Which file did you use to generate your acuna_top_avengers.md file? It wasn't this one
+        # because your out put file has different ititial capitalization for each field. -- FWN
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
