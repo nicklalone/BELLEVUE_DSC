@@ -187,6 +187,9 @@ class Avenger:
                 ofile.write("Notes")
                 ofile.write(avenger.notes())
 
+                # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
+                # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
+                # converting things to strings, and using '\n' to create new lines.
                 """
                 We can use \n for creating new line while writing into the file.
                 We can use operator overlading concept and use + sign to add to strings before writing into the file.
