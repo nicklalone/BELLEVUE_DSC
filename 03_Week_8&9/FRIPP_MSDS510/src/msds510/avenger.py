@@ -178,13 +178,13 @@ class Avenger:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
-                ofile.write('# ' + str(idx) + str(avenger.name_alias()) + '\n\n')
-                ofile.write('* Number of Appearances : ' + str(avenger.appearances()) +'\n')
-                ofile.write('* Year Joines: ' + str(avenger.year()) + '\n')
+                ofile.write('# ' + str(idx + 1) + avenger.name_alias() + '\n\n')
+                ofile.write('* Number of Appearances: ' + str(avenger.appearances()) + '\n')
+                ofile.write('* Year Joined: ' + str(avenger.year()) + '\n')
                 ofile.write('* Years Since Joining: '+ str(avenger.years_since_joining()) + '\n')
-                ofile.write('* URL: ' + str(avenger.url()) + '\n')
+                ofile.write('* URL: ' + avenger.url() + '\n')
                 ofile.write('## Notes' + '\n')
-                ofile.write(avenger.notes() + '\n')
+                ofile.write(avenger.notes() + '\n\n')
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.

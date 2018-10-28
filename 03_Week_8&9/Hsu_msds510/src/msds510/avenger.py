@@ -183,7 +183,7 @@ class Avenger:
                 ofile.write('* Year Joined: ' + str(avenger.year()) + '\n')
                 ofile.write('* Years Since Joining: ' + str(avenger.years_since_joining()) + '\n')
                 ofile.write('* URL: ' + str(avenger.url()) + '\n\n')
-                ofile.write('## Notes' + '\n')
+                ofile.write('## Notes\n')
                 ofile.write(avenger.notes() + '\n\n')
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.

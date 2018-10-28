@@ -178,14 +178,14 @@ class Avenger:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
-                ofile.write(avenger.name_alias())
-                ofile.write(avenger.appearances()) #This needs to be a string to write
-                ofile.write(avenger.year())
-                ofile.write(avenger.years_since_joining())
+                ofile.write('# ' + str(idx + 1) + '. ' + avenger.name_alias() + '\n\n')
+                ofile.write('* Number of Appearances: ' + str(avenger.appearances()) + '\n') #This needs to be a string to write
+                ofile.write('* Year Joined: ' + str(avenger.year()) + '\n')
+                ofile.write('* Years Since Joining: ' + str(avenger.years_since_joining()) + '\n')
 
-                ofile.write(avenger.url())
-                ofile.write("Notes")
-                ofile.write(avenger.notes())
+                ofile.write('* URL: ' + avenger.url() + '\n\n')
+                ofile.write('## Notes\n\n')
+                ofile.write(avenger.notes() + '\n\n')
 
                 # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
                 # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
