@@ -16,5 +16,7 @@ Each week, you'll be responsible for *something* and what that is is broken down
 
 ## What `specifically` is the assignment this week?
 
-1. 
+1. Find a dataset on 538 that you can work with. 
+2. Get the dataset pulled and in csv format with the correct encoding. 
+3. Upload your data to the Github Folder in a folder called, `LASTNAME_Final_Project`.
 
