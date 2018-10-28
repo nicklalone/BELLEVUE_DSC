@@ -1,1 +1,1 @@
-This is where your final project folders will go.
+This week, we'll be working on creating some markdown reports with our dictionary. 
