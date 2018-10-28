@@ -17,7 +17,8 @@ def main():
         print("input file: " + sys.argv[1])
         print("output file: " + sys.argv[2])
         generateReport(sys.argv[1], sys.argv[2])
- def generateReport(infile, outfile):
+
+def generateReport(infile, outfile):
     """reads an infile, sorts the content, and
        sends the sorted records and an outfile
        destination to printMarkdown to print
@@ -29,14 +30,18 @@ def main():
         sorted records and an outfile to write
         the results to.
     """
-     file = []
+    file = []
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
-     sortedRecords = sorted(file,
+    sortedRecords = sorted(file,
                            key=lambda k: int(k['appearances']),
                            reverse=True)[:10]
-     avenger = Avenger()
+    avenger = Avenger()
     avenger.to_markdown(sortedRecords, outfile)
- if __name__ == '__main__':
+
+if __name__ == '__main__':
     main()
+'''
+The indentations were off when I tried to run this, so I added spacing and corrected indentations
+'''

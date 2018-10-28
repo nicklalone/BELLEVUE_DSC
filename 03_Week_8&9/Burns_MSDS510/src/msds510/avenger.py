@@ -179,7 +179,7 @@ class Avenger:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
                 ofile.write(avenger.name_alias())
-                ofile.write(avenger.appearances())
+                ofile.write(avenger.appearances()) #This needs to be a string to write
                 ofile.write(avenger.year())
                 ofile.write(avenger.years_since_joining())
 
@@ -197,6 +197,10 @@ class Avenger:
                 We can use # for level 1 header label and double # for level 2 header labels.
                 We can use * for bullet list.
                 """
+
+                #As a further tip to the above, remember that the index (idx) starts at zero
+                #so we'll want to add 1 to it before converting to a string
+
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.

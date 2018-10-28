@@ -1,6 +1,9 @@
 import sys
 import csv
-from
+import sys
+from  msds510.avenger import Avenger
+# Added import sys and Avenger class import
+
 # if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 def main():
     """interprets command line request
