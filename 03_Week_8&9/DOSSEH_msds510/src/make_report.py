@@ -1,5 +1,3 @@
-# You're missing __init__.py file in the msds510 directory. This helps Python recognize the scripts as a Python package. - AH
-
 import sys
 import csv
 

@@ -178,7 +178,6 @@ class Avenger:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
-                # Do you need help with this? - AH
                 ofile.write()
                 ofile.write()
                 ofile.write()

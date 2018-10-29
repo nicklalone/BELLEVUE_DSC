@@ -1,4 +1,3 @@
-#generates markdown report
 import sys
 import csv
 from msds510.avenger import Avenger
