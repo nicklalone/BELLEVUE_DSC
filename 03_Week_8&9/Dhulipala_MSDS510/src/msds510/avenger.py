@@ -191,7 +191,9 @@ class Avenger:
     This looks like an awesome way to format the comments. I've seen where people have been using the placeholders,
     but never using the {}. Does it work well?
     '''
-
+    '''
+    Its definitely more visible than the # symbol I might start using this!
+    '''
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.
