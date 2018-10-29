@@ -38,8 +38,11 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< HEAD
+=======
           <option value="W29" />
           <option value="E501" />
+>>>>>>> 5b0b578a8029d6ef5701113da1a9d9a81d68f81d
         </list>
       </option>
     </inspection_tool>
