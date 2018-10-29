@@ -1,3 +1,6 @@
+#Creates the Markdown File
+
+#Good way of importing multiple items.
 import sys, csv
 from msds510.avenger import Avenger
 

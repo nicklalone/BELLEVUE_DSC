@@ -185,6 +185,9 @@ class Avenger:
                 ofile.write('* URL: ' + avenger.url() + '\n')
                 ofile.write('## Notes' + '\n')
                 ofile.write(avenger.notes() + '\n\n')
+				
+# You could add one more '\n' after Notes for proper formatting				
+				
 # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.
