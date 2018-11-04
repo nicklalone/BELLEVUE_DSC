@@ -16,8 +16,6 @@ def main(input_file_path, output_file_path):
         with open(output_file_path, 'w', encoding='UTF8') as target_file:
             target_file.write(file_content)
 
-        source_file.close()
-        target_file.close()
         print("File created with utf-8 encoded data and copied to {}".format(output_file_path))
     except BaseException as e:
         print(str(e))
