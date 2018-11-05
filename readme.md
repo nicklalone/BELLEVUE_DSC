@@ -1,3 +1,50 @@
+# DSC510 - Week 11 and Week 12
+This week, we're doing some work on the code we've been messing around with throughout the semester. Here, you'll be taking the dataset you selected last week and using your existing tools on them. 
+
+As a result, you will be: 
+1. Processing the .csv
+1. Making a dictionary of your data.
+1. Processing the data and correcting its parameters. 
+1. Generating a report of the `top 10` of whatever that data is representing. What that markdown report provides is up to you. 
+
+_The above will force you to reconsider your .py files a little._
+
+### A word of warning
+Some of you wrote a `.md` file last week as opposed to generating one with python. If you did this, I let you slide as I was excited that you at least knew how to do that. For `Week 11`, this will not be the case. Generate your report file using the `make_report.py` file. Not doing this will result in a grade of 0 for the final project. 
+
+### This is due by the end of the day on the 17th of November (This is a Saturday!)
+
+## What `specifically` is the assignment this week?
+
+1. Evaluate and process your dataset using the avenger class. 
+1. Generate a markdown report using a metric of your choice (based on the data you downloaded)
+1. Upload your working code to the Github Repository into your folder on Week 12 by Saturday, November 17.
+1. Help other students out by commenting on their code or correcting their code (do this 3 times in the next 2 weeks).
+
+# DSC510 - Week 10
+## Getting Started with the Final Countdown
+This week, you are going to be finding another data source and performing the activities you've done to the avengers dataset. 
+
+You will go to the same place the 538 dataset came from: [The 538 Repository](https://github.com/fivethirtyeight/data)
+
+From here, you will search for a dataset that you'd like to create a dictionary out of. Over the next couple of weeks, you will be adjusting, augmenting, and zipping up that dataset so that as you leave here, you'll have 2 folders for your github portfolio with data that you can analyze later.
+
+Each week, you'll be responsible for *something* and what that is is broken down below: 
+
+| Week 	| General Task                               	| Parameters                                                      	| Deliverable                                    	|
+|------	|--------------------------------------------	|-----------------------------------------------------------------	|------------------------------------------------	|
+| 10   	| Find a Dataset                             	| Must be from 538 and roughly the same structure as the avengers 	| A CSV, Folders on the Github Repository.                                       	|
+| 11   	| Get the Data in Order                      	| Header, dictionary, and various aspects of the dictionary       	| Use the existing MSDS510 project to process it 	|
+| 12   	| Recreate Week 9's Assignment for your Data 	| Get a markdown report out                                       	| A Markdown Report                              	|
+
+## What `specifically` is the assignment this week?
+
+1. Find a dataset on 538 that you can work with. 
+2. Get the dataset pulled and in csv format with the correct encoding. 
+3. Upload your data to the Github Folder in a folder called, `LASTNAME_Final_Project`.
+
+---
+
 # DSC510 - Week 9
 ## Getting started with Markdown	
 

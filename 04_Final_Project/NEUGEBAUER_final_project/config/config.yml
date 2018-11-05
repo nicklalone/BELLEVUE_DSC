@@ -1,0 +1,4 @@
+# Config for the final MSDS510 project
+# CSV file name stuff
+RawInputFile: ../data/raw/bad-drivers.csv
+InterimUTF8File: ../data/interim/bad-drivers-utf-8.csv
