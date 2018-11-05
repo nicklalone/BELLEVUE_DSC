@@ -1,27 +1,17 @@
 import sys
 
 
-def argumentExists(index):
-    try:
-        sys.argv[index]
-    except IndexError:
-        return ''
-    else:
-        return sys.argv[index]
+def main(input_file_path, output_file_path):
+    with open(input_file_path, encoding='ISO-8859-1 ') as f:
+        text = f.read()
 
-
-def conversion(input, output):
-    avengers = open(input, 'rb')
-    avengersdecoded = avengers.read()
-    avengersdecoded = avengersdecoded.decode('ISO-8859-1')
-    avengers.close()
-    writeAvengers = open(output, 'w')
-    writeAvengers.write(avengersdecoded)
-    writeAvengers.close()
+    with open(output_file_path, 'w', encoding='UTF8') as f:
+        f.write(text)
 
 
 if __name__ == '__main__':
-    targetFile = argumentExists(1)
-    resultFile = argumentExists(2)
-    if targetFile and resultFile:
-        conversion(targetFile, resultFile)
+    args = sys.argv
+    if len(args) < 3:
+        print('usage: convert_to_utf8 <input_file> <output_file>')
+    else:
+        main(str(args[1]), str(args[2]))

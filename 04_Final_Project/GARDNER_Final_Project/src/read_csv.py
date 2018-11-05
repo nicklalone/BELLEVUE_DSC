@@ -1,31 +1,42 @@
-## I do not comment on my code at work, because it is so simple.
-## Now I can see why it is important to provide context.
-## Would the following comments work?
-
-
-## Bring CSV in PyCharm
 import sys
 import csv
+from pprint import pprint
 
-## Determine if there is a line that need to be imported
-def argumentExists(index):
-    try:
-        sys.argv[index]
-    except IndexError:
-        return ''
+
+def read_csv(csv_path):
+    with open(csv_path) as f:
+        csv_reader = csv.reader(f)
+        rows = [row for row in csv_reader]
+
+    print('Printing Row 162 using csv.reader')
+    pprint(rows[162])
+
+
+def read_csv_dict(csv_path):
+    with open(csv_path) as f:
+        csv_reader = csv.DictReader(f)
+        fieldnames = csv_reader.fieldnames
+        records = [row for row in csv_reader]
+
+    print('Printing record 161 using csv.DictReader')
+    pprint(records[161])
+    print('Printing fieldnames')
+    pprint(fieldnames)
+
+    for name in fieldnames:
+        nice_name = name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
+        print("'{}', ".format(nice_name))
+
+
+def main():
+    args = sys.argv
+
+    if len(args) < 2:
+        print('usage: read_csv <input_csv>')
     else:
-        return sys.argv[index]
-
-## Create and fill "rows" table
-rows = []
-def readRows(inputCSV):
-    with open(inputCSV, 'r') as read:
-        readCSV = csv.reader(read)
-        for row in readCSV:
-            rows.append(row)
-        print(rows[161])
+        read_csv(args[1])
+        read_csv_dict(args[1])
 
 
 if __name__ == '__main__':
-    csvToRead = argumentExists(1)
-    readRows(csvToRead)
+    main()
