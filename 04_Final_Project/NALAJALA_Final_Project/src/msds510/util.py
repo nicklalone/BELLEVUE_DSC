@@ -19,7 +19,7 @@ def get_filename_and_path(file_path):
 
 def verify_arguments(argv):
     """
-    Verifies command line arguments count and directories
+    Verifies command line arguments count and directories exists or not
     Verifies source and target file paths and creates output directory if not exist
     @param argv: Arguments list
     @return: boolean true or false. True when arguments are valid otherwise False
@@ -44,7 +44,7 @@ def verify_arguments(argv):
         else:
             print("Invalid Number of Arguments")
             return False
-    except BaseException  as e:
+    except BaseException as e:
         print("Exception in verify_arguments function")
         print(str(e))
         return False

@@ -4,10 +4,10 @@ from msds510 import util
 
 def main(input_file_path, output_file_path):
     """
-    Converts csv file from 'ISO-8859-1' to 'utf-8'
-    @param input_file_path:Command line argument
-    @param output_file_path:Command line argument
-    Command:python convert_to_utf8.py ../data/raw/biopics.csv ../data/interim/biopics_utf8.csv
+        Converts csv file from 'ISO-8859-1' to 'utf-8'
+        @param input_file_path:Command line argument
+        @param output_file_path:Command line argument
+        Command:python convert_to_utf8.py ../data/raw/biopics.csv ../data/interim/biopics_utf8.csv
     """
     try:
         with open(input_file_path, encoding='ISO-8859-1') as source_file:
@@ -17,8 +17,10 @@ def main(input_file_path, output_file_path):
             target_file.write(file_content)
 
         print("File created with utf-8 encoded data and copied to {}".format(output_file_path))
-    except BaseException as e:
-        print(str(e))
+    except IOError as e:
+        print("I/O error({0}): {1}".format(e.errno, e.strerror))
+    except Exception:
+        print(sys.exc_info())
         print("Error during conversion. Please try again")
 
 
