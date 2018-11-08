@@ -1,5 +1,6 @@
 import datetime
 
+# This is not necessary for bad drivers - no dates.
 
 def get_month(dateString):
     """takes a string which contains a 3 letter month

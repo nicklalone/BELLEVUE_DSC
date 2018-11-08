@@ -1,7 +1,4 @@
-import datetime
 import re
-from msds510.utils import date
-
 
 def get_value(series, value):
     """takes an incoming list and an item. if item exists in series,
@@ -36,6 +33,14 @@ def to_int(value):
     except Exception:
         return None
 
+def to_float(value):
+    # take the value and converts it to float
+    # Args: value - a string representing a float
+    try:
+        return float(value)
+    except Exception:
+        print('An exception occurred in to_float.')
+        return None
 
 def to_bool(value):
     """takes an incoming string (empty, YES, NO)
@@ -45,6 +50,7 @@ def to_bool(value):
     Returns:
         a bool or None.
     """
+    # This is not needed for bad drivers
     if not value.strip():
         return None
     else:
@@ -59,6 +65,7 @@ def clean_notes(value):
     Returns:
         a string less empty values on the ends.
     """
+    # This is not needed for bad drivers
     return value.strip()
 
 
@@ -103,23 +110,26 @@ def clean_field_names(data):
 
 def transform_record(rdict):
     """takes a dictionary record and converts the
-        values for to their expected format
+        values to their expected format
     Args:
         rdict: a single dictionary records
 
     Returns:
         a dictionary with newly formatted values
     """
-    rdict["appearances"] = to_int(rdict["appearances"])
-    rdict["current"] = to_bool(rdict["current"])
-    rdict["year"] = to_int(rdict["year"])
-    rdict['years_since_joining'] = datetime.date.today().year - rdict['year']
-    rdict["notes"] = clean_notes(rdict["notes"])
-    rdict["month_joinded"] = date.get_month(
-        rdict["full_reserve_avengers_intro"]
-    )
+    rdict["number_of_drivers_involved_in_fatal_collisions_per_billion_miles"] \
+        = to_int(rdict["number_of_drivers_involved_in_fatal_collisions_per_billion_miles"])
+    rdict["percentage_of_drivers_involved_in_fatal_collisions_who_were_speeding"] = \
+        to_int(rdict["percentage_of_drivers_involved_in_fatal_collisions_who_were_speeding"])
+    rdict["percentage_of_drivers_involved_in_fatal_collisions_who_were_alcohol-impaired"] = \
+        to_int(rdict["percentage_of_drivers_involved_in_fatal_collisions_who_were_alcohol-impaired"])
+    rdict['percentage_of_drivers_involved_in_fatal_collisions_who_were_not_distracted'] = \
+        to_int(rdict['percentage_of_drivers_involved_in_fatal_collisions_who_were_not_distracted'])
+    rdict["percentage_of_drivers_involved_in_fatal_collisions_who_had_not_been_involved_in_any_previous_accidents"] = \
+        to_int(rdict["percentage_of_drivers_involved_in_fatal_collisions_who_had_not_been_involved_in_any_previous_accidents"])
+    rdict["car_insurance_premiums_($)"] = \
+        to_float(rdict["car_insurance_premiums_($)"])
+    rdict["losses_incurred_by_insurance_companies_for_collisions_per_insured_driver_($)"] = \
+        to_float(rdict["losses_incurred_by_insurance_companies_for_collisions_per_insured_driver_($)"])
 
-    for key, val in rdict.items():
-        if (key.startswith('death') or key.startswith('return')):
-            rdict[key] = to_bool(rdict[key])
     return rdict

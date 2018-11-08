@@ -1,6 +1,8 @@
-import datetime
+# Fundamentally re-written for bad drivers.
 
-class Avenger:
+# DO NOT EDIT THE FORMATTING IN THIS FILE!!! NO EXTRA CR AND WHITE SPACE!!!
+
+class BadDrivers:
     def __init__(self, record=None):
         """
         Initializes the object with a dictionary-based record. If
@@ -9,196 +11,97 @@ class Avenger:
         Args:
             record (dict): Dictionary-based record of Avenger data
         """
-
         if record:
             self.record = record
-            self.url_value = record["url"]
-            self.alias = record["name_alias"]
-            self.appearances_count = record["appearances"]
-            self.current = record["current"]
-            self.death1 = record["death1"]
-            self.death2 = record["death2"]
-            self.death3 = record["death3"]
-            self.death4 = record["death4"]
-            self.death5 = record["death5"]
-            self.first_appearance = record["full_reserve_avengers_intro"]
-            self.gender_value = record["gender"]
-            self.honorary = record["honorary"]
-            self.notes_value = record["notes"]
-            self.probationary_introl = record["probationary_introl"]
-            self.return1 = record["return1"]
-            self.return2 = record["return2"]
-            self.return3 = record["return3"]
-            self.return4 = record["return4"]
-            self.return5 = record["return5"]
-            self.year_value = record["year"]
-            self.years_since_joining_value = record["years_since_joining"]
+            self.state = record["state"]
+            self.fatal_collisions = record["number_of_drivers_involved_in_fatal_collisions_per_billion_miles"]
+            self.speeding = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_speeding"]
+            self.drunk = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_alcohol-impaired"]
+            self.not_distracted = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_not_distracted"]
+            self.no_priors = record["percentage_of_drivers_involved_in_fatal_collisions_who_had_not_been_involved_in_any_previous_accidents"]
+            self.premiums = record["car_insurance_premiums_($)"]
+            self.losses = record["losses_incurred_by_insurance_companies_for_collisions_per_insured_driver_($)"]
 
-    def url(self):
+    def get_state(self):
         """
-
         Returns:
-            str: The URL of the comic character on the Marvel Wikia
-
+            str: Driver's state
         """
-        return self.url_value
+        return self.state
 
-    def name_alias(self):
+    def get_fatal_collisions(self):
         """
-
         Returns:
-            str: The full name or alias of the character
-
+            float: The # driver involved in fatal collisions per billion miles
         """
-        return self.alias
+        return self.fatal_collisions
 
-    def appearances(self):
+    def get_speeding(self):
         """
+        Returns:
+            int: % drivers in fatal accidents while speeding
+        """
+        return self.speeding
 
+    def get_drunk(self):
+        """
         Returns:
             int: The number of comic books that character
             appeared in as of April 30
-
         """
-        return int(self.appearances_count)
+        return self.drunk
 
-    def is_current(self):
+    def get_not_distracted(self):
         """
-
         Returns:
-            bool: Is the member currently active on an
-            avengers affiliated team? (True/False)
-
+            int: % drivers in fatal accidents who were not distracted
         """
+        return self.not_distracted
 
-        if not self.current.strip():
-            return None
-        else:
-            return True if self.current == 'YES' else False
-
-    def gender(self):
+    def get_no_priors(self):
         """
-
         Returns:
-            str: The recorded gender of the character
-
+            int: % of drivers in fatal accidents without prior accidents
         """
-        return self.gender_value
+        return self.no_priors
 
-    def year(self):
+    def get_premiums(self):
         """
-
         Returns:
-            int: The year the character was introduced
-            as a full or reserve member of the Avengers
-
+            float: The premium the driver paid
         """
-        return int(self.year_value)
+        return self.premiums
 
-    def get_month(self):
-        months = ["jan", "feb", "mar", "apr", "may", "jun",
-                  "jul", "aug", "sep", "oct", "nov", "dec"]
-
-        for i in range(0, len(months)):
-            if months[i] in self.first_appearance.lower():
-                return i + 1
-        return 0
-
-    def date_joined(self):
+    def get_losses(self):
         """
-
         Returns:
-            datetime.date: The date the character joined
-
+            float: Insured losses per collision per driver
         """
+        return self.losses
 
-        return (datetime.date(self.year(), self.get_month(), 1))
-
-    def days_since_joining(self):
-        """
-
-        Returns:
-            int: The number of integer days since the character joined
-
-        """
-        rval = datetime.date.today() - self.date_joined()
-        rval = rval.days
-        return rval
-
-    def years_since_joining(self):
-        """
-
-        Returns:
-            int: The number of integer years since the character joined
-
-        """
-
-        return datetime.date.today().year - self.year()
-
-    def notes(self):
-        """STRIP OFF TRAILING NEWLINES AND SPACES
-
-        Returns:
-            str: Descriptions of deaths and resurrections.
-
-        """
-        return self.notes_value.strip()
-
-    def __str__(self):
-        """
-
-        Returns:
-            str: A human-readable value for this character
-
-        """
-        return self.name_alias()
-
-    def __repr__(self):
-        """
-
-        Returns:
-            str: String representation of object.  Useful for debugging.
-        """
-
-        return "Avenger(" + ",".join(key + "=" + val
-                                     for key, val in self.record.items()
-                                     if key == 'name_alias'
-                                     or key == 'url') + ")"
 
     def to_markdown(self, recordslist, outfile):
         """takes a list of records, formats them
         and prints them to an output file.
         Args:
-            recordslist: list of top 10 avenger records
+            recordslist: list of top 10 bad driver records
             outfile: a file location string.
         Result:
             prints the contents to a formatted outfile.
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
-                # Instantiate the Avenger object
-                avenger = Avenger(rc)
+                # Instantiate the BadDrivers object
+                bad_drivers = BadDrivers(rc)
                 # Do stuff with it - specifically, print each element to the .md file
-                # specified in the command line arg
-                ofile.write("# " + str(idx + 1) + ". "
-
-                            + avenger.name_alias() + "\n\n")
-
-                ofile.write("* Number of Appearances: "
-
-                            + str(avenger.appearances()) + "\n")
-
-                ofile.write("* Year Joined: " + str(avenger.year()) + "\n")
-
-                ofile.write("* Years Since Joining: "
-
-                            + str(avenger.years_since_joining()) + "\n")
+                ofile.write("# " + str(idx + 1) + ". " + bad_drivers.get_state() + "\n\n")
+                ofile.write("* Number of fatals per billion miles: " + str(bad_drivers.get_fatal_collisions()) + "\n")
+                ofile.write("* % fatals while driver speeding: " + str(bad_drivers.get_speeding()) + "\n")
+                ofile.write("* % fatals while driver drunk: " + str(bad_drivers.get_drunk()) + "\n")
+                ofile.write("* % fatals while driver NOT distracted: " + str(bad_drivers.get_not_distracted()) + "\n")
+                ofile.write("* % fatals while drivers had no priors: " + str(bad_drivers.get_no_priors()) + "\n")
+                ofile.write("* Premium for bad driver: " + '$' + str(bad_drivers.get_premiums()) + "\n")
+                ofile.write("* Losses per collision per driver: " + str(bad_drivers.get_losses()) + "\n")
 
 
-
-                ofile.write("* URL: " + avenger.url() + "\n\n")
-
-                ofile.write("## Notes \n\n")
-
-                ofile.write(avenger.notes() + "\n\n")
 

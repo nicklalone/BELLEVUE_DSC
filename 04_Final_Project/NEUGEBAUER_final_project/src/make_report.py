@@ -1,53 +1,36 @@
 import sys
 import csv
+import yaml
 # Python 3 uses dot notation to specify a sub-directory, then a file, and you import
 # a class within the file.
 #Here, at first I tried from src.msds510.avenger and was wondering why my code wouldn't work.  it wasn't until I changed it to msds510 that it worked.
-from msds510.avenger import Avenger
+from bad_drivers.bad_driver import BadDrivers
 
 def main():
     """
-        Args:
-            argv: an array with input and output files
-
-        Returns:
-            no return. Executed generateReport with
-            collected file names.
+    Gets the processed CSV and MD file names from the .yml file then
+    calls the function to generate the MD file.
     """
-    if len(sys.argv) != 3:
-        print("this report generator takes two parameters, "
-              "an input file and an output file")
-    else:
-        print("input file: " + sys.argv[1])
-        print("output file: " + sys.argv[2])
-        generateReport(sys.argv[1], sys.argv[2])
+    try:
+        config = yaml.safe_load(open('../config/config.yml'))
+        processed_csv = config.get('OutputFile')
+        output_md = config.get('ReportFile')
+        generate_report(processed_csv, output_md)
+        print('Completed creating the MD file.')
+    except:
+        print('An exception occured in the main method.', sys.exc_info())
 
-
-def generateReport(infile, outfile):
-    """
-        Reads an infile, sorts the content, and
-        sends the sorted records and an outfile
-        destination to printMarkdown to print
-        Args:
-            infile: a file location to read data from
-            outfile: a destination file location
-        Result:
-            executes the printMarkdown function with
-            sorted records and an outfile to write
-            the results to.
-    """
+def generate_report(infile, outfile):
 
     file = []
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
 
-    sortedRecords = sorted(file,
-                           key=lambda k: int(k['appearances']),
-                           reverse=True)[:10]
+    sortedRecords = sorted(file, key=lambda k: float(k['number_of_drivers_involved_in_fatal_collisions_per_billion_miles']), reverse=True)[:10]
 
-    avenger = Avenger()
-    avenger.to_markdown(sortedRecords, outfile)
+    bad_drivers = BadDrivers()
+    bad_drivers.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
