@@ -1,6 +1,6 @@
 import sys
 
-#create function to convert Avengers file to UTF8
+#create function drinks_utf8
 def main(input_file_path, output_file_path):
     with open(input_file_path, encoding='ISO-8859-1 ') as f:
         text = f.read()
