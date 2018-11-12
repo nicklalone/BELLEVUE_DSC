@@ -152,7 +152,7 @@ class Biopic:
                     ofile.write('*  Director: %s \n' % biopic.director)
                     ofile.write('*  Year Released: %d \n' % biopic.year_release())
                     ofile.write('*  Countries Released: %s \n' % biopic.country)
-                    ofile.write('*  Box Office: $%sM\n' % format(biopic.box_office(), ",.2f"))
+                    ofile.write('*  Box Office: $%s million\n' % format(biopic.box_office(), ",.2f"))
                     ofile.write('*  Years Since Released: %d \n' % biopic.years_since_released())
                     ofile.write('*  URL: <%s>\n' % biopic.site())
         except BaseException as e:
