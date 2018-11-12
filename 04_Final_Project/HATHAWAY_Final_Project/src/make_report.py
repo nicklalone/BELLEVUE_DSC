@@ -1,8 +1,8 @@
 import sys
 import csv
 
-from msds510.avenger import Avenger as av
-# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
+from weather_check import Weathercheck
+
 def main():
     """interprets command line request
     Args:
@@ -39,12 +39,15 @@ def generateReport(infile, outfile):
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
 
-    sortedRecords = sorted(file,
-                           key=lambda k: int(k['appearances']),
-                           reverse=True)[:10]
 
-    avenger = av()
-    avenger.to_markdown(sortedRecords, outfile)
+    likelyList = []
+    for item in file:
+        if (item['if_you_had_a_smartwatch_like_the_soon_to_be_released_apple_watch_how_likely_or_unlikely_would_you_be_to_check_the_weather_on_that_device'] == 'Very likely'
+                or item['if_you_had_a_smartwatch_like_the_soon_to_be_released_apple_watch_how_likely_or_unlikely_would_you_be_to_check_the_weather_on_that_device']== 'Somewhat likely'):
+            likelyList.append(item)
+
+    weather = Weathercheck()
+    weather.to_markdown(likelyList, outfile)
 
 if __name__ == '__main__':
     main()
