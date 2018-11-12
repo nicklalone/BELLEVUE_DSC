@@ -11,3 +11,14 @@ YAML so I can use an external plain-text config file.
 
 I'm using the bad drivers data.
 
+## Part Two
+This week is about processing the CSV for bad driver.
+
+1. Processing the .csv
+2. Making a dictionary of your data.
+3. Processing the data and correcting its parameters.
+4. Generating a report of the top 10 of whatever that data is representing. What that markdown report provides is up to you.
+
+The constructs from the midterm will be used, but modified for the
+bad driver data set.
+
