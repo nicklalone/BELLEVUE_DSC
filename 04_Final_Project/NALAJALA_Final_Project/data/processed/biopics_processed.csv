@@ -1,0 +1,762 @@
+title,site,country,year_release,box_office,director,number_of_subjects,subject,type_of_subject,race_known,subject_race,person_of_color,subject_sex,lead_actor_actress,years_since_released
+10 Rillington Place,http://www.imdb.com/title/tt0066730/,UK,1971,0,Richard Fleischer,1,John Christie,Criminal,False,,False,Male,Richard Attenborough,47
+12 Years a Slave,http://www.imdb.com/title/tt2024544/,US/UK,2013,56.7,Steve McQueen,1,Solomon Northup,Other,True,African American,True,Male,Chiwetel Ejiofor,5
+127 Hours,http://www.imdb.com/title/tt1542344/,US/UK,2010,18.3,Danny Boyle,1,Aron Ralston,Athlete,False,,False,Male,James Franco,8
+1987,http://www.imdb.com/title/tt2833074/,Canada,2014,0,Ricardo Trogi,1,Ricardo Trogi,Other,True,White,False,Male,Jean-Carl Boucher,4
+20 Dates,http://www.imdb.com/title/tt0138987/,US,1998,0.537,Myles Berkowitz,1,Myles Berkowitz,Other,False,,False,Male,Myles Berkowitz,20
+21,http://www.imdb.com/title/tt0478087/,US,2008,81.2,Robert Luketic,1,Jeff Ma,Other,True,Asian American,True,Male,Jim Sturgess,10
+24 Hour Party People,http://www.imdb.com/title/tt0274309/,UK,2002,1.13,Michael Winterbottom,1,Tony Wilson,Musician,True,White,False,Male,Steve Coogan,16
+42,http://www.imdb.com/title/tt0453562/,US,2013,95.0,Brian Helgeland,1,Jackie Robinson,Athlete,True,African American,True,Male,Chadwick Boseman,5
+8 Seconds,http://www.imdb.com/title/tt0109021/,US,1994,19.6,John G. Avildsen,1,Lane Frost,Athlete,False,,False,Male,Luke Perry,24
+84 Charing Cross Road,http://www.imdb.com/title/tt0090570/,US/UK,1987,1.08,David Hugh Jones,2,Frank Doel,Author,False,,False,Male,Anthony Hopkins,31
+84 Charing Cross Road,http://www.imdb.com/title/tt0090570/,US/UK,1987,1.08,David Hugh Jones,2,Helene Hanff,Author,False,,False,Female,Anne Bancroft,31
+A Beautiful Mind,http://www.imdb.com/title/tt0268978/,US,2001,171.0,Ron Howard,1,John Nash,Academic,False,,False,Male,Russell Crowe,17
+A Dangerous Method,http://www.imdb.com/title/tt1571222/,Canada/UK,2011,5.7,David Cronenberg,3,Carl Gustav Jung,Academic,True,White,False,Male,Michael Fassbender,7
+A Dangerous Method,http://www.imdb.com/title/tt1571222/,Canada/UK,2011,5.7,David Cronenberg,3,Sigmund Freud,Academic,True,White,False,Male,Viggo Mortensen,7
+A Dangerous Method,http://www.imdb.com/title/tt1571222/,Canada/UK,2011,5.7,David Cronenberg,3,Sabina Spielrein,Academic,True,White,False,Female,Keira Knightley,7
+A Home of Our Own,http://www.imdb.com/title/tt0107130/,US,1993,1.7,Tony Bill,1,Frances Lacey,Other,False,,False,Female,Kathy Bates,25
+A Man Called Peter,http://www.imdb.com/title/tt0048337/,US,1955,0,Henry Koster,1,Peter Marshall,Other,True,White,False,Male,Richard Todd,63
+A Man for All Seasons,http://www.imdb.com/title/tt0060665/,UK,1966,0,Fred Zinnemann,1,Thomas More,Historical,True,White,False,Male,Paul Scofield,52
+A Matador's Mistress,http://www.imdb.com/title/tt0491046/,US/UK,2008,0,Menno Meyjes,2,Lupe Sino,Actress ,True,Hispanic (White),False,Female,PenÌ©lope Cruz,10
+A Matador's Mistress,http://www.imdb.com/title/tt0491046/,US/UK,2008,0,Menno Meyjes,2,Manuel RodrÌ_guez SÌÁnchez,Athlete,True,Hispanic (White),False,Male,Adrien Brody,10
+A Mighty Heart,http://www.imdb.com/title/tt0829459/,US/UK,2007,9.17,Michael Winterbottom,2,Daniel Pearl,Journalist,True,White,False,Male,Dan Futterman,11
+A Mighty Heart,http://www.imdb.com/title/tt0829459/,US/UK,2007,9.17,Michael Winterbottom,2,Mariane Pearl,Journalist,True,Multi racial,True,Female,Angelina Jolie,11
+A Song to Remember,http://www.imdb.com/title/tt0038104/,US,1945,0,Charles Vidor,1,Frederic Chopin,Musician,True,White,False,Male,Cornel Wilde,73
+Abe Lincoln in Illinois,http://www.imdb.com/title/tt0032181/,US,1940,0,John Cromwell,1,Abraham Lincoln,World leader,True,White,False,Male,Raymond Massey,78
+Above and Beyond,http://www.imdb.com/title/tt0044324/,US,1952,0,"Melvin Frank, Norman Panama",1,Paul Tibbets,Military,False,,False,Male,Robert Taylor,66
+Abraham Lincoln,http://www.imdb.com/title/tt0020620/,US,1930,0,D.W. Griffith,1,Abraham Lincoln,World leader,True,White,False,Male,Walter Huston,88
+Against the Ropes,http://www.imdb.com/title/tt0312329/,US,2004,5.88,Charles S. Dutton,1,Jackie Kallen,Athlete,False,,False,Female,Meg Ryan,14
+Al Capone,http://www.imdb.com/title/tt0052543/,US,1959,0,Richard Wilson,1,Al Capone,Criminal,True,White,False,Male,Rod Steiger,59
+Alexander,http://www.imdb.com/title/tt0346491/,US/UK,2004,34.3,Oliver Stone,1,Alexander the Great,Historical,True,White,False,Male,Colin Farrell,14
+Alexander the Great,http://www.imdb.com/title/tt0048937/,US,1956,0,Robert Rossen,1,Alexander the Great,Historical,True,White,False,Male,Richard Burton,62
+Ali,http://www.imdb.com/title/tt0248667/,US,2001,58.2,Michael Mann,1,Muhammad Ali,Athlete,True,African American,True,Male,Will Smith,17
+Alpha Dog,http://www.imdb.com/title/tt0426883/,US,2006,15.2,Nick Cassavetes,1,Jesse James Hollywood,Criminal,False,,False,Male,Emile Hirsch,12
+Amadeus,http://www.imdb.com/title/tt0086879/,US,1984,0.366,Milos Forman,2,Antonio Salieri,Musician,True,White,False,Male,F. Murray Abraham,34
+Amadeus,http://www.imdb.com/title/tt0086879/,US,1984,0.366,Milos Forman,2,Wolfgang Amadeus Mozart,Musician,True,White,False,Male,Tom Hulce,34
+Amazing Grace,http://www.imdb.com/title/tt0454776/,US/UK,2006,21.2,Michael Apted,1,William Wilberforce,Other,True,White,False,Male,Ioan Gruffudd,12
+Amelia,http://www.imdb.com/title/tt1129445/,US/Canada,2009,14.2,Mira Nair,1,Amelia Earhart,Other,True,White,False,Female,Hilary Swank,9
+American Gangster,http://www.imdb.com/title/tt0765429/,US/UK,2007,130.0,Ridley Scott,1,Frank Lucas,Criminal,True,African American,True,Male,Denzel Washington,11
+American Me,http://www.imdb.com/title/tt0103671/,US,1992,13.1,Edward James Olmos,1,Rodolfo Cadena,Criminal,True,Hispanic (Latino),True,Male,Edward James Olmos,26
+American Sniper,http://www.imdb.com/title/tt2179136/,US,2014,350.0,Clint Eastwood,1,Chris Kyle,Military,False,,False,Male,Bradley Cooper,4
+American Splendor,http://www.imdb.com/title/tt0305206/,US,2003,6.0,"Shari Springer Berman, Robert Pulcini",1,Harvey Pekar,Comedian,True,White,False,Male,Paul Giamatti,15
+An American Crime,http://www.imdb.com/title/tt0802948/,US,2007,0,Tommy O'Haver,2,Gertrude Baniszewski,Criminal,True,White,False,Female,Catherine Keener,11
+An American Crime,http://www.imdb.com/title/tt0802948/,US,2007,0,Tommy O'Haver,2,Sylvia Likens,Other,False,,False,Female,Ellen Page,11
+An Angel at My Table,http://www.imdb.com/title/tt0099040/,UK,1990,1.1,Jane Campion,1,Janet Frame,Author,True,White,False,Female,Kerry Fox,28
+Anastasia,http://www.imdb.com/title/tt0048947/,US,1956,0,Anatole Litvak,1,Anna Anderson / Anastasia,Other,True,White,False,Female,Ingrid Bergman,62
+Anna and the King of Siam,http://www.imdb.com/title/tt0038303/,US,1946,0,John Cromwell,1,Anna Leonowens,Other,True,Multi racial,False,Female,Irene Dunne,72
+Annie Get Your Gun,http://www.imdb.com/title/tt0042200/,US,1950,8.0,George Sidney,1,Annie Oakley,Athlete,True,White,False,Female,Betty Hutton,68
+Annie Oakley,http://www.imdb.com/title/tt0026073/,US,1935,0,George Stevens,1,Annie Oakley,Athlete,True,White,False,Female,Barbara Stanwyck,83
+Another Country,http://www.imdb.com/title/tt0086904/,UK,1984,0,Marek Kanievska,1,Guy Burgess,Military,False,,False,Male,Rupert Everett,34
+Antwone Fisher,http://www.imdb.com/title/tt0168786/,US,2002,21.1,Denzel Washington,1,Antwone Fisher,Military,True,African American,True,Male,Derek Luke,16
+Auto Focus,http://www.imdb.com/title/tt0298744/,US,2002,2.06,Paul Schrader,1,"Robert Edward ""Bob"" Crane",Actor,True,White,False,Male,Greg Kinnear,16
+Awakenings,http://www.imdb.com/title/tt0099077/,US,1990,52.1,Penny Marshall,1,Oliver Sacks,Medicine,True,White,False,Male,Robin Williams,28
+Baadasssss!,http://www.imdb.com/title/tt0367790/,US,2003,0.365,Mario Van Peebles,1,Melvin Van Peebles,Actor,True,African American,True,Male,Mario Van Peebles,15
+Baader,http://www.imdb.com/title/tt0309320/,UK,2002,0,Christopher Roth,1,Andreas Baader,Military,True,White,False,Male,Frank Giering,16
+Backbeat,http://www.imdb.com/title/tt0106339/,UK,1994,2.39,Iain Softley,2,John Lennon,Musician,True,White,False,Male,Ian Hart,24
+Backbeat,http://www.imdb.com/title/tt0106339/,UK,1994,2.39,Iain Softley,2,Stuart Sutcliffe,Musician,True,White,False,Male,Stephen Dorff,24
+Bandit Queen,http://www.imdb.com/title/tt0109206/,UK,1994,0.4,Shekhar Kapur,1,Phoolan Devi,Criminal,True,Indian,True,Female,Seema Biswas,24
+Barabbas,http://www.imdb.com/title/tt0055774/,US,1961,0,Richard Fleischer,1,Barabbas,Historical,True,White,False,Male,Anthony Quinn,57
+Basquiat,http://www.imdb.com/title/tt0115632/,US,1996,2.96,Julian Schnabel,1,Jean-Michel Basquiat,Artist,True,Multi racial,True,Male,Jeffrey Wright,22
+Bathory: Countess of Blood,http://www.imdb.com/title/tt0469640/,UK,2008,0,Juraj Jakubisko,1,Elizabeth Bathory,Criminal,True,White,False,Female,Anna Friel,10
+Battle Hymn,http://www.imdb.com/title/tt0050171/,US,1957,0,Douglas Sirk,1,Dean Hess,Military,False,,False,Male,Rock Hudson,61
+Beau Brummell,http://www.imdb.com/title/tt0046759/,US,1954,0,Curtis Bernhardt,1,George Brummell,Other,True,White,False,Male,Stewart Granger,64
+Becket,http://www.imdb.com/title/tt0057877/,US/UK,1964,0,Peter Glenville,2,King Henry II,Historical,True,White,False,Male,Peter O'Toole,54
+Becket,http://www.imdb.com/title/tt0057877/,US/UK,1964,0,Peter Glenville,2,Thomas Becket,Historical,True,White,False,Male,,54
+Becoming Jane,http://www.imdb.com/title/tt0416508/,UK,2007,18.7,Julian Jarrold,1,Jane Austen,Author,True,White,False,Female,Anne Hathaway,11
+Before Night Falls,http://www.imdb.com/title/tt0247196/,US,2000,4.22,Julian Schnabel,1,Reinaldo Arenas,Activist,True,Hispanic (Latin American),True,Male,Javier Bardem,18
+Behind the Lines,http://www.imdb.com/title/tt0120001/,Canada/UK,1997,0.0193,Gillies MacKinnon,1,Siegfried Loraine Sassoon,Military,True,Multi racial,False,Male,James Wilby,21
+Bernard and Doris,http://www.imdb.com/title/tt0470732/,US,2006,0,Bob Balaban,2,Bernard Lafferty,Other,True,White,False,Male,Ralph Fiennes,12
+Bernard and Doris,http://www.imdb.com/title/tt0470732/,US/UK,2006,0,Bob Balaban,2,Doris Duke,Other,True,White,False,Female,Susan Sarandon,12
+Best,http://www.imdb.com/title/tt0181311/,UK,2000,0,Mary McGuckian,1,George Best,Athlete,True,White,False,Male,John Lynch,18
+Beyond the Law,http://www.imdb.com/title/tt0103805/,US,1993,0,Larry Ferguson,1,Dan Black,Other,False,,False,Male,Charlie Sheen,25
+Beyond the Sea,http://www.imdb.com/title/tt0363473/,US/UK,2004,6.14,Kevin Spacey,1,Bobby Darin,Musician,True,White,False,Male,Kevin Spacey,14
+Big Eyes,http://www.imdb.com/title/tt1126590/,US/Canada,2014,14.5,Tim Burton,1,Margaret Keane,Artist,True,White,False,Female,Amy Adams,4
+Billy the Kid,http://www.imdb.com/title/tt0033389/,US,1941,0,David Miller,1,Henry McCarty (Billy the Kid),Criminal,True,White,False,Male,Robert Taylor,77
+Bird,http://www.imdb.com/title/tt0094747/,US,1988,2.18,Clint Eastwood,1,"Charlie ""Bird"" Parker",Musician,True,Multi racial,True,Male,Forest Whitaker,30
+Birdman of Alcatraz,http://www.imdb.com/title/tt0055798/,US,1962,0,John Frankenheimer,1,Robert Franklin Stroud,Criminal,False,,False,Male,Burt Lancaster,56
+Blaze,http://www.imdb.com/title/tt0096943/,US,1989,19.1,Ron Shelton,1,Earl Long,Politician,True,White,False,Male,Paul Newman,29
+Bloodsport,http://www.imdb.com/title/tt0092675/,US,1988,11.8,Newt Arnold,1,Frank Dux,Athlete,False,,False,Male,Jean-Claude Van Damme,30
+Blossoms in the Dust,http://www.imdb.com/title/tt0033407/,US,1941,0,Mervyn LeRoy,1,Edna Gladney,Other,False,,False,Female,Greer Garson,77
+Blow,http://www.imdb.com/title/tt0221027/,US,2001,52.9,Ted Demme,1,George Jung,Criminal,True,White,False,Male,Johnny Depp,17
+Blue,http://www.imdb.com/title/tt0106438/,UK,1993,1.72,Derek Jarman,1,Derek Jarman,Other,False,,False,Male,Derek Jarman,25
+Blue Caprice,http://www.imdb.com/title/tt2027064/,US,2013,0.0867,Alexandre Moors,1,John Allen Muhammad,Criminal,True,African American,True,Male,Isaiah Washington,5
+Bobby Jones: Stroke of Genius,http://www.imdb.com/title/tt0375104/,US,2004,2.69,Rowdy Herrington,1,Bobby Jones,Athlete,False,,False,Male,Jim Caviezel,14
+Bonnie and Clyde,http://www.imdb.com/title/tt0061418/,US,1967,0,Arthur Penn,2,Clyde Barrow,Criminal,False,,False,Male,Warren Beatty,51
+Bonnie and Clyde,http://www.imdb.com/title/tt0061418/,US,1967,0,Arthur Penn,2,Bonnie Parker,Criminal,False,,False,Female,Faye Dunaway,51
+Born on the Fourth of July,http://www.imdb.com/title/tt0096969/,US,1989,70.0,Oliver Stone,1,Ron Kovic,Military / activist,False,,False,Male,Tom Cruise,29
+Bound for Glory,http://www.imdb.com/title/tt0074235/,US,1976,0,Hal Ashby,1,Woody Guthrie,Singer,True,White,False,Male,David Carradine,42
+Boys Don't Cry,http://www.imdb.com/title/tt0171804/,US,1999,11.5,Kimberly Peirce,1,Brandon Teena,Other,False,,False,Male,Hilary Swank,19
+Boys Town,http://www.imdb.com/title/tt0029942/,US,1938,0,Norman Taurog,1,Father Edward Flanagan,Other,True,White,False,Male,Spencer Tracy,80
+Braveheart,http://www.imdb.com/title/tt0112573/,US,1995,75.6,Mel Gibson,1,William Wallace,Military,True,White,False,Male,Mel Gibson,23
+Breach,http://www.imdb.com/title/tt0401997/,US,2007,33.0,Billy Ray,1,Robert Hanssen,Criminal,True,White,False,Male,Chris Cooper,11
+Brigham Young,http://www.imdb.com/title/tt0032281/,US,1940,0,Henry Hathaway,1,Brigham Young,Other,True,White,False,Male,Dean Jagger,78
+Bright Star,http://www.imdb.com/title/tt0810784/,UK,2009,4.44,Jane Campion,2,John Keats,Author (poet),True,White,False,Male,Ben Whishaw,9
+Bright Star,http://www.imdb.com/title/tt0810784/,UK,2009,4.44,Jane Campion,2,Fanny Brawne,Other,False,,False,Female,Abbie Cornish,9
+Bronson,http://www.imdb.com/title/tt1172570/,UK,2008,0.105,Nicolas Winding Refn,1,Charles Bronson,Criminal,False,,False,Male,Tom Hardy,10
+"Brother Sun, Sister Moon",http://www.imdb.com/title/tt0069824/,UK,1972,0,Franco Zeffirelli,1,St. Francis of Assisi,Historical,True,White,False,Male,Graham Faulkner,46
+Bubble Boy,http://www.imdb.com/title/tt0258470/,US,2001,5.0,Blair Hayes,1,David Vetter,Medicine,False,,False,Male,Jake Gyllenhaal,17
+Buffalo Bill,http://www.imdb.com/title/tt0036677/,US,1944,0,William A. Wellman,1,William Cody,Other,True,White,False,Male,Joel McCrea,74
+Bugsy,http://www.imdb.com/title/tt0101516/,US,1991,49.1,Barry Levinson,1,Ben 'Bugsy' Siegel,Criminal,True,White,False,Male,Warren Beatty,27
+Burning Blue,http://www.imdb.com/title/tt1811307/,US,2013,0,"D.M.W. Greer With: Trent Ford, Tammy Blanchard, Morgan Spector",1,DMW Greer,Military,False,,False,Male,Trent Ford,5
+Buster,http://www.imdb.com/title/tt0094819/,UK,1988,0.54,David Green,1,Buster Edwards,Criminal,False,,False,Male,Phil Collins,30
+Butch Cassidy and the Sundance Kid,http://www.imdb.com/title/tt0064115/,US,1969,102.0,George Roy Hill,2,Butch Cassidy (Robert Leroy Parker),Criminal,True,White,False,Male,Paul Newman,49
+Butch Cassidy and the Sundance Kid,http://www.imdb.com/title/tt0064115/,US,1969,102.0,George Roy Hill,2,Harry Longabaugh,Criminal,True,White,False,Male,Robert Redford,49
+Cadillac Records,http://www.imdb.com/title/tt1042877/,US,2008,8.13,Darnell Martin,3,Etta James,Singer,True,African American,True,Female,BeyoncÌ© Knowles,10
+Cadillac Records,http://www.imdb.com/title/tt1042877/,US,2008,8.13,Darnell Martin,3,Muddy Water,Musician,True,African American,True,Male,Jeffrey Wright,10
+Cadillac Records,http://www.imdb.com/title/tt1042877/,US,2008,8.13,Darnell Martin,3,Leonard Chess,Musician,True,White,False,Male,Adrien Brody,10
+Caesar and Cleopatra,http://www.imdb.com/title/tt0038390/,UK,1945,0,Gabriel Pascal,2,Julius Caesar,Historical,True,White,False,Male,Claude Rains,73
+Caesar and Cleopatra,http://www.imdb.com/title/tt0038390/,UK,1945,0,Gabriel Pascal,2,Cleopatra,Historical,True,Middle Eastern,True,Female,Vivien Leigh,73
+Callas Forever,http://www.imdb.com/title/tt0274407/,UK,2002,0.446,Franco Zeffirelli,1,Maria Callas,Singer,True,Mediterranean,False,Female,Fanny Ardant,16
+Cannibal! The Musical,http://www.imdb.com/title/tt0115819/,US,1993,0,Trey Parker,1,Alferd Packer,Criminal,False,,False,Male,Trey Parker,25
+Capone,http://www.imdb.com/title/tt0072761/,US,1975,0,Steve Carver,1,Al Capone,Criminal,True,White,False,Male,Ben Gazzara,43
+Capote,http://www.imdb.com/title/tt0379725/,US/Canada,2005,28.7,Bennett Miller,1,Truman Capote,Author,False,,False,Male,Philip Seymour Hoffman,13
+Captain Kidd,http://www.imdb.com/title/tt0037576/,US,1945,0,Rowland V. Lee,1,William Kidd,Historical,True,White,False,Male,Charles Laughton,73
+Captain Phillips,http://www.imdb.com/title/tt1535109/,US,2013,107.0,Paul Greengrass,1,Richard Phillips,Military,False,,False,Male,Tom Hanks,5
+Caravaggio,http://www.imdb.com/title/tt0090798/,UK,1986,0.00315,Derek Jarman,1,Michelangelo Merisi de Caravaggio,Artist,True,White,False,Male,Multiple,32
+Carbine Williams,http://www.imdb.com/title/tt0044480/,US,1952,0,Richard Thorpe,1,David Marshall Williams,Other,False,,False,Male,James Stewart,66
+Carrington,http://www.imdb.com/title/tt0112637/,UK,1995,3.24,Christopher Hampton,2,Lytton Strachey,Author,True,White,False,Male,Jonathan Pryce,23
+Carrington,http://www.imdb.com/title/tt0112637/,UK,1995,3.24,Christopher Hampton,2,Dora Carrington,Artist,True,White,False,Female,Emma Thompson,23
+Carve Her Name with Pride,http://www.imdb.com/title/tt0051454/,UK,1958,0,Lewis Gilbert,1,Violette Bushell Szabo,Military,True,White,False,Female,Virginia McKenna,60
+Casino,http://www.imdb.com/title/tt0112641/,US,1995,42.4,Martin Scorsese,1,"Frank ""Lefty"" Rosenthal",Criminal,False,,False,Male,Robert De Niro,23
+Casino Jack,http://www.imdb.com/title/tt1194417/,Canada,2010,1.04,George Hickenlooper,1,Jack Abramoff,Other,False,,False,Male,Kevin Spacey,8
+Cass,http://www.imdb.com/title/tt0954981/,UK,2008,0,Jon S. Baird,1,Cass Pennant,Other,True,Caribbean,True,Male,Nonso Anozie,10
+Catch a Fire,http://www.imdb.com/title/tt0437232/,US/UK,2006,4.29,Phillip Noyce,1,Patrick Chamusso,Activist,True,African,True,Male,Derek Luke,12
+Catch Me If You Can,http://www.imdb.com/title/tt0264464/,US/Canada,2002,164.0,Steven Spielberg,1,Frank Abagnale Jr.,Criminal,False,,False,Male,Leonardo DiCaprio,16
+Cesar Chavez,http://www.imdb.com/title/tt1621046/,US,2014,5.55,Diego Luna,1,Cesar Chavez,Activist,True,Hispanic (Latino),True,Male,Michael PeÌ±a,4
+Chaplin,http://www.imdb.com/title/tt0103939/,US,1992,9.49,Richard Attenborough,1,Charles Spencer Chaplin,Comedian,True,White,False,Male,Robert Downey Jr.,26
+Charlie Wilson's War,http://www.imdb.com/title/tt0472062/,US,2007,66.6,Mike Nichols,1,Charlie Wilson,Military,False,,False,Male,Tom Hanks,11
+Chasing Mavericks,http://www.imdb.com/title/tt1629757/,US,2012,6.0,"Michael Apted, Curtis Hanson",1,Jay Moriarity,Athlete,False,,False,Male,Jonny Weston,6
+Chattahoochee,http://www.imdb.com/title/tt0099242/,US,1989,0.259,Mick Jackson,1,Emmett Foley,Military,False,,False,Male,Gary Oldman,29
+Che: Part One,http://www.imdb.com/title/tt0892255/,US,2008,1.73,Steven Soderbergh,1,Che Guevara,Activist,True,Hispanic (Latin American),False,Male,Benicio Del Toro,10
+Che: Part Two,http://www.imdb.com/title/tt0374569/,US,2008,0,Steven Soderbergh,1,Che Guevara,Activist,True,Hispanic (Latin American),False,Male,DemiÌÁn Bichir,10
+Che!,http://www.imdb.com/title/tt0064158/,US,1969,2.0,Richard Fleischer,1,Che Guevara,Activist,True,Hispanic (Latin American),False,Male,Omar Sharif,49
+Chisum,http://www.imdb.com/title/tt0065547/,US,1970,6.0,Andrew V. McLaglen,1,John Chisum,Other,False,,False,Male,John Wayne,48
+Christopher Columbus: The Discovery,http://www.imdb.com/title/tt0103962/,US/UK,1992,8.25,John Glen,1,Christopher Columbus,Other,True,White,False,Male,Georges Corraface,26
+Ciao Manhattan,http://www.imdb.com/title/tt0068379/,US,1972,0,"John Palmer, David Weisman",1,Edie Sedgwick,Actress,True,White,False,Female,Edie Sedgwick,46
+Cinderella Man,http://www.imdb.com/title/tt0352248/,US,2005,61.6,Ron Howard,1,James Braddock,Athlete,True,White,False,Male,Russell Crowe,13
+Cleopatra,http://www.imdb.com/title/tt0024991/,US,1934,0,Cecil B. DeMille,1,Cleopatra,Historical,True,Middle Eastern,True,Female,Claudette Colbert,84
+Cleopatra,http://www.imdb.com/title/tt0056937/,US/UK,1963,57.8,Joseph L. Mankiewicz,1,Cleopatra,Historical,True,Middle Eastern,True,Female,Elizabeth Taylor,55
+Coal Miner's Daughter,http://www.imdb.com/title/tt0080549/,US,1980,79.9,Michael Apted,1,Loretta Lynn,Singer,True,Multi racial,True,Female,Sissy Spacek,38
+Cobb,http://www.imdb.com/title/tt0109450/,US,1994,1.01,Ron Shelton,1,Ty Cobb,Athlete,True,White,False,Male,Tommy Lee Jones,24
+Communion,http://www.imdb.com/title/tt0097100/,US/UK,1989,1.92,Philippe Mora,1,Whitley Strieber,Other,False,,False,Male,Christopher Walken,29
+Compulsion,http://www.imdb.com/title/tt0052700/,US,1959,0,Richard Fleischer,2,Nathan Leopold Jr.,Criminal,True,White,False,Male,Dean Stockwell/Bradford Dillman,59
+Compulsion,http://www.imdb.com/title/tt0052700/,US,1959,0,Richard Fleischer,2,Richard Loeb,Criminal,True,White,False,Male,Dean Stockwell/Bradford Dillman,59
+Confessions of a Dangerous Mind,http://www.imdb.com/title/tt0270288/,US/Canada,2002,0,George Clooney,1,Chuck Barris,Actor,False,,False,Male,Sam Rockwell,16
+Control,http://www.imdb.com/title/tt0421082/,US/UK,2007,0.872,Anton Corbijn,1,Ian Curtis,Musician,False,,False,Male,Sam Riley,11
+Conviction,http://www.imdb.com/title/tt1244754/,US,2010,6.78,Tony Goldwyn,1,Betty Anne Waters,Other,False,,False,Female,Hilary Swank,8
+Copying Beethoven,http://www.imdb.com/title/tt0424908/,US,2006,0.353,Agnieszka Holland,1,Ludwig van Beethoven,Musician,True,White,False,Male,Ed Harris,12
+Counterpunch,http://www.imdb.com/title/tt2051850/,US,2013,0,Kenneth Castillo,1,Alvaro Orlando,Athlete,True,Hispanic (Latino),True,Male,Alvaro Orlando,5
+Creation,http://www.imdb.com/title/tt0974014/,UK,2009,0.341,Jon Amiel,1,Charles Darwin,Academic,False,,False,Male,Paul Bettany,9
+Cromwell,http://www.imdb.com/title/tt0065593/,UK,1970,0,Ken Hughes,1,Oliver Cromwell,Historical,True,White,False,Male,Richard Harris,48
+Cross Creek,http://www.imdb.com/title/tt0085380/,US,1983,0.2,Martin Ritt,1,Marjorie Kinnan Rawlings,Author,False,,False,Female,Mary Steenburgen,35
+Crutch,http://www.imdb.com/title/tt0422029/,US,2004,0,Rob Moretti,1,Rob Moretti,Actor,False,,False,Male,Eben Gordon,14
+Cry Freedom,http://www.imdb.com/title/tt0092804/,UK,1987,5.9,Richard Attenborough,1,Steve Biko,Activist,True,African,True,Male,Denzel Washington,31
+Custer of the West,http://www.imdb.com/title/tt0062844/,US,1967,0,Robert Siodmak,1,George Armstrong Custer,Military,True,White,False,Male,Robert Shaw,51
+Dahmer,http://www.imdb.com/title/tt0285728/,US,2002,0,David Jacobson,1,Jeffrey Dahmer,Criminal,True,White,False,Male,Jeremy Renner,16
+Dallas Buyers Club,http://www.imdb.com/title/tt0790636/,US,2013,27.3,Jean-Marc VallÌÄå©e,1,Ron Woodroof,Activist,False,,False,Male,Matthew McConaughey,5
+Dance with a Stranger,http://www.imdb.com/title/tt0088987/,UK,1985,0.138,Mike Newell,1,Ruth Ellis,Criminal,False,,False,Female,Miranda Richardson,33
+Dangerous Beauty,http://www.imdb.com/title/tt0118892/,US,1998,4.53,Marshall Herskovitz,1,Veronica Franco,Other,True,White,False,Female,Catherine McCormack,20
+Dangerous Minds,http://www.imdb.com/title/tt0112792/,US,1995,84.9,John N. Smith,1,Louanne Johnson,Teacher,True,White,False,Female,Michelle Pfeiffer,23
+De-Lovely,http://www.imdb.com/title/tt0352277/,US/UK,2004,13.3,Irwin Winkler,1,Cole Porter,Musician,True,White,False,Male,Kevin Kline,14
+Death in Granada,http://www.imdb.com/title/tt0117106/,US,1996,0.226,Marcos Zurinaga,1,Garcia Lorca,Author,True,Hispanic (White),False,Male,Andy Garcia,22
+Desert Dancer,http://www.imdb.com/title/tt2403393/,UK,2014,0.144,Richard Raymond,1,Afshin Ghaffarian,Artist,True,Middle Eastern,True,Male,Reece Ritchie,4
+Desert Flower,http://www.imdb.com/title/tt1054580/,UK,2009,0.0443,Sherry Hormann,1,Waris Dirie,Activist,True,African,True,Female,Soraya Omar-Scego (young) and Liya Kebede (older),9
+DÌ©sirÌ©e,http://www.imdb.com/title/tt0046903/,US,1954,0,Henry Koster,2,DÌ©sirÌ©e Clary,Historical,True,White,False,Female,Jean Simmons,64
+DÌ©sirÌ©e,http://www.imdb.com/title/tt0046903/,US,1954,0,Henry Koster,2,Napoleon Bonaparte,Historical,True,White,False,Male,Marlon Brando,64
+Devil's Knot,http://www.imdb.com/title/tt0804463/,US,2013,0,Atom Egoyan,3,Damien Echols,Criminal,False,,False,Male,James Hamrick,5
+Devil's Knot,http://www.imdb.com/title/tt0804463/,US,2013,0,Atom Egoyan,3,Jason Baldwin,Criminal,False,,False,Male,Seth Meriwether,5
+Devil's Knot,http://www.imdb.com/title/tt0804463/,US,2013,0,Atom Egoyan,3,"Jessie Misskelley, Jr.",Criminal,False,,False,Male,Kristopher Higgins,5
+Devotion,http://www.imdb.com/title/tt0038474/,US,1946,0,Curtis Bernhardt,3,Charlotte Bronte,Author,True,White,False,Female,Olivia de Havilland,72
+Devotion,http://www.imdb.com/title/tt0038474/,US,1946,0,Curtis Bernhardt,3,Emily Bronte,Author,True,White,False,Female,Ida Lupino,72
+Devotion,http://www.imdb.com/title/tt0038474/,US,1946,0,Curtis Bernhardt,3,Anne Bronte,Author,True,White,False,Female,Nancy Coleman,72
+Diana,http://www.imdb.com/title/tt1758595/,UK,2013,0.332,Oliver Hirschbiegel,1,Princess Diana,Other,True,White,False,Female,Naomi Watts,5
+Digging Up the Marrow,http://www.imdb.com/title/tt1991031/,US,2014,0,Adam Green,1,Adam Green,Other,False,,False,Male,Adam Green,4
+Dillinger,http://www.imdb.com/title/tt0037644/,US,1945,4.0,Max Nosseck,1,John Dillinger,Criminal,True,White,False,Male,Lawrence Tierney,73
+Dillinger,http://www.imdb.com/title/tt0069976/,US,1973,0,John Milius,1,John Dillinger,Criminal,False,,False,Male,Warren Oates,45
+Disraeli,http://www.imdb.com/title/tt0019823/,US,1929,0,Alfred E. Green,1,Benjamin Disraeli,World leader,True,White,False,Male,George Arliss,89
+Domino,http://www.imdb.com/title/tt0421054/,US/UK,2005,10.1,Tony Scott,1,Domino Harvey,Other,True,White,False,Female,Keira Knightley,13
+Donnie Brasco,http://www.imdb.com/title/tt0119008/,US,1997,42.0,Mike Newell,1,Joe Pistone (alias Donnie Brasco),Government,True,White,False,Male,Johnny Depp,21
+Downtown 81,http://www.imdb.com/title/tt0208993/,US,1981,0.1,Edo Bertoglio,1,Jean-Michel Basquiat,Artist,True,Multi racial,True,Male,Jean Michel Basquiat,37
+Dr. Ehrlich's Magic Bullet,http://www.imdb.com/title/tt0032413/,US,1940,0,William Dieterle,1,Paul Ehrlich,Medicine,True,White,False,Male,Edward G. Robinson,78
+Dragon: The Bruce Lee Story,http://www.imdb.com/title/tt0106770/,US,1993,35.1,Rob Cohen,1,Bruce Lee,Athlete,True,Asian American,True,Male,Jason Scott Lee,25
+Dreamchild,http://www.imdb.com/title/tt0089052/,UK,1985,0,Gavin Millar,1,Alice Liddell Hargreaves,Other,False,,False,Female,Coral Browne,33
+Ed Gein,http://www.imdb.com/title/tt0230169/,US/UK,2000,0.00571,Chuck Parello,1,Ed Gein,Criminal,False,,False,Male,Steve Railsback,18
+Ed Wood,http://www.imdb.com/title/tt0109707/,US,1994,5.89,Tim Burton,1,Edward D. Wood,Other,False,,False,Male,Johnny Depp,24
+"Edison, the Man",http://www.imdb.com/title/tt0032432/,US,1940,0,Clarence Brown,1,Thomas Edison,Academic,True,White,False,Male,Spencer Tracy,78
+Eichmann,http://www.imdb.com/title/tt0901481/,UK,2007,0,Robert Young,1,Adolf Eichmann,Military,True,White,False,Male,Thomas Kretschmann,11
+El cantante,http://www.imdb.com/title/tt0458522/,US,2006,7.56,Leon Ichaso,1,HÌ©ctor Lavoe,Musician,True,Hispanic (Latin American),True,Male,Marc Anthony,12
+El Cid,http://www.imdb.com/title/tt0054847/,US,1961,26.6,Anthony Mann,1,Rodrigo Diaz,Historical,True,Hispanic (White),False,Male,Charlton Heston,57
+Elizabeth,http://www.imdb.com/title/tt0127536/,US/UK,1998,30.0,Shekhar Kapur,1,Elizabeth I of England,Historical,True,White,False,Female,Cate Blanchett,20
+Elizabeth: The Golden Age,http://www.imdb.com/title/tt0414055/,US/UK,2007,16.3,Shekhar Kapur,1,Elizabeth I of England,Historical,True,White,False,Female,Cate Blanchett,11
+Erin Brockovich,http://www.imdb.com/title/tt0195685/,US,2000,126.0,Steven Soderbergh,1,Erin Brockovich,Activist,False,,False,Female,Julia Roberts,18
+Escape from Alcatraz,http://www.imdb.com/title/tt0079116/,US,1979,36.5,Don Siegel,3,Clarence Anglin,Criminal,False,,False,Male,Jack Thibeau,39
+Escape from Alcatraz,http://www.imdb.com/title/tt0079116/,US,1979,36.5,Don Siegel,3,Frank Morris,Criminal,False,,False,Male,Clint Eastwood,39
+Escape from Alcatraz,http://www.imdb.com/title/tt0079116/,US,1979,36.5,Don Siegel,3,John Anglin,Criminal,False,,False,Male,Fred Ward,39
+Evel Knievel,http://www.imdb.com/title/tt0067069/,US,1971,0,Marvin J. Chomsky,1,Evel Knievel,Athlete,True,White,False,Male,George Hamilton,47
+Everyman's War,http://www.imdb.com/title/tt1209319/,US,2009,0,Thad T. Smith,1,Don Smith,Military,False,,False,Male,Cole Carson,9
+Evita,http://www.imdb.com/title/tt0116250/,US,1996,50.0,Alan Parker,1,"Eva ""Evita"" Duarte de Peron",Actress / activist,True,Hispanic (Latin American),False,Female,Madonna,22
+Exodus: Gods and Kings,http://www.imdb.com/title/tt1528100/,UK,2014,65.0,Ridley Scott,1,Moses,Historical,True,Middle Eastern (White),False,Male,Christian Bale,4
+Factory Girl,http://www.imdb.com/title/tt0432402/,US,2006,1.65,George Hickenlooper,1,Edie Sedgwick,Actress,True,White,False,Female,Sienna Miller,12
+Fair Game,http://www.imdb.com/title/tt0977855/,US,2010,9.53,Doug Liman,1,Valerie Plame,Government,True,White,False,Female,Naomi Watts,8
+Fat Man and Little Boy,http://www.imdb.com/title/tt0097336/,US,1989,3.56,Roland JoffÌÄå©,2,Leslie Groves,Military,True,White,False,Male,Paul Newman,29
+Fat Man and Little Boy,http://www.imdb.com/title/tt0097336/,US,1989,3.56,Roland JoffÌÄå©,2,Robert Oppenheimer,Academic,True,White,False,Male,Dwight Schultz,29
+Fear Strikes Out,http://www.imdb.com/title/tt0050383/,US,1957,0,Robert Mulligan,1,Jimmy Piersall,Athlete,False,,False,Male,Anthony Perkins,61
+Fellini's Casanova,http://www.imdb.com/title/tt0074291/,US,1976,0,Federico Fellini,1,Giacomo Casanova,Historical,True,White,False,Male,Donald Sutherland,42
+Find Me Guilty,http://www.imdb.com/title/tt0419749/,US,2006,1.17,Sidney Lumet,1,Jackie DiNorscio,Criminal,True,White,False,Male,Vin Diesel,12
+Finding Graceland,http://www.imdb.com/title/tt0120026/,US,1998,0,David Winkler,1,Elvis Presley,Musician,True,White,False,Male,Harvey Keitel,20
+Finding Neverland,http://www.imdb.com/title/tt0308644/,US/UK,2004,51.7,Marc Forster,1,J.M. Barrie,Author,True,White,False,Male,Johnny Depp,14
+Fire in the Sky,http://www.imdb.com/title/tt0106912/,US,1993,20.1,Robert Lieberman,1,Travis Walton,Other,False,,False,Male,D.B. Sweeney,25
+Flash of Genius,http://www.imdb.com/title/tt1054588/,US/Canada,2008,4.23,Marc Abraham,1,Robert Kearns,Other,False,,False,Male,Greg Kinnear,10
+Foxcatcher,http://www.imdb.com/title/tt1100089/,US,2014,12.1,Bennett Miller,1,Mark Schultz,Athlete,True,White,False,Male,Channing Tatum,4
+Frances,http://www.imdb.com/title/tt0083967/,US,1982,5.0,Graeme Clifford,1,Frances Farmer,Actress,True,White,False,Female,Jessica Lange,36
+Francis of Assisi,http://www.imdb.com/title/tt0054892/,US,1961,0,Michael Curtiz,1,Francis Bernardone,Historical,True,White,False,Male,Bradford Dillman,57
+Frank & Jesse,http://www.imdb.com/title/tt0109835/,US,1995,0,Robert Boris,2,Frank James,Criminal,True,White,False,Male,Bill Paxton,23
+Frank & Jesse,http://www.imdb.com/title/tt0109835/,US,1995,0,Robert Boris,2,Jesse James,Criminal,True,White,False,Male,Rob Lowe,23
+Frankie & Alice,http://www.imdb.com/title/tt1221208/,Canada,2010,0.693,Geoffrey Sax,1,Frankie Murdoch,Other,True,African American,True,Female,Halle Berry,8
+Freedom Writers,http://www.imdb.com/title/tt0463998/,US,2007,36.6,Richard LaGravenese,1,Erin Gruwell,Other,True,White,False,Female,Hilary Swank,11
+Freud,http://www.imdb.com/title/tt0055998/,US,1962,0,John Huston,1,Sigmund Freud,Academic,True,White,False,Male,Montgomery Clift,56
+Frida,http://www.imdb.com/title/tt0120679/,US/Canada,2002,25.8,Julie Taymor,1,Frida Kahlo,Artist,True,Hispanic (Latin American),True,Female,Salma Hayek,16
+Fruitvale Station,http://www.imdb.com/title/tt2334649/,US,2013,16.1,Ryan Coogler,1,Oscar Grant III,Other,True,African American,True,Male,Michael B. Jordan,5
+Funny Girl,http://www.imdb.com/title/tt0062994/,US,1968,0.223,William Wyler,1,Fanny Brice,Actress,True,White,False,Female,Barbra Streisand,50
+Fur: An Imaginary Portrait of Diane Arbus,http://www.imdb.com/title/tt0422295/,US,2006,0.221,Steven Shainberg,1,Diane Arbus,Other,True,White,False,Female,Nicole Kidman,12
+Gandhi,http://www.imdb.com/title/tt0083987/,UK,1982,0,Richard Attenborough,1,Mahatma Gandhi,Activist,True,Indian,True,Male,Ben Kingsley,36
+Gentleman Jim,http://www.imdb.com/title/tt0034778/,US,1942,0,Raoul Walsh,1,James J Corbett,Athlete,True,White,False,Male,Errol Flynn,76
+Geronimo,http://www.imdb.com/title/tt0056016/,US,1962,0,Arnold Laven,1,Geronimo,Military,True,Native American,True,Male,Chuck Connors,56
+Get on Up,http://www.imdb.com/title/tt2473602/,US/UK,2014,30.5,Tate Taylor,1,James Brown,Singer,True,African American,True,Male,Chadwick Boseman,4
+Get Rich or Die Tryin',http://www.imdb.com/title/tt0430308/,US/Canada,2005,31.0,Jim Sheridan,1,Curtis '50 Cent' Jackson,Singer,True,African American,True,Male,50 Cent,13
+Girl with a Pearl Earring,http://www.imdb.com/title/tt0335119/,UK,2003,11.6,Peter Webber,1,Johannes Vermeer,Artist,True,White,False,Male,Colin Firth,15
+"Girl, Interrupted",http://www.imdb.com/title/tt0172493/,US,1999,28.9,James Mangold,1,Susanna Kaysen,Author,False,,False,Female,Winona Ryder,19
+Glory Road,http://www.imdb.com/title/tt0385726/,US,2006,42.6,James Gartner,1,Don Haskins,Athlete,False,,False,Male,"With: Josh Lucas, Derek Luke, Austin Nichols",12
+Gods and Monsters,http://www.imdb.com/title/tt0120684/,US/UK,1998,6.39,Bill Condon,1,James Whale,Other,True,White,False,Male,Ian McKellen,20
+Goltzius and the Pelican Company,http://www.imdb.com/title/tt1851006/,UK,2012,0,Peter Greenaway,1,Hendrik Goltzius,Artist,True,White,False,Male,Ramsey Nasr,6
+"Good Morning, Vietnam",http://www.imdb.com/title/tt0093105/,US,1987,124.0,Barry Levinson,1,Adrian Cronauer,Media,False,,False,Male,Robin Williams,31
+Good Vibrations,http://www.imdb.com/title/tt1920945/,UK,2012,0,"Lisa Barros D'Sa, Glenn Leyburn",1,Terri Hooley,Musician,False,,False,Male,Richard Dormer,6
+Goodfellas,http://www.imdb.com/title/tt0099685/,US,1990,46.8,Martin Scorsese,1,Henry Hill,Criminal,True,White,False,Male,Ray Liotta,28
+Gorillas in the Mist,http://www.imdb.com/title/tt0095243/,US,1988,24.7,Michael Apted,1,Dian Fossey,Academic,False,,False,Female,Sigourney Weaver,30
+Goya's Ghosts,http://www.imdb.com/title/tt0455957/,US,2006,1.0,Milos Forman,1,Francisco Goya,Artist,True,Hispanic (White),False,Male,Stellan SkarsgÌ´rd,12
+Grace of Monaco,http://www.imdb.com/title/tt2095649/,US,2014,0,Olivier Dahan,1,Grace Kelly,Actress,True,White,False,Male,Nicole Kidman,4
+Gracie,http://www.imdb.com/title/tt0441007/,US,2007,2.96,Davis Guggenheim,1,Elisabeth Shue,Athlete,True,White,False,Female,Carly Schroeder,11
+Greased Lightning,http://www.imdb.com/title/tt0076106/,US,1977,0,Michael Schultz,1,Wendell Scott,Athlete,True,African American,True,Male,Richard Pryor,41
+Great Balls of Fire!,http://www.imdb.com/title/tt0097457/,US,1989,13.7,Jim McBride,1,Jerry Lee Lewis,Musician,False,,False,Male,Dennis Quaid,29
+Grey Owl,http://www.imdb.com/title/tt0128239/,Canada/UK,1999,0.315,Richard Attenborough,1,Grey Owl (Archibald Belaney),Other,True,Multi racial,True,Male,Pierce Brosnan,19
+Gypsy,http://www.imdb.com/title/tt0056048/,US,1962,0,Mervyn LeRoy,2,Gypsy Rose Lee,Artist,True,White,False,Female,Natalie Wood,56
+Gypsy,http://www.imdb.com/title/tt0056048/,US,1962,0,Mervyn LeRoy,2,Rose Thompson Hovick,Other,True,White,False,Female,Rosalind Russell,56
+Hans Christian Andersen,http://www.imdb.com/title/tt0044685/,US,1952,0,Charles Vidor,1,Hans Christian Andersen,Author,True,White,False,Male,Danny Kaye,66
+Harlow,http://www.imdb.com/title/tt0059252/,US,1965,0,Gordon Douglas,1,Jean Harlow,Actress,True,White,False,Female,Carroll Baker,53
+Heart Like a Wheel,http://www.imdb.com/title/tt0085656/,US,1983,0,Jonathan Kaplan,1,Shirley Muldowney,Athlete,True,White,False,Female,Bonnie Bedelia,35
+Heaven & Earth,http://www.imdb.com/title/tt0107096/,US,1993,5.86,Oliver Stone,1,Le Ly Hayslip,Other,True,Asian American,True,Female,Hiep Thi Le,25
+Hell to Eternity,http://www.imdb.com/title/tt0053901/,US,1960,0,Phil Karlson,1,Guy Gabaldon,Military,True,Hispanic (Latino),True,Male,Jeffrey Hunter,58
+Henry & June,http://www.imdb.com/title/tt0099762/,US,1990,11.6,Philip Kaufman,3,Henry Miller,Author,True,White,False,Male,Fred Ward,28
+Henry & June,http://www.imdb.com/title/tt0099762/,US,1990,11.6,Philip Kaufman,3,AnaÌøs Nin,Author,True,White,False,Female,Maria de Medeiros,28
+Henry & June,http://www.imdb.com/title/tt0099762/,US,1990,11.6,Philip Kaufman,3,June Miller,Other,True,White,False,Female,Uma Thurman,28
+Henry V,http://www.imdb.com/title/tt0036910/,UK,1944,0,Laurence Olivier,1,Henry V of England,Historical,True,White,False,Male,Laurence Olivier,74
+Henry V,http://www.imdb.com/title/tt0097499/,UK,1989,10.2,Kenneth Branagh,1,Henry V of England,Historical,True,White,False,Male,Kenneth Branagh,29
+High Roller: The Stu Ungar Story,http://www.imdb.com/title/tt0338467/,US,2003,0,A.W. Vidmer,1,Stu Ungar,Other,True,White,False,Male,Michael Imperioli,15
+Hilary and Jackie,http://www.imdb.com/title/tt0150915/,UK,1998,4.87,Anand Tucker,2,Jacqueline du PrÌ©,Musician,True,White,False,Female,Emily Watson,20
+Hilary and Jackie,http://www.imdb.com/title/tt0150915/,UK,1998,4.87,Anand Tucker,2,Hilary du PrÌ©-Finzi,Musician,True,White,False,Female,Rachel Griffiths,20
+His Majesty O'Keefe,http://www.imdb.com/title/tt0045876/,US,1954,0,Byron Haskin,1,David Dion O'Keefe,Other,True,White,False,Male,Burt Lancaster,64
+Hitchcock,http://www.imdb.com/title/tt0975645/,US/UK,2012,6.0,Sacha Gervasi,2,Alfred Hitchcock,Other,True,White,False,Male,Anthony Hopkins,6
+Hitchcock,http://www.imdb.com/title/tt0975645/,US/UK,2012,6.0,Sacha Gervasi,2,Alma Reville,Other,True,White,False,Female,Helen Mirren,6
+Hitler: A Film from Germany,http://www.imdb.com/title/tt0076147/,UK,1977,0,Hans-JÌ_rgen Syberberg,1,Adolf Hitler,Military,True,White,False,Male,Heinz Schubert,41
+Hitler: The Last Ten Days,http://www.imdb.com/title/tt0070184/,UK,1973,0,Ennio De Concini,1,Adolf Hitler,Military,True,White,False,Male,Alec Guinness,45
+Hoffa,http://www.imdb.com/title/tt0104427/,US,1992,24.3,Danny DeVito,1,Jimmy Hoffa,Activist,True,White,False,Male,Jack Nicholson,26
+Hollywoodland,http://www.imdb.com/title/tt0427969/,US,2006,14.4,Allen Coulter,1,George Reeves,Actor,False,,False,Male,Ben Affleck,12
+Houdini,http://www.imdb.com/title/tt0045886/,US,1953,0,George Marshall,1,Harry Houdini,Other,True,White,False,Male,Tony Curtis,65
+Howl,http://www.imdb.com/title/tt1049402/,US,2010,0.617,"Rob Epstein, Jeffrey Friedman",1,Allen Ginsberg,Author,True,White,False,Male,James Franco,8
+Hunger,http://www.imdb.com/title/tt0986233/,UK,2008,0.154,Steve McQueen,1,Bobby Sands,Activist,True,White,False,Male,Michael Fassbender,10
+Hyde Park on Hudson,http://www.imdb.com/title/tt1477855/,UK,2012,6.37,Roger Michell,2,Franklin Delano Roosevelt,World leader,True,White,False,Male,Bill Murray,6
+Hyde Park on Hudson,http://www.imdb.com/title/tt1477855/,UK,2012,6.37,Roger Michell,2,Margaret Suckley,Other,False,,False,Female,Laura Linney,6
+I Am a Sex Addict,http://www.imdb.com/title/tt0428649/,US,2005,0.113,Caveh Zahedi,1,Caveh Zahedi,Actor,True,Middle Eastern,True,Male,Caveh Zahedi,13
+I Love You Phillip Morris,http://www.imdb.com/title/tt1045772/,US,2009,2.04,"Glenn Ficarra, John Requa",1,Steven Russell,Criminal,False,,False,Male,Jim Carrey,9
+I Shot Andy Warhol,http://www.imdb.com/title/tt0116594/,US/UK,1996,1.81,Mary Harron,1,Valerie Solanas,Activist,True,Hispanic (White),False,Female,Lil Taylor,22
+I Want to Live!,http://www.imdb.com/title/tt0051758/,US,1958,0,Robert Wise,1,Barbara Graham,Criminal,False,,False,Female,Susan Hayward,60
+I'll Cry Tomorrow,http://www.imdb.com/title/tt0048191/,US,1955,0,Daniel Mann,1,Lillian Roth,Actress,True,White,False,Female,Susan Hayward,63
+I'll See You in My Dreams,http://www.imdb.com/title/tt0043669/,US,1951,0,Michael Curtiz,1,Gus Kahn,Musician,True,White,False,Male,Danny Thomas,67
+I'm Not There.,http://www.imdb.com/title/tt0368794/,US/Canada,2007,4.0,Todd Haynes,1,Bob Dylan,Musician,True,White,False,Male,-,11
+If You Could See What I Hear,http://www.imdb.com/title/tt0084117/,Canada,1982,0,Eric Till,1,Tom Sullivan,Singer,True,White,False,Male,Marc Singer,36
+Immortal Beloved,http://www.imdb.com/title/tt0110116/,US/UK,1994,14.4,Bernard Rose,1,Ludwig van Beethoven,Musician,True,White,False,Male,Gary Oldman,24
+Impromptu,http://www.imdb.com/title/tt0102103/,UK,1991,4.08,James Lapine,2,FrÌ©dÌ©ric FranÌ¤ois Chopin,Musician,True,White,False,Male,Hugh Grant,27
+Impromptu,http://www.imdb.com/title/tt0102103/,UK,1991,4.08,James Lapine,2,George Sand / Aurore,Other,True,White,False,Female,Judy Davis,27
+In Love and War,http://www.imdb.com/title/tt0116621/,US,1996,14.5,Richard Attenborough,2,Ernest Hemingway,Media,True,White,False,Male,Chris O'Donnell,22
+In Love and War,http://www.imdb.com/title/tt0116621/,US,1996,14.5,Richard Attenborough,2,Agnes von Kurowsky,Other,True,White,False,Female,Sandra Bullock,22
+In the Name of the Father,http://www.imdb.com/title/tt0107207/,US/UK,1993,25.0,Jim Sheridan,1,Gerry Conlon,Other,True,White,False,Male,Daniel Day-Lewis,25
+Infamous,http://www.imdb.com/title/tt0420609/,US,2006,1.15,Douglas McGrath,1,Truman Capote,Other,False,,False,Male,Toby Jones,12
+Infinity,http://www.imdb.com/title/tt0116635/,US,1996,0.146,Matthew Broderick,1,Richard Feynman,Academic,False,,False,Male,Matthew Broderick,22
+Interrupted Melody,http://www.imdb.com/title/tt0048210/,US,1955,0,Curtis Bernhardt,1,Marjorie Lawrence,Singer,True,White,False,Female,Eleanor Parker,63
+Into the Wild,http://www.imdb.com/title/tt0758758/,US,2007,18.4,Sean Penn,1,Christopher McCandless,Athlete,False,,False,Male,Emile Hirsch,11
+Invictus,http://www.imdb.com/title/tt1057500/,US,2009,37.5,Clint Eastwood,2,Nelson Mandela,World leader,True,African,True,Male,Morgan Freeman,9
+Invictus,http://www.imdb.com/title/tt1057500/,US,2009,37.5,Clint Eastwood,2,FranÌ¤ois Pienaar,Athlete,True,White,False,Male,Matt Damon,9
+Invincible,http://www.imdb.com/title/tt0445990/,US,2006,57.8,Ericson Core,1,Vince Papale,Athlete,False,,False,Male,Mark Wahlberg,12
+Iris,http://www.imdb.com/title/tt0280778/,US/UK,2001,1.2,Richard Eyre,1,Iris Murdoch,Author,True,White,False,Female,Judi Dench and Kate Winslet,17
+Isadora,http://www.imdb.com/title/tt0063141/,UK,1968,0,Karel Reisz,1,Isadora Duncan,Artist,False,,False,Female,Vanessa Redgrave,50
+Isn't She Great,http://www.imdb.com/title/tt0141399/,US/UK,2000,2.95,Andrew Bergman,1,Jacqueline Susann,Author,True,White,False,Female,Bette Midler,18
+iSteve,http://www.imdb.com/title/tt2782834/,US,2013,0,Ryan Perez,1,Steve Jobs,Other,True,Multi racial,True,Male,Justin Long,5
+J. Edgar,http://www.imdb.com/title/tt1616195/,US,2011,37.3,Clint Eastwood,1,J. Edgar Hoover,Government,True,White,False,Male,Leonardo DiCaprio,7
+Jamesy Boy,http://www.imdb.com/title/tt1673734/,US,2014,0,Trevor White,1,James Burns,Criminal,False,,False,Male,Spencer Lofranco,4
+Jappeloup,http://www.imdb.com/title/tt2018079/,Canada,2013,0,Christian Duguay,1,"Pierre Durand, Jr.",Athlete,True,White,False,Male,Guillaume Canet,5
+Jean Charles,http://www.imdb.com/title/tt0989007/,UK,2009,0,Henrique Goldman,1,Jean Charles de Menezes,Other,True,White,False,Male,Selton Mello,9
+Jefferson in Paris,http://www.imdb.com/title/tt0113463/,US,1995,2.47,James Ivory,1,Thomas Jefferson,Historical,True,White,False,Male,Nick Nolte,23
+Jersey Boys,http://www.imdb.com/title/tt1742044/,US,2014,47.0,Clint Eastwood,4,Bob Gaudio,Musician,True,White,False,Male,Erich Bergen,4
+Jersey Boys,http://www.imdb.com/title/tt1742044/,US,2014,47.0,Clint Eastwood,4,Frankie Valli,Musician,True,White,False,Male,John Lloyd Young,4
+Jersey Boys,http://www.imdb.com/title/tt1742044/,US,2014,47.0,Clint Eastwood,4,Nick Massi,Musician,True,White,False,Male,Michael Lomenda,4
+Jersey Boys,http://www.imdb.com/title/tt1742044/,US,2014,47.0,Clint Eastwood,4,Tommy DeVito,Musician,True,White,False,Male,Vincent Piazza,4
+Jesse James,http://www.imdb.com/title/tt0031507/,US,1939,0,Henry King,1,Jesse James,Criminal,True,White,False,Male,Tyrone Power,79
+Jim Thorpe -- All-American,http://www.imdb.com/title/tt0043687/,US,1951,0,Michael Curtiz,1,Jim Thorpe,Athlete,True,Native American,True,Male,Burt Lancaster,67
+Jimi: All Is by My Side,http://www.imdb.com/title/tt2402085/,US/UK,2013,0.323,John Ridley,1,Jimi Hendrix,Musician,True,Multi racial,True,Male,AndrÌ© Benjamin,5
+Jinnah,http://www.imdb.com/title/tt0183306/,UK,1998,0,Jamil Dehlavi,1,Mohammad Ali Jinnah,Other,True,Middle Eastern,True,Male,Christopher Lee,20
+"Jo Jo Dancer, Your Life Is Calling",http://www.imdb.com/title/tt0091295/,US,1986,18.0,Richard Pryor,1,Richard Pryor,Comedian,True,African American,True,Male,Richard Pryor,32
+Joan of Arc,http://www.imdb.com/title/tt0040491/,US,1948,0,Victor Fleming,1,Joan of Arc,Historical,True,White,False,Female,Ingrid Bergman,70
+Jobs,http://www.imdb.com/title/tt2357129/,US,2013,16.1,Joshua Michael Stern,1,Steve Jobs,Other,True,Multi racial,True,Male,Ashton Kutcher,5
+John Paul Jones,http://www.imdb.com/title/tt0052946/,US,1959,0,John Farrow,1,John Paul Jones,Military,True,White,False,Male,Robert Stack,59
+Juarez,http://www.imdb.com/title/tt0031516/,US,1939,0,William Dieterle,1,Benito Juarez,World leader,True,Hispanic (Latin American),True,Male,Paul Muni,79
+Julie & Julia,http://www.imdb.com/title/tt1135503/,US,2009,94.1,Nora Ephron,2,Julia Child,Other,False,,False,Female,Meryl Streep,9
+Julie & Julia,http://www.imdb.com/title/tt1135503/,US,2009,94.1,Nora Ephron,2,Julia Powell,Other,False,,False,Female,Amy Adams,9
+Kid Cannabis,http://www.imdb.com/title/tt0780548/,US,2014,0.00557,John Stockwell,1,Nate Norman,Criminal,False,,False,Male,Jonathan Daniel Brown,4
+Kill the Irishman,http://www.imdb.com/title/tt1416801/,US,2011,1.19,Jonathan Hensleigh,1,Danny Greene,Criminal,True,White,False,Male,Ray Stevenson,7
+Kill the Messenger,http://www.imdb.com/title/tt1216491/,US,2014,2.45,Michael Cuesta,1,Gary Webb,Media,False,,False,Male,Jeremy Renner,4
+Kill Your Darlings,http://www.imdb.com/title/tt1311071/,US,2013,1.03,John Krokidas,1,Allen Ginsberg,Author,True,White,False,Male,Daniel Radcliffe,5
+Killer: A Journal of Murder,http://www.imdb.com/title/tt0113542/,US,1995,0.06570000000000001,Tim Metcalfe,1,Carl Panzram,Criminal,True,White,False,Male,James Woods,23
+King David,http://www.imdb.com/title/tt0089420/,US,1985,0,Bruce Beresford,1,David,Historical,True,Middle Eastern (White),False,Male,Richard Gere,33
+King of Kings,http://www.imdb.com/title/tt0055047/,US,1961,0,Nicholas Ray,1,Jesus,Historical,True,Middle Eastern (White),False,Male,Jeffrey Hunter,57
+Kinsey,http://www.imdb.com/title/tt0362269/,US,2004,10.2,Bill Condon,1,Alfred Kinsey,Academic,True,White,False,Male,Liam Neeson,14
+Klimt,http://www.imdb.com/title/tt0417871/,UK,2006,0,Raoul Ruiz,1,Gustav Klimt,Artist,True,White,False,Male,John Malkovich,12
+Knute Rockne All American,http://www.imdb.com/title/tt0032676/,US,1940,0,Lloyd Bacon,1,Knute Rockne,Athlete,True,White,False,Male,Pat O'Brien,78
+Korczak,http://www.imdb.com/title/tt0099949/,UK,1990,0,Andrzej Wajda,1,Janusz Korczak,Other,True,White,False,Male,Wojciech Pszoniak,28
+Kundun,http://www.imdb.com/title/tt0119485/,US,1997,5.53,Martin Scorsese,1,Dalai Lama,Activist,True,Asian,True,Male,Tenzin Thuthob Tsarong,21
+La Bamba,http://www.imdb.com/title/tt0093378/,US,1987,54.2,Luis Valdez,1,Ritchie Valens,Musician,True,Hispanic (Latino),True,Male,Lou Diamond Phillips,31
+La Vie en Rose,http://www.imdb.com/title/tt0450188/,Canada/UK,2007,10.3,Olivier Dahan,1,Ìädith Piaf.,Singer,True,White,False,Female,Marion Cotillard,11
+Lady Jane,http://www.imdb.com/title/tt0091374/,UK,1986,0.278,Trevor Nunn,1,Lady Jane Grey,Historical,False,,False,Female,Helena Bonham Carter,32
+Lady Sings the Blues,http://www.imdb.com/title/tt0068828/,US,1972,9.6,Sidney J. Furie,1,Billie Holiday,Musician,True,African American,True,Female,Diana Ross,46
+Last Days,http://www.imdb.com/title/tt0403217/,US,2005,0.455,Gus Van Sant,1,Kurt Cobain,Musician,True,White,False,Male,Michael Pitt,13
+Lawrence of Arabia,http://www.imdb.com/title/tt0056172/,UK,1962,0.342,David Lean,1,Thomas Edward Lawrence,Military,True,White,False,Male,Peter O'Toole,56
+Lee Daniels' The Butler,http://www.imdb.com/title/tt1327773/,US,2013,117.0,Lee Daniels,1,Cecil Gaines,Other,True,African American,True,Male,Forest Whitaker,5
+Lenny,http://www.imdb.com/title/tt0071746/,US,1974,0,Bob Fosse,1,Lenny Bruce,Comedian,True,White,False,Male,Dustin Hoffman,44
+Lincoln,http://www.imdb.com/title/tt0443272/,US,2012,182.0,Steven Spielberg,1,Abraham Lincoln,World leader,True,White,False,Male,Daniel Day-Lewis,6
+Lion of the Desert,http://www.imdb.com/title/tt0081059/,US,1981,0,Moustapha Akkad,1,Omar Mukhtar,Activist,True,Middle Eastern,True,Male,Anthony Quinn,37
+Lisztomania,http://www.imdb.com/title/tt0073298/,UK,1975,0,Ken Russell,1,Franz Liszt,Musician,True,White,False,Male,Roger Daltrey,43
+Little Ashes,http://www.imdb.com/title/tt1104083/,UK,2008,0.48,Paul Morrison,1,Salvador DalÌ_,Artist,True,Multi racial,True,Male,Robert Pattinson,10
+Lone Survivor,http://www.imdb.com/title/tt1091191/,US,2013,125.0,Peter Berg,1,Marcus Luttrell,Military,False,,False,Male,Mark Wahlberg,5
+Lords of Dogtown,http://www.imdb.com/title/tt0355702/,US,2005,11.0,Catherine Hardwicke,3,Jay Adams,Athlete,False,,False,Male,Emile Hirsch,13
+Lords of Dogtown,http://www.imdb.com/title/tt0355702/,US,2005,11.0,Catherine Hardwicke,3,Tony Alva,Athlete,True,Hispanic (Latino),True,Male,Victor Rasuk,13
+Lords of Dogtown,http://www.imdb.com/title/tt0355702/,US,2005,11.0,Catherine Hardwicke,3,Stacy Peralta,Athlete,False,,False,Male,John Robinson,13
+Louis Cyr,http://www.imdb.com/title/tt1657513/,Canada,2013,0,Daniel Roby,1,Louis Cyr,Athlete,True,White,False,Male,Antoine Bertrand,5
+Love & Mercy,http://www.imdb.com/title/tt0903657/,US,2014,9.26,Bill Pohlad,1,Brian Wilson,Musician,True,White,False,Male,John Cusack,4
+Love Is a Many-Splendored Thing,http://www.imdb.com/title/tt0048316/,US,1955,0,Henry King,1,Han Suyin,Other,True,Eurasian,True,Female,Jennifer Jones,63
+Love Is the Devil: Study for a Portrait of Francis Bacon,http://www.imdb.com/title/tt0119577/,US/UK,1998,0.343,John Maybury,1,Francis Bacon,Artist,True,White,False,Male,Derek Jacobi,20
+Love Me or Leave Me,http://www.imdb.com/title/tt0048317/,US,1955,0,Charles Vidor,1,Ruth Etting,Singer,False,,False,Female,Doris Day,63
+Lovelace,http://www.imdb.com/title/tt1426329/,US,2013,0.355,"Rob Epstein, Jeffrey Friedman",1,Linda Lovelace,Actress,True,White,False,Female,Amanda Seyfried,5
+Low Down,http://www.imdb.com/title/tt1864405/,US,2014,0.0445,Jeff Preiss,1,Joe Albany,Musician,True,White,False,Male,John Hawkes,4
+Lucky Luciano,http://www.imdb.com/title/tt0071782/,US,1973,0,Francesco Rosi,1,Charles Luciano,Criminal,True,White,False,Male,Gian Maria VolontÌ©,45
+Lust for Life,http://www.imdb.com/title/tt0049456/,US,1956,0,Vincente Minnelli,1,Vincent van Gogh,Artist,True,White,False,Male,Kirk Douglas,62
+Luther,http://www.imdb.com/title/tt0309820/,US,2003,5.67,Eric Till,1,Martin Luther,Historical,True,White,False,Male,Joseph Fiennes,15
+MacArthur,http://www.imdb.com/title/tt0076342/,US,1977,0,Joseph Sargent,1,Douglas MacArthur,Military,True,White,False,Male,Gregory Peck,41
+Machine Gun Preacher,http://www.imdb.com/title/tt1586752/,US,2011,0.538,Marc Forster,1,Sam Childers,Other,True,White,False,Male,Gerard Butler,7
+Machine-Gun Kelly,http://www.imdb.com/title/tt0051887/,US,1958,0,Roger Corman,1,George Kelly,Criminal,False,,False,Male,Charles Bronson,60
+Madame Curie,http://www.imdb.com/title/tt0036126/,US,1943,0,Mervyn LeRoy,2,Pierre Curie,Academic,True,White,False,Male,Walter Pidgeon,75
+Madame Curie,http://www.imdb.com/title/tt0036126/,US,1943,0,Mervyn LeRoy,2,Marie Curie,Academic,True,White,False,Female,Greer Garson,75
+Mahler,http://www.imdb.com/title/tt0071797/,UK,1974,0,Ken Russell,2,Gustav Mahler,Musician,True,White,False,Male,Robert Powell,44
+Mahler,http://www.imdb.com/title/tt0071797/,UK,1974,0,Ken Russell,2,Alma Mahler,Other,False,,False,Female,Georgina Hale,44
+Malcolm X,http://www.imdb.com/title/tt0104797/,US,1992,48.2,Spike Lee,1,Malcolm X,Activist,True,African American,True,Male,Denzel Washington,26
+Man of a Thousand Faces,http://www.imdb.com/title/tt0050681/,US,1957,0,Joseph Pevney,1,Lon Chaney,Actor,True,White,False,Male,James Cagney,61
+Man on the Moon,http://www.imdb.com/title/tt0125664/,US/UK,1999,34.6,Milos Forman,1,Andy Kaufman,Comedian,False,,False,Male,Jim Carrey,19
+Mandela: Long Walk to Freedom,http://www.imdb.com/title/tt2304771/,UK,2013,8.32,Justin Chadwick,1,Nelson Mandela,World leader,True,African,True,Male,Idris Elba,5
+Marie Antoinette,http://www.imdb.com/title/tt0030418/,US,1938,0,W.S. Van Dyke,1,Marie Antoinette,Historical,True,White,False,Female,Norma Shearer,80
+Marie Antoinette,http://www.imdb.com/title/tt0422720/,US,2006,16.0,Sofia Coppola,1,Marie Antoinette,Historical,True,White,False,Female,Kirsten Dunst,12
+Mary of Scotland,http://www.imdb.com/title/tt0027948/,US,1936,0,John Ford,1,"Mary Stuart, Queen of Scots",Historical,True,White,False,Female,Katharine Hepburn,82
+"Mary, Queen of Scots",http://www.imdb.com/title/tt0067402/,UK,1971,0,Charles Jarrott,1,"Mary Stuart, Queen of Scots",Historical,True,White,False,Female,Vanessa Redgrave,47
+Mask,http://www.imdb.com/title/tt0089560/,US,1985,42.4,Peter Bogdanovich,1,"Roy Lee ""Rocky"" Dennis",Other,True,White,False,Male,Eric Stolz,33
+Meetings with Remarkable Men,http://www.imdb.com/title/tt0079542/,UK,1979,0,Peter Brook,1,G.I. Gurdjieff,Other,True,White,False,Male,Dragan Maksimovic,39
+Men of Honor,http://www.imdb.com/title/tt0203019/,US,2000,48.8,George Tillman Jr.,1,Carl Brashear,Athlete,True,African American,True,Male,Cuba Gooding Jr,18
+Mesmer,http://www.imdb.com/title/tt0110496/,Canada/UK,1994,0,Roger Spottiswoode,1,Franz Anton Mesmer,Medicine,True,White,False,Male,Alan Rickman,24
+Mesrine Part 1: Killer Instinct,http://www.imdb.com/title/tt1259014/,Canada,2008,0.552,Jean-FranÌ¤ois Richet,1,Jacques Mesrine,Criminal,True,White,False,Male,Vincent Cassel,10
+Mesrine Part 2: Public Enemy #1,http://www.imdb.com/title/tt0411272/,Canada,2008,0.275,Jean-FranÌ¤ois Richet,1,Jacques Mesrine,Criminal,True,White,False,Male,Vincent Cassel,10
+Michael Collins,http://www.imdb.com/title/tt0117039/,US/UK,1996,11.0,Neil Jordan,1,Michael Collins,Activist,True,White,False,Male,Liam Neeson,22
+Midnight Express,http://www.imdb.com/title/tt0077928/,US/UK,1978,35.0,Alan Parker,1,Billy Hayes,Criminal,False,,False,Male,Brad Davis,40
+Milk,http://www.imdb.com/title/tt1013753/,US,2008,31.8,Gus Van Sant,1,Harvey Milk,Activist,True,White,False,Male,Sean Penn,10
+Million Dollar Arm,http://www.imdb.com/title/tt1647668/,US,2014,36.4,Craig Gillespie,1,J. B. Bernstein,Athlete,True,White,False,Male,Jon Hamm,4
+Million Dollar Mermaid,http://www.imdb.com/title/tt0044903/,US,1952,0,Mervyn LeRoy,1,Annette Kellerman,Athlete,True,White,False,Female,Esther Williams,66
+Miracle,http://www.imdb.com/title/tt0349825/,US,2004,64.4,Gavin O'Connor,1,Herb Brooks,Athlete,False,,False,Male,Kurt Russell,14
+Mishima: A Life in Four Chapters,http://www.imdb.com/title/tt0089603/,US,1985,0.45,Paul Schrader,1,Yukio Mishima,Author,True,Asian,True,Male,Ken Ogata,33
+Miss Potter,http://www.imdb.com/title/tt0482546/,US/UK,2006,2.98,Chris Noonan,1,Beatrix Potter,Author,True,White,False,Female,RenÌ©e Zellweger,12
+Mockingbird Don't Sing,http://www.imdb.com/title/tt0273822/,US,2001,0,Harry Bromley Davenport,1,Genie (pseudonym),Other,False,,False,Female,Tarra Steele,17
+Modigliani,http://www.imdb.com/title/tt0367188/,UK,2004,0.195,Mick Davis,1,Amedeo Modigliani,Artist,True,White,False,Male,Andy Garcia,14
+Mommie Dearest,http://www.imdb.com/title/tt0082766/,US,1981,0,Frank Perry,1,Joan Crawford,Actress,True,White,False,Female,Faye Dunaway,37
+Moneyball,http://www.imdb.com/title/tt1210166/,US,2011,75.6,Bennett Miller,1,Billy Beane,Athlete,True,White,False,Male,Brad Pitt,7
+Monsieur N.,http://www.imdb.com/title/tt0308595/,UK,2003,0.016800000000000002,Antoine de Caunes,1,Napoleon Bonaparte,Historical,True,White,False,Male,Philippe Torreton,15
+Monster,http://www.imdb.com/title/tt0340855/,US,2003,34.5,Patty Jenkins,1,Aileen Wuornos,Criminal,False,,False,Female,Charlize Theron,15
+Moulin Rouge,http://www.imdb.com/title/tt0044926/,UK,1952,0,John Huston,1,Henri de Toulouse-Lautrec,Artist,False,,False,Male,JosÌ© Ferrer,66
+Mr. Nice,http://www.imdb.com/title/tt1183911/,UK,2010,0,Bernard Rose,1,Howard Marks,Criminal,False,,False,Male,Rhys Ifans,8
+Mr. Turner,http://www.imdb.com/title/tt2473794/,UK,2014,3.96,Mike Leigh,1,J.M.W. Turner,Artist,True,White,False,Male,Timothy Spall,4
+Mrs Brown,http://www.imdb.com/title/tt0119280/,US/UK,1997,9.22,John Madden,1,Victoria,Historical,True,White,False,Female,Judi Dench,21
+Mrs. Parker and the Vicious Circle,http://www.imdb.com/title/tt0110588/,US/Canada,1994,2.14,Alan Rudolph,1,Dorothy Parker,Author,True,White,False,Female,Jennifer Jason Leigh,24
+Muhammad: The Last Prophet,http://www.imdb.com/title/tt0430377/,US,2002,0,Richard Rich,1,Muhammad,Historical,True,Middle Eastern,True,Male,,16
+"Murder, Inc.",http://www.imdb.com/title/tt0054102/,US,1960,0,"Burt Balaban, Stuart Rosenberg",1,Burton Turkus,Other,False,,False,Male,Henry Morgan,58
+Music Within,http://www.imdb.com/title/tt0422783/,US,2007,0.153,Steven Sawalich,1,Richard Pimentel,Activist,True,Multi racial,True,Male,Ron Livingston,11
+My Childhood,http://www.imdb.com/title/tt0068983/,UK,1972,0,Bill Douglas,1,Bill Douglas,Other,False,,False,Male,Stephen Archibald,46
+My Dinner with Andre,http://www.imdb.com/title/tt0082783/,US,1981,0.00507,Louis Malle,2,Andre Gregory,Actor,True,White,False,Male,Andre Gregory,37
+My Dinner with Andre,http://www.imdb.com/title/tt0082783/,US,1981,0.00507,Louis Malle,2,Wallace Shawn,Actor,True,White,False,Male,Wallace Shawn,37
+My Left Foot,http://www.imdb.com/title/tt0097937/,UK,1989,14.7,Jim Sheridan,1,Christy Brown,Artist,True,White,False,Male,Daniel Day-Lewis,29
+My Life So Far,http://www.imdb.com/title/tt0120899/,US/UK,1999,0.616,Hugh Hudson,1,Denis Forman,Other,True,White,False,Male,Robert Norman,19
+My One and Only,http://www.imdb.com/title/tt1185431/,US,2009,2.48,Richard Loncraine,1,George Hamilton,Other,True,White,False,Male,Logan Lerman,9
+My Week with Marilyn,http://www.imdb.com/title/tt1655420/,US/UK,2011,14.6,Simon Curtis,1,Marilyn Monroe,Actress,False,,False,Female,Michelle Williams,7
+Ned Kelly,http://www.imdb.com/title/tt0277941/,US/UK,2003,0.07490000000000001,Gregor Jordan,1,Ned Kelly,Criminal,True,White,False,Male,Heath Ledger,15
+Nicholas and Alexandra,http://www.imdb.com/title/tt0067483/,UK,1971,0,Franklin J. Schaffner,2,Tsarina Alexandra (Feodorovna),Historical,True,White,False,Female,Janet Suzman,47
+Nicholas and Alexandra,http://www.imdb.com/title/tt0067483/,UK,1971,0,Franklin J. Schaffner,2,Tsar Nicholas II,Historical,True,White,False,Male,Michael Jayston,47
+Night and Day,http://www.imdb.com/title/tt0038776/,US,1946,0,Michael Curtiz,1,Cole Porter,Musician,False,,False,Male,Cary Grant,72
+Nightwatching,http://www.imdb.com/title/tt0446750/,Canada/UK,2007,0,Peter Greenaway,1,Rembrandt,Artist,True,White,False,Male,Martin Freeman,11
+Nixon,http://www.imdb.com/title/tt0113987/,US,1995,13.6,Oliver Stone,1,Richard Milhous Nixon,World leader,True,White,False,Male,Anthony Hopkins,23
+Nora,http://www.imdb.com/title/tt0158033/,UK,2000,0.0123,Pat Murphy,2,James Joyce,Author,True,White,False,Male,Ewan McGregor,18
+Nora,http://www.imdb.com/title/tt0158033/,UK,2000,0.0123,Pat Murphy,2,Nora Barnacle,Other,False,,False,Female,Susan Lynch,18
+Nostradamus,http://www.imdb.com/title/tt0110689/,UK,1994,0.364,Roger Christian,1,Nostradamus,Historical,False,,False,Male,TchÌ©ky Karyo,24
+Notorious,http://www.imdb.com/title/tt0472198/,US,2009,36.8,George Tillman Jr.,1,Christopher Wallace (Biggie Smalls),Musician,True,Caribbean,True,Male,Jamal Woolard,9
+Nowhere Boy,http://www.imdb.com/title/tt1266029/,Canada/UK,2009,1.45,Sam Taylor-Johnson,1,John Lennon,Musician,True,White,False,Male,Aaron Taylor-Johnson,9
+October Sky,http://www.imdb.com/title/tt0132477/,US,1999,32.5,Joe Johnston,1,Homer Hickam,Other,True,Multi racial,True,Male,Jake Gyllenhaal,19
+One Chance,http://www.imdb.com/title/tt1196956/,US/UK,2013,0.0897,David Frankel,1,Paul Potts,Musician,False,,False,Male,James Corden,5
+One Foot in Heaven,http://www.imdb.com/title/tt0033980/,US,1941,0,Irving Rapper,1,William Spence,Other,True,White,False,Male,Fredric March,77
+One Night with the King,http://www.imdb.com/title/tt0430431/,US,2006,13.4,Michael O. Sajbel,1,Hadassah (Esther),Historical,True,Middle Eastern (White),False,Female,Tiffany Dupont,12
+Open Water,http://www.imdb.com/title/tt0374102/,US,2003,30.5,Chris Kentis,2,Eileen Lonergan,Other,False,,False,Female,Blanchard Ryan,15
+Open Water,http://www.imdb.com/title/tt0374102/,US,2003,30.5,Chris Kentis,2,Tom Lonergan,Other,False,,False,Male,Daniel Travis,15
+Out of Africa,http://www.imdb.com/title/tt0089755/,US,1985,87.1,Sydney Pollack,1,Karen Blixen,Other,True,White,False,Female,Meryl Streep,33
+Pandaemonium,http://www.imdb.com/title/tt0210217/,UK,2000,0,Julien Temple,2,William Wordsworth,Author (poet),False,,False,Male,John Hannah,18
+Pandaemonium,http://www.imdb.com/title/tt0210217/,UK,2001,0,Julien Temple,2,Samuel Taylor Coleridge,Author (poet),False,,False,Male,Linus Roache,17
+Papillon,http://www.imdb.com/title/tt0070511/,US,1973,53.3,Franklin J. Schaffner,1,"Henri ""Papillon"" CharriÌ¬re",Criminal,True,White,False,Male,Steve McQueen,45
+Party Monster,http://www.imdb.com/title/tt0320244/,US,2003,0.297,"Fenton Bailey, Randy Barbato",1,Michael Alig,Criminal,False,,False,Male,Macaulay Culkin,15
+Patch Adams,http://www.imdb.com/title/tt0129290/,US,1998,135.0,Tom Shadyac,1,"Hunter Doherty ""Patch"" Adams",Medicine,False,,False,Male,Robin Williams,20
+Patton,http://www.imdb.com/title/tt0066206/,US,1970,0,Franklin J. Schaffner,1,George Patton,Military,True,White,False,Male,George Scott,48
+Patty Hearst,http://www.imdb.com/title/tt0095836/,US/UK,1988,1.22,Paul Schrader,1,Patty Hearst,Other,True,White,False,Female,Natasha Richardson,30
+Permanent Midnight,http://www.imdb.com/title/tt0120788/,US,1998,1.17,David Veloz,1,Jerry Stahl,Comedian,True,White,False,Male,Ben Stiller,20
+Persepolis,http://www.imdb.com/title/tt0808417/,US,2007,4.44,"Vincent Paronnaud, Marjane Satrapi",1,Marjane 'Marji' Satrapi,Activist,True,Middle Eastern,True,Female,Chiara Mastroianni,11
+Phantom Punch,http://www.imdb.com/title/tt1131747/,US,2008,0,Robert Townsend,1,Sonny Liston,Athlete,True,African American,True,Male,Ving Rhames,10
+Philomena,http://www.imdb.com/title/tt2431286/,US/UK,2013,37.7,Stephen Frears,1,Philomena Lee,Other,True,White,False,Female,Judi Dench,5
+Pierrepoint: The Last Hangman,http://www.imdb.com/title/tt0462477/,US/UK,2005,0.0218,Adrian Shergold,1,Albert Pierrepoint,Other,True,White,False,Male,Timothy Spall,13
+PiÌ±ero,http://www.imdb.com/title/tt0261066/,US,2001,1.42,Leon Ichaso,1,Miguel PiÌ±ero,Actor,True,Hispanic (Latin American),True,Male,Benjamin Bratt,17
+Pollock,http://www.imdb.com/title/tt0183659/,US,2000,8.6,Ed Harris,1,Jackson Pollock,Artist,True,White,False,Male,Ed Harris,18
+Prefontaine,http://www.imdb.com/title/tt0119937/,US,1997,0.532,Steve James,1,Steve Prefontaine,Athlete,True,White,False,Male,Jared Leto,21
+Prick Up Your Ears,http://www.imdb.com/title/tt0093776/,UK,1987,1.65,Stephen Frears,2,Joe Orton,Author,False,,False,Male,Gary Oldman,31
+Prick Up Your Ears,http://www.imdb.com/title/tt0093776/,UK,1987,1.65,Stephen Frears,2,Kenneth Halliwell,Other,False,,False,Male,Alfred Molina,31
+Pride of the Marines,http://www.imdb.com/title/tt0038000/,US,1945,0,Delmer Daves,1,Al Schmid,Military,True,White,False,Male,John Garfield,73
+Private Parts,http://www.imdb.com/title/tt0119951/,US,1997,41.2,Betty Thomas,1,Howard Stern,Media,True,White,False,Male,Howard Stern,21
+PT 109,http://www.imdb.com/title/tt0057393/,US,1963,0,Leslie H. Martinson,1,John F. Kennedy,Military,True,White,False,Male,Cliff Robertson,55
+Public Enemies,http://www.imdb.com/title/tt1152836/,US,2009,97.0,Michael Mann,1,John Dillinger,Criminal,False,,False,Male,Johnny Depp,9
+Queen Christina,http://www.imdb.com/title/tt0024481/,US,1933,0,Rouben Mamoulian,1,"Christina, queen of Sweden",Historical,True,White,False,Female,Greta Garbo,85
+Quills,http://www.imdb.com/title/tt0180073/,US/UK,2000,7.06,Philip Kaufman,1,Marquis de Sade,Criminal,True,White,False,Male,Geoffrey Rush,18
+Quo Vadis,http://www.imdb.com/title/tt0043949/,US,1951,0,Mervyn LeRoy,2,Lygia,Historical,True,White,False,Female,Deborah Kerr,67
+Quo Vadis,http://www.imdb.com/title/tt0043949/,US,1951,0,Mervyn LeRoy,2,Marcus Vinicius,Historical,True,White,False,Male,Robert Taylor,67
+Radio,http://www.imdb.com/title/tt0316465/,US,2003,52.3,Michael Tollin,2,"James Robert ""Radio"" Kennedy",Athlete,True,African American,True,Male,Cuba Gooding Jr,15
+Radio,http://www.imdb.com/title/tt0316465/,US,2003,52.3,Michael Tollin,2,Harold Jones,Athlete,False,,False,Male,Ed Harris,15
+Ragamuffin,http://www.imdb.com/title/tt2412568/,US,2014,0,David Schultz,1,Rich Mullins,Singer,True,White,False,Male,David Schultz,4
+Raging Bull,http://www.imdb.com/title/tt0081398/,US,1980,0.045200000000000004,Martin Scorsese,1,Jake LaMotta,Athlete,True,White,False,Male,Robert De Niro,38
+Rasputin: The Mad Monk,http://www.imdb.com/title/tt0059635/,UK,1966,0,Don Sharp,1,Grigori Rasputin,Other,True,White,False,Male,Christopher Lee,52
+Ray,http://www.imdb.com/title/tt0350258/,US,2004,75.3,Taylor Hackford,1,Ray Charles,Musician,True,African American,True,Male,Jamie Foxx,14
+Reach for the Sky,http://www.imdb.com/title/tt0049665/,UK,1956,0,Lewis Gilbert,1,Douglas Bader,Military,False,,False,Male,Kenneth More,62
+Reds,http://www.imdb.com/title/tt0082979/,US,1981,0,Warren Beatty,1,John Reed,Media,True,White,False,Male,Warren Beaty,37
+Regeneration,http://www.imdb.com/title/tt0005960/,US,1915,0,Raoul Walsh,1,Owen Kildare,Other,True,White,False,Male,Rockliffe Fellowes,103
+Rembrandt,http://www.imdb.com/title/tt0028167/,UK,1936,0,Alexander Korda,1,Rembrandt,Artist,True,White,False,Male,Charles Laughton,82
+Remember the Titans,http://www.imdb.com/title/tt0210945/,US,2000,116.0,Boaz Yakin,1,Herman Boone,Athlete,True,African American,True,Male,Denzel Washington,18
+Rescue Dawn,http://www.imdb.com/title/tt0462504/,US,2006,5.48,Werner Herzog,1,Dieter Dengler,Military,True,White,False,Male,Christian Bale,12
+Restoration,http://www.imdb.com/title/tt0114272/,US/UK,1995,4.1,Michael Hoffman,1,Charles II,Historical,True,White,False,Male,Sam Neill,23
+Reversal of Fortune,http://www.imdb.com/title/tt0100486/,US/UK,1990,15.4,Barbet Schroeder,2,Claus von BÌ_low,Other,True,White,False,Male,Jeremy Irons,28
+Reversal of Fortune,http://www.imdb.com/title/tt0100486/,US/UK,1990,15.4,Barbet Schroeder,2,Sunny von BÌ_low,Other,True,White,False,Female,Glenn Close,28
+Rhapsody in Blue,http://www.imdb.com/title/tt0038026/,US,1945,0,Irving Rapper,1,George Gershwin,Musician,True,White,False,Male,Robert Alda,73
+Richard III,http://www.imdb.com/title/tt0049674/,UK,1955,0,Laurence Olivier,1,Richard III of England,Historical,True,White,False,Male,Laurence Olivier,63
+Ricky 6,http://www.imdb.com/title/tt0156020/,US,2000,0,Peter Filardi,1,"Richard ""Ricky"" Kasso",Criminal,False,,False,Male,Vincent Kartheiser,18
+Riding in Cars with Boys,http://www.imdb.com/title/tt0200027/,US,2001,29.8,Penny Marshall,1,Beverly Donofrio,Other,False,,False,Female,Drew Barrymore,17
+Rise of the Footsoldier,http://www.imdb.com/title/tt0901507/,UK,2007,0,Julian Gilbey,1,Carlton Leach,Criminal,False,,False,Male,Ricci Harnett,11
+Rob Roy,http://www.imdb.com/title/tt0114287/,US/UK,1995,31.6,Michael Caton-Jones,1,Robert Roy MacGregor,Other,True,White,False,Male,Liam Neeson,23
+Romero,http://www.imdb.com/title/tt0098219/,US,1989,1.32,John Duigan,1,Oscar Romero,Other,True,Hispanic (Latin American),False,Male,Raul Julia,29
+Rosewater,http://www.imdb.com/title/tt2752688/,US,2014,3.09,Jon Stewart,1,Maziar Bahari,Media,True,Middle Eastern,True,Male,Gael GarcÌ_a Bernal,4
+Rudy,http://www.imdb.com/title/tt0108002/,US,1993,22.8,David Anspaugh,1,Rudy Ruettiger,Athlete,False,,False,Male,Sean Astin,25
+Rush,http://www.imdb.com/title/tt1979320/,US/UK,2013,26.9,Ron Howard,2,James Hunt,Athlete,True,White,False,Male,Chris Hemsworth,5
+Rush,http://www.imdb.com/title/tt1979320/,US/UK,2013,26.9,Ron Howard,2,Niki Lauda,Athlete,True,White,False,Male,Daniel BrÌ_hl,5
+Saint Joan,http://www.imdb.com/title/tt0050928/,US,1957,0,Otto Preminger,1,Joan of Arc,Historical,True,White,False,Female,Jean Seberg,61
+Salome's Last Dance,http://www.imdb.com/title/tt0096029/,US/UK,1988,0.331,Ken Russell,1,Oscar Wilde,Author,True,White,False,Male,Nickolas Grace,30
+Santa Fe Trail,http://www.imdb.com/title/tt0033021/,US,1940,0,Michael Curtiz,1,John Brown,Other,True,White,False,Male,Raymond Massey,78
+Savage Messiah,http://www.imdb.com/title/tt0069225/,UK,1972,0,Ken Russell,1,Henri Gaudier-Brzeska,Artist,False,,False,Male,Scott Antony,46
+Saving Mr. Banks,http://www.imdb.com/title/tt2140373/,US/UK,2013,83.3,John Lee Hancock,2,Walt Disney,Other,True,White,False,Male,Tom Hanks,5
+Saving Mr. Banks,http://www.imdb.com/title/tt2140373/,US/UK,2013,83.3,John Lee Hancock,2,P.L. Travers,Author,True,White,False,Female,Emma Thompson,5
+Schindler's List,http://www.imdb.com/title/tt0108052/,US,1993,96.1,Steven Spielberg,1,Oskar Schindler,Other,True,White,False,Male,Liam Neeson,25
+Scott of the Antarctic,http://www.imdb.com/title/tt0040761/,UK,1948,0,Charles Frend,1,Robert Falcon Scott,Other,True,White,False,Male,John Mills,70
+Searching for Bobby Fischer,http://www.imdb.com/title/tt0108065/,US,1993,7.27,Steven Zaillian,1,Josh Waitzkin,Other,False,,False,Male,Max Pomeranc,25
+Selena,http://www.imdb.com/title/tt0120094/,US,1997,35.4,Gregory Nava,1,Selena Quintanilla-Perez,Singer,True,Hispanic (Latina),True,Female,Jennifer Lopez,21
+Self Medicated,http://www.imdb.com/title/tt0341569/,US,2005,0.0988,Monty Lapica,1,Monty Lapica,Other,False,,False,Male,Monty Lapica,13
+Selma,http://www.imdb.com/title/tt1020072/,US/UK,2014,52.1,Ava DuVernay,1,"Martin Luther King, Jr",Activist,True,African American,True,Male,David Oyelowo,4
+Sergeant York,http://www.imdb.com/title/tt0034167/,US,1941,16.4,Howard Hawks,1,Alvin C. York,Military,True,White,False,Male,Gary Cooper,77
+Serpico,http://www.imdb.com/title/tt0070666/,US,1973,0,Sidney Lumet,1,Frank Serpico,Other,True,White,False,Male,Al Pacino,45
+Set Fire to the Stars,http://www.imdb.com/title/tt3455740/,UK,2014,0.00327,Andy Goddard,1,Dylan Thomas,Author (poet),True,White,False,Male,Celyn Jones,4
+Seven Years in Tibet,http://www.imdb.com/title/tt0120102/,US/UK,1997,37.9,Jean-Jacques Annaud,1,Heinrich Harrer,Other,True,White,False,Male,Brad Pitt,21
+Sex & Drugs & Rock & Roll,http://www.imdb.com/title/tt1393020/,UK,2010,0,Mat Whitecross,1,Ian Dury,Musician,False,,False,Male,Andy Serkis,8
+Shadowlands,http://www.imdb.com/title/tt0108101/,UK,1993,25.8,Richard Attenborough,2,C.S. Lewis,Author,True,White,False,Male,Anthony Hopkins,25
+Shadowlands,http://www.imdb.com/title/tt0108101/,UK,1993,25.8,Richard Attenborough,2,Joy Gresham,Author (poet),True,White,False,Female,Debra Winger,25
+Sid and Nancy,http://www.imdb.com/title/tt0091954/,UK,1986,2.83,Alex Cox,2,Sid Vicious,Singer,False,,False,Male,Gary Oldman,32
+Sid and Nancy,http://www.imdb.com/title/tt0091954/,UK,1986,2.83,Alex Cox,2,Nancy Spungen,Other,False,,False,Female,Chloe Webb,32
+Silkwood,http://www.imdb.com/title/tt0086312/,US,1983,35.6,Mike Nichols,1,Karen Silkwood,Activist,False,,False,Female,Meryl Streep,35
+Sister Kenny,http://www.imdb.com/title/tt0038948/,US,1946,0,Dudley Nichols,1,Elizabeth Kenny,Medicine,True,White,False,Female,Rosalind Russell,72
+Sixty Six,http://www.imdb.com/title/tt0493450/,UK,2006,0.225,Paul Weiland,1,Paul Weiland,Other,False,,False,Male,Gregg Sulkin,12
+Skin,http://www.imdb.com/title/tt0964586/,UK,2008,0,Anthony Fabian,1,Sandra Laing,Other,True,African,True,Female,Sophie Okonedo,10
+Somebody Up There Likes Me,http://www.imdb.com/title/tt0049778/,US,1956,0,Robert Wise,1,Rocky Graziano,Athlete,True,White,False,Male,Paul Newman,62
+Son of God,http://www.imdb.com/title/tt3210686/,US,2014,59.7,Christopher Spencer,1,Jesus,Historical,True,Middle Eastern (White),False,Male,Diogo Morgado,4
+Soul Surfer,http://www.imdb.com/title/tt1596346/,US,2011,43.9,Sean McNamara,1,Bethany Hamilton,Athlete,False,,False,Female,AnnaSophia Robb,7
+Spartacus,http://www.imdb.com/title/tt0054331/,US,1960,0,Stanley Kubrick,1,Spartacus,Historical,False,,False,Male,Kirk Douglas,58
+Spitfire,http://www.imdb.com/title/tt0034734/,UK,1942,0,Leslie Howard,1,R. J. Mitchell,Military,True,White,False,Male,Leslie Howard,76
+Squanto: A Warrior's Tale,http://www.imdb.com/title/tt0111271/,US,1994,3.34,Xavier Koller,1,Squanto,Historical,True,Native American,True,Male,Adam Beach,24
+Stander,http://www.imdb.com/title/tt0326208/,Canada/UK,2003,0.019100000000000002,Bronwen Hughes,1,Andre Stander,Other,True,White,False,Male,Thomas Jane,15
+Star 80,http://www.imdb.com/title/tt0086355/,US,1983,6.5,Bob Fosse,1,Dorothy Stratten,Actress,True,White,False,Female,Mariel Hemingway,35
+Star!,http://www.imdb.com/title/tt0063642/,US,1968,4.0,Robert Wise,1,Gertrude Lawrence,Actress,True,White,False,Female,Julie Andrews,50
+Stars and Stripes Forever,http://www.imdb.com/title/tt0045187/,US,1952,0,Henry Koster,1,John Philip Sousa,Musician,True,White,False,Male,Clifton Webb,66
+Steal This Movie,http://www.imdb.com/title/tt0161216/,US,2000,0.0761,Robert Greenwald,1,Abbie Hoffman,Activist,True,White,False,Male,Vincent D'Onofrio,18
+Stealing Sinatra,http://www.imdb.com/title/tt0311863/,US,2003,0,Ron Underwood,2,Barry Keenan,Criminal,False,,False,Male,David Arquette,15
+Stealing Sinatra,http://www.imdb.com/title/tt0311863/,US,2003,0,Ron Underwood,2,"Frank Sinatra, Jr.",Other,True,White,False,Male,Thomas Ian Nicholas,15
+Stoned,http://www.imdb.com/title/tt0426627/,UK,2005,0,Stephen Woolley,1,Brian Jones,Musician,True,White,False,Male,Leo Gregory,13
+Story of G.I. Joe,http://www.imdb.com/title/tt0038120/,US,1945,0,William A. Wellman,1,Ernie Pyle,Media,False,,False,Male,Burgess Meredith,73
+Strauss' Great Waltz,http://www.imdb.com/title/tt0024747/,UK,1934,0,Alfred Hitchcock,2,Johann Strauss I,Musician,True,White,False,Male,Edmund Gwenn,84
+Strauss' Great Waltz,http://www.imdb.com/title/tt0024747/,UK,1934,0,Alfred Hitchcock,2,Johann Strauss II,Musician,True,White,False,Male,Esmond Knight,84
+Sunrise at Campobello,http://www.imdb.com/title/tt0054354/,US,1960,0,Vincent J. Donehue,1,Franklin Roosevelt,World leader,True,White,False,Male,Ralph Bellamy,58
+Surviving Picasso,http://www.imdb.com/title/tt0117791/,US,1996,1.99,James Ivory,1,Francoise Gilot,Artist,True,White,False,Female,Natascha McElhone,22
+Sweet Dreams,http://www.imdb.com/title/tt0090110/,US,1985,0,Karel Reisz,1,Patsy Cline,Singer,True,White,False,Female,Jessica Lange,33
+Swimming Upstream,http://www.imdb.com/title/tt0326664/,US,2003,0.047200000000000006,Russell Mulcahy,1,Tony Fingleton,Athlete,False,,False,Male,Geoffrey Rush,15
+Swoon,http://www.imdb.com/title/tt0105508/,US,1992,0.34,Tom Kalin,2,Nathan Leopold Jr.,Criminal,True,White,False,Male,Craig Chester,26
+Swoon,http://www.imdb.com/title/tt0105508/,US,1992,0.34,Tom Kalin,2,Richard Loeb,Criminal,True,White,False,Male,Daniel Schlachet,26
+Sylvia,http://www.imdb.com/title/tt0325055/,UK,2003,1.3,Christine Jeffs,2,Sylvia Plath,Author (poet),True,White,False,Female,Gwyneth Paltrow,15
+Sylvia,http://www.imdb.com/title/tt0325055/,UK,2003,1.3,Christine Jeffs,2,Ted Hughes,Author (poet),True,White,False,Male,Daniel Craig,15
+Talk to Me,http://www.imdb.com/title/tt0796368/,US,2007,4.47,Kasi Lemmons,1,"Ralph ""Petey"" Greene",Activist,True,African American,True,Male,Don Cheadle,11
+Ted Bundy,http://www.imdb.com/title/tt0284929/,US,2002,0,Matthew Bright,1,Ted Bundy,Criminal,True,White,False,Male,Michael Reilly Burke,16
+Telstar: The Joe Meek Story,http://www.imdb.com/title/tt1068669/,UK,2008,0,Nick Moran,1,Joe Meek,Musician,True,White,False,Male,Con O'Neill,10
+Testament of Youth,http://www.imdb.com/title/tt1441953/,UK,2014,0.671,James Kent,1,Vera Brittain,Other,False,,False,Female,Alicia Vikander,4
+The 5th Quarter,http://www.imdb.com/title/tt1130964/,US,2010,0.4,Rick Bieber,1,Jon Abbate,Athlete,False,,False,Male,Ryan Merriman,8
+The Actress,http://www.imdb.com/title/tt0045471/,US,1953,0,George Cukor,1,Ruth Gordon Jones,Actress,False,,False,Female,Jean Simmons,65
+The Adventures of Marco Polo,http://www.imdb.com/title/tt0029842/,US,1938,0,Archie Mayo,1,Marco Polo,Historical,True,White,False,Male,Gary Cooper,80
+The Adventures of Mark Twain,http://www.imdb.com/title/tt0036582/,US,1944,0,Irving Rapper,1,Samuel Clemens,Author,True,White,False,Male,Frederic March,74
+The Assassination of Jesse James by the Coward Robert Ford,http://www.imdb.com/title/tt0443680/,US/UK/Canada,2007,3.9,Andrew Dominik,2,Jesse James,Criminal,True,White,False,Male,Brad Pitt,11
+The Assassination of Jesse James by the Coward Robert Ford,http://www.imdb.com/title/tt0443680/,US/UK/Canada,2007,3.9,Andrew Dominik,2,Robert Ford,Criminal,False,,False,Male,Casey Affleck,11
+The Assassination of Richard Nixon,http://www.imdb.com/title/tt0364961/,US,2004,0.698,Niels Mueller,1,Samuel Byck,Other,False,,False,Male,Sean Penn,14
+The Assassination of Trotsky,http://www.imdb.com/title/tt0068226/,UK,1972,0,Joseph Losey,1,Leon Trotsky,Activist,True,White,False,Male,Richard Burton,46
+The Aviator,http://www.imdb.com/title/tt0338751/,US,2004,103.0,Martin Scorsese,1,Howard Hughes,Other,False,,False,Male,Leonardo DiCaprio,14
+The Babe,http://www.imdb.com/title/tt0103747/,US,1992,17.5,Arthur Hiller,1,Babe Ruth,Athlete,True,White,False,Male,John Goodman,26
+The Babe Ruth Story,http://www.imdb.com/title/tt0040142/,US,1948,0,Roy Del Ruth,1,Babe Ruth,Athlete,True,White,False,Male,William Bendix,70
+The Bang Bang Club,http://www.imdb.com/title/tt1173687/,Canada,2010,0,Steven Silver,4,Greg Marinovich,Media,False,,False,Male,,8
+The Bang Bang Club,http://www.imdb.com/title/tt1173687/,Canada,2010,0,Steven Silver,4,JoÌ£o Silva,Media,True,White,False,Male,,8
+The Bang Bang Club,http://www.imdb.com/title/tt1173687/,Canada,2010,0,Steven Silver,4,Ken Oosterbroek,Media,False,,False,Male,,8
+The Bang Bang Club,http://www.imdb.com/title/tt1173687/,Canada,2010,0,Steven Silver,4,Kevin Carter,Media,True,White,False,Male,Taylor Kitsch,8
+The Barretts of Wimpole Street,http://www.imdb.com/title/tt0024865/,US,1934,0,Sidney Franklin,2,Elizabeth Barrett,Author (poet),True,Multi racial,False,Female,Norma Shearer,84
+The Barretts of Wimpole Street,http://www.imdb.com/title/tt0024865/,US,1934,0,Sidney Franklin,2,Robert Browning,Author (poet),True,Multi racial,False,Male,Fredric March,84
+The Basketball Diaries,http://www.imdb.com/title/tt0112461/,US,1995,2.42,Scott Kalvert,1,Jim Carroll,Author,True,White,False,Male,Leonardo DiCaprio,23
+The Benny Goodman Story,http://www.imdb.com/title/tt0047873/,US,1956,0,Valentine Davies,1,Benny Goodman,Musician,True,White,False,Male,Steve Allen,62
+The Best Intentions,http://www.imdb.com/title/tt0104350/,UK,1992,1.3,Bille August,2,Erik Bergman,Other,False,,False,Male,"With: Samuel FrÌÄå¦ler, Pernilla August, Max von Sydow",26
+The Best Intentions,http://www.imdb.com/title/tt0104350/,UK,1992,1.3,Bille August,2,Karin ÌÉkerblom,Other,False,,False,Female,,26
+The Better Angels,http://www.imdb.com/title/tt2316868/,US,2014,0,A.J. Edwards,1,Abraham Lincoln,World leader,True,White,False,Male,Jason Clarke,4
+The Blind Side,http://www.imdb.com/title/tt0878804/,US,2009,256.0,John Lee Hancock,1,Michael Oher,Athlete,True,African American,True,Male,Quinton Aaron,9
+The Boy in Blue,http://www.imdb.com/title/tt0090769/,Canada,1986,0.275,Charles Jarrott,1,Ned Hanlan,Athlete,True,White,False,Male,Nicolas Cage,32
+The Brittany Murphy Story,http://www.imdb.com/title/tt3957278/,US,2014,0,Joe Menendez,1,Brittany Murphy,Actress,True,White,False,Female,Amanda Fuller,4
+The Broken Tower,http://www.imdb.com/title/tt1756791/,US,2011,0,James Franco,1,Harold Hart Crane,Author (poet),False,,False,Male,James Franco,7
+The Buddy Holly Story,http://www.imdb.com/title/tt0077280/,US,1978,0,Steve Rash,1,Buddy Holly,Singer,True,Multi racial,False,Male,Gary Busey,40
+The Chameleon,http://www.imdb.com/title/tt1359553/,US,2010,0,Jean-Paul SalomÌ©,1,FrÌ©dÌ©ric Fortin,Criminal,True,Multi racial,True,Male,Marc-AndrÌ© Grondin,8
+The Color of Freedom,http://www.imdb.com/title/tt0438859/,UK,2007,0,Bille August,1,James Gregory,Other,True,White,False,Male,Joseph Fiennes,11
+The Color of Time,http://www.imdb.com/title/tt2133333/,US,2012,0,"Edna Luise Biesold, Sarah-Violet Bliss",1,CK Williams,Author,False,,False,Male,James Franco,6
+The Conqueror,http://www.imdb.com/title/tt0049092/,US,1956,4.5,Dick Powell,1,Temujin (Genghis Khan),Military,True,Asian,True,Male,John Wayne,62
+The Countess,http://www.imdb.com/title/tt0496634/,US,2009,0,Julie Delpy,1,ErzsÌ©bet BÌÁthory,Historical,True,White,False,Female,Julie Delpy,9
+The Court-Martial of Billy Mitchell,http://www.imdb.com/title/tt0047956/,US,1955,0,Otto Preminger,1,Billy Mitchell,Military,True,White,False,Male,Gary Cooper,63
+The Cross and the Switchblade,http://www.imdb.com/title/tt0068428/,US,1970,0,Don Murray,1,David Wilkerson,Other,False,,False,Male,Pat Boone,48
+The Damned United,http://www.imdb.com/title/tt1226271/,UK,2009,0.45,Tom Hooper,1,Brian Clough,Athlete,False,,False,Male,Michael Sheen,9
+The Desert Fox: The Story of Rommel,http://www.imdb.com/title/tt0043461/,US,1951,0,Henry Hathaway,1,Erwin Rommel,Military,True,White,False,Male,James Mason,67
+The Diary of Anne Frank,http://www.imdb.com/title/tt0052738/,US,1959,0,George Stevens,1,Anne Frank,Other,True,White,False,Female,Millie Perkins,59
+The Diving Bell and the Butterfly,http://www.imdb.com/title/tt0401383/,US,2007,5.99,Julian Schnabel,1,Jean-Dominique Bauby,Media,True,White,False,Male,Mathieu Amalric,11
+The Doors,http://www.imdb.com/title/tt0101761/,US,1991,35.2,Oliver Stone,1,Jim Morrison,Singer,True,White,False,Male,Vil Kilmer,27
+The Duchess,http://www.imdb.com/title/tt0864761/,US/UK,2008,13.8,Saul Dibb,1,Georgiana Cavendish,Other,True,White,False,Female,Keira Knightley,10
+The Eddy Duchin Story,http://www.imdb.com/title/tt0049170/,US,1956,0,George Sidney,1,Eddy Duchin,Musician,False,,False,Male,Tyrone Power,62
+The Edge of Love,http://www.imdb.com/title/tt0819714/,UK,2008,0.0286,John Maybury,1,Dylan Thomas,Author (poet),True,White,False,Male,Matthew Rhys,10
+The Elephant Man,http://www.imdb.com/title/tt0080678/,US,1980,0,David Lynch,1,Joseph Merrick,Other,True,White,False,Male,John Hurt,38
+The Entity,http://www.imdb.com/title/tt0082334/,US,1982,0,Sidney J. Furie,1,Doris Bither,Other,False,,False,Female,Barbara Hershey,36
+The Express,http://www.imdb.com/title/tt0469903/,US,2008,9.59,Gary Fleder,1,Ernie Davis,Athlete,True,African American,True,Male,Rob Brown,10
+The Falcon and the Snowman,http://www.imdb.com/title/tt0087231/,US/UK,1985,17.1,John Schlesinger,1,Christopher Boyce,Criminal,False,,False,Male,Timothy Hutton,33
+The Fifth Estate,http://www.imdb.com/title/tt1837703/,US,2013,3.25,Bill Condon,1,Julian Assange,Other,True,White,False,Male,Benedict Cumberbatch,5
+The Fighter,http://www.imdb.com/title/tt0964517/,US,2010,93.6,David O. Russell,1,Micky Ward,Athlete,True,White,False,Male,Mark Wahlberg,8
+The First Grader,http://www.imdb.com/title/tt0790663/,US,2010,0.331,Justin Chadwick,1,Kimani NgÛªangÛªa Maruge,Other,True,African,True,Male,Oliver Litondo,8
+The Five Pennies,http://www.imdb.com/title/tt0052809/,US,1959,0,Melville Shavelson,1,"Loring ""Red"" Nichols",Musician,False,,False,Male,Danny Kaye,59
+The Frozen Ground,http://www.imdb.com/title/tt2005374/,US,2013,0,Scott Walker,2,Jack Halcombe,Other,False,,False,Male,Nicolas Cage,5
+The Frozen Ground,http://www.imdb.com/title/tt2005374/,US,2013,0,Scott Walker,2,Robert Hansen,Criminal,True,White,False,Male,John Cusack,5
+The Gallant Hours,http://www.imdb.com/title/tt0053849/,US,1960,0,Robert Montgomery,1,"William F. ""Bull"" Halsey, Jr.",Military,True,White,False,Male,James Cagney,58
+The Gaul,http://www.imdb.com/title/tt0199481/,Canada,2001,0,Jacques Dorfmann,1,Vercingetorix,Historical,True,White,False,Male,Christopher Lambert,17
+The General,http://www.imdb.com/title/tt0120706/,UK,1998,1.21,John Boorman,1,Martin Cahill,Criminal,True,White,False,Male,Brendan Gleeson,20
+The Girl in the Red Velvet Swing,http://www.imdb.com/title/tt0048119/,US,1955,0,Richard Fleischer,1,Evelyn Nesbit (Thaw),Actress,True,White,False,Female,Joan Collins,63
+The Glenn Miller Story,http://www.imdb.com/title/tt0047030/,US,1954,0,Anthony Mann,1,Glenn Miller,Musician,True,White,False,Male,James Stewart,64
+The Great Caruso,http://www.imdb.com/title/tt0043599/,US,1951,0,Richard Thorpe,1,Enrico Caruso,Musician,True,White,False,Male,Mario Lanza,67
+The Great Debaters,http://www.imdb.com/title/tt0427309/,US,2007,30.2,Denzel Washington,1,Melvin Tolson,Academic,True,African American,True,Male,Denzel Washington,11
+The Great Moment,http://www.imdb.com/title/tt0036880/,US,1944,0,Preston Sturges,1,W.T. Morton,Medicine,False,,False,Male,Joel McCrea,74
+The Great Waltz,http://www.imdb.com/title/tt0030202/,US,1938,0,Julien Duvivier,1,Johann Strauss II,Musician,True,White,False,Male,Fernand Gravey,80
+The Great Ziegfeld,http://www.imdb.com/title/tt0027698/,US,1936,0,Robert Z. Leonard,1,Florenz Ziegfeld,Musician,True,White,False,Male,William Powell,82
+The Greatest,http://www.imdb.com/title/tt0076111/,US/UK,1977,0,Tom Gries,1,Muhammad Ali,Athlete,True,African American,True,Male,Muhammad Ali,41
+The Greatest Story Ever Told,http://www.imdb.com/title/tt0059245/,US,1965,8.0,George Stevens,1,Jesus,Historical,True,Middle Eastern (White),False,Male,Max von Sydow,53
+The Grey Fox,http://www.imdb.com/title/tt0085622/,Canada,1982,0,Phillip Borsos,1,Bill Miner,Other,False,,False,Male,Richard Farnsworth,36
+The Hammer,http://www.imdb.com/title/tt1094666/,US,2010,0,Oren Kaplan,1,Matt Hamill,Athlete,False,,False,Male,Russell Harvard,8
+The Happy Hooker,http://www.imdb.com/title/tt0073091/,US,1975,0,Nicholas Sgarro,1,Xaviera Hollander,Other,True,White,False,Female,Lynn Redgrave,43
+The House of Rothschild,http://www.imdb.com/title/tt0025272/,US,1934,0,Alfred L. Werker,1,Mayer Rothschild,Other,True,White,False,Male,George Arliss,84
+The Hunter,http://www.imdb.com/title/tt0080907/,US,1980,0,Buzz Kulik,1,"Ralph ""Papa"" Thorson",Other,False,,False,Male,Steve McQueen,38
+The Hurricane,http://www.imdb.com/title/tt0174856/,US,1999,50.7,Norman Jewison,1,"Rubin ""Hurricane"" Carter",Athlete,True,African American,True,Male,Denzel Washington,19
+The Iceman,http://www.imdb.com/title/tt1491044/,US,2012,1.94,Ariel Vromen,1,Richard Kuklinski,Criminal,True,White,False,Male,Michael Shannon,6
+The Idolmaker,http://www.imdb.com/title/tt0080913/,US,1980,0,Taylor Hackford,1,Bob Marcucci,Other,False,,False,Male,Ray Sharkey,38
+The Imitation Game,http://www.imdb.com/title/tt2084970/,US/UK,2014,91.1,Morten Tyldum,1,Alan Turing,Academic,True,White,False,Male,Benedict Cumberbatch,4
+The Inn of the Sixth Happiness,http://www.imdb.com/title/tt0051776/,US,1958,0,Mark Robson,1,Gladys Aylward,Other,True,White,False,Female,Ingrid Bergman,60
+The Insider,http://www.imdb.com/title/tt0140352/,US,1999,29.0,Michael Mann,1,Jeffrey Wigand,Activist,False,,False,Male,Russell Crowe,19
+The Invisible Woman,http://www.imdb.com/title/tt1700845/,UK,2013,1.23,Ralph Fiennes,1,Charles Dickens,Author,True,White,False,Male,Ralph Fiennes,5
+The Iron Lady,http://www.imdb.com/title/tt1007029/,UK,2011,30.0,Phyllida Lloyd,1,Margaret Thatcher,World leader,True,White,False,Female,Meryl Streep,7
+The Jackie Robinson Story,http://www.imdb.com/title/tt0042609/,US,1950,0,Alfred E. Green,1,Jackie Robinson,Athlete,True,African American,True,Male,Jackie Robinson,68
+The Jesus Film,http://www.imdb.com/title/tt0079368/,US,1979,0,"John Krish, Peter Sykes",1,Jesus,Historical,True,Middle Eastern (White),False,Male,Brian Deacon,39
+The Jolson Story,http://www.imdb.com/title/tt0038661/,US,1946,0,Alfred E. Green,1,Al Jolson,Musician,True,White,False,Male,Larry Parks,72
+The King and I,http://www.imdb.com/title/tt0049408/,US,1956,0,Walter Lang,1,Anna Leonowens,Other,True,Multi racial,False,Female,Deborah Kerr,62
+The King of Kings,http://www.imdb.com/title/tt0018054/,US,1927,0,Cecil B. DeMille,1,Jesus,Historical,True,Middle Eastern (White),False,Male,H.B. Warner,91
+The King's Speech,http://www.imdb.com/title/tt1504320/,US/UK,2010,139.0,Tom Hooper,1,King George VI,Historical,True,White,False,Male,Colin Firth,8
+The Krays,http://www.imdb.com/title/tt0099951/,UK,1990,2.06,Peter Medak,2,Reginald Kray,Criminal,True,Multi racial,False,Male,,28
+The Krays,http://www.imdb.com/title/tt0099951/,UK,1990,2.06,Peter Medak,2,Ronald Kray,Criminal,True,Multi racial,False,Male,"With: Gary Kemp, Martin Kemp, Billie Whitelaw",28
+The Lady,http://www.imdb.com/title/tt1802197/,UK,2011,0,Luc Besson,1,Aung San Suu Kyi,Activist,True,Asian,True,Female,Michelle Yeoh,7
+The Last Emperor,http://www.imdb.com/title/tt0093389/,UK,1987,0.109,Bernardo Bertolucci,1,Henry Pu Yi,World leader,True,Asian,True,Male,John Lone,31
+The Last King of Scotland,http://www.imdb.com/title/tt0455590/,UK,2006,17.6,Kevin Macdonald,1,Idi Amin,Other,True,African,True,Male,Forest Whitaker,12
+The Last of Robin Hood,http://www.imdb.com/title/tt2450440/,US,2013,0.27,"Richard Glatzer, Wash Westmoreland",1,Errol Flynn,Actor,True,White,False,Male,Kevin Kline,5
+The Last Ride,http://www.imdb.com/title/tt1605803/,US,2012,0,Harry Thomason,1,Hank Williams,Musician,False,,False,Male,Henry Thomas,6
+The Last Station,http://www.imdb.com/title/tt0824758/,UK,2009,6.62,Michael Hoffman,1,Leo Tolstoy,Author,True,White,False,Male,Christopher Plummer,9
+The Last Time I Committed Suicide,http://www.imdb.com/title/tt0119502/,US,1997,0.0128,Stephen Kay,1,Neal Cassady,Author,False,,False,Male,Thomas Jane,21
+The Lawless Breed,http://www.imdb.com/title/tt0045992/,US,1953,0,Raoul Walsh,1,John Wesley Hardin,Criminal,False,,False,Male,Rock Hudson,65
+The Left Handed Gun,http://www.imdb.com/title/tt0051849/,US,1958,0,Arthur Penn,1,Henry McCarty (Billy the Kid),Criminal,True,White,False,Male,Paul Newman,60
+The Life and Death of Peter Sellers,http://www.imdb.com/title/tt0352520/,US,2004,0,Stephen Hopkins,1,Peter Sellers,Actor,True,White,False,Male,Geoffrey Rush,14
+The Life of Emile Zola,http://www.imdb.com/title/tt0029146/,US,1937,0,William Dieterle,1,Emile Zola,Author,True,White,False,Male,Paul Muni,81
+The Long Day Closes,http://www.imdb.com/title/tt0104753/,UK,1992,0.0228,Terence Davies,1,Terence Davies,Other,True,White,False,Male,Leigh McCormack,26
+The Long Gray Line,http://www.imdb.com/title/tt0048312/,US,1955,0,John Ford,1,Marty Maher,Military,True,White,False,Male,Tyrone Power,63
+The Longshots,http://www.imdb.com/title/tt1091751/,US,2008,11.5,Fred Durst,1,Jasmine Plummer,Athlete,True,African American,True,Female,Keke Palmer,10
+The Look of Love,http://www.imdb.com/title/tt1951216/,US/UK,2013,0.0104,Michael Winterbottom,1,Paul Raymond,Other,False,,False,Male,Steve Coogan,5
+The Lover,http://www.imdb.com/title/tt0101316/,UK,1992,4.9,Jean-Jacques Annaud,1,Marguerite Duras,Other,True,White,False,Female,Jane March,26
+The Madness of King George,http://www.imdb.com/title/tt0110428/,UK,1994,15.2,Nicholas Hytner,1,George III of UK,Historical,True,White,False,Male,Nigel Hawthorne,24
+The Magic Box,http://www.imdb.com/title/tt0043769/,UK,1951,0,John Boulting,1,William Friese-Greene,Other,False,,False,Male,Robert Donat,67
+The Man Who Saw Tomorrow,http://www.imdb.com/title/tt0081109/,US,1981,0,Robert Guenette,1,Michel de Nostredame,Academic,True,White,False,Male,Richard Butler,37
+The Message,http://www.imdb.com/title/tt0074896/,UK,1977,0,Moustapha Akkad,1,Muhammad,Historical,True,Middle Eastern,True,Male,Anthony Quinn,41
+The Miracle Maker,http://www.imdb.com/title/tt0208298/,UK,2000,0,"Derek W. Hayes, Stanislav Sokolov",1,Jesus,Historical,True,Middle Eastern (White),False,Male,Ralph Fiennes,18
+The Miracle Worker,http://www.imdb.com/title/tt0056241/,US,1962,0,Arthur Penn,2,Helen Keller,Other,True,White,False,Female,Patty Duke,56
+The Miracle Worker,http://www.imdb.com/title/tt0056241/,US,1962,0,Arthur Penn,2,Annie Sullivan,Other,True,White,False,Female,Anne Bancroft,56
+The Motorcycle Diaries,http://www.imdb.com/title/tt0318462/,US/UK,2004,16.8,Walter Salles,1,Che Guevara,Activist,True,Hispanic (Latin American),False,Male,Gael GarcÌ_a Bernal,14
+The Music Lovers,http://www.imdb.com/title/tt0066109/,UK,1970,0,Ken Russell,1,Peter Ilych Tchaikovsky,Musician,True,White,False,Male,Richard Chamberlain,48
+The New World,http://www.imdb.com/title/tt0402399/,US/UK,2005,12.7,Terrence Malick,1,Pocahontas,Historical,True,Native American,True,Female,Q'orianka Kilcher,13
+The Night We Called It a Day,http://www.imdb.com/title/tt0320159/,US,2003,0,Paul Goldman,1,Frank Sinatra,Singer,True,White,False,Male,Dennis Hopper,15
+The Notorious Bettie Page,http://www.imdb.com/title/tt0404802/,US,2005,1.41,Mary Harron,1,Bettie Page,Other,True,Multi racial,False,Female,Gretchen Mol,13
+The Other Boleyn Girl,http://www.imdb.com/title/tt0467200/,US/UK,2008,26.8,Justin Chadwick,2,Anne Boleyn,Historical,True,White,False,Female,Natalie Portman,10
+The Other Boleyn Girl,http://www.imdb.com/title/tt0467200/,US/UK,2008,26.8,Justin Chadwick,2,Mary Boleyn,Historical,True,White,False,Female,Scarlett Johansson,10
+The Other Side of Heaven,http://www.imdb.com/title/tt0250371/,US,2001,4.72,Mitch Davis,1,John Groberg,Other,False,,False,Male,Christopher Gorham,17
+The Other Side of the Mountain,http://www.imdb.com/title/tt0073496/,US,1975,0,Larry Peerce,1,Jill Kinmont,Athlete,False,,False,Female,Marilyn Hassett,43
+The People vs. Larry Flynt,http://www.imdb.com/title/tt0117318/,US,1996,20.2,Milos Forman,1,Larry Flynt,Activist,True,White,False,Male,Woody Harrelson,22
+The Perils of Pauline,http://www.imdb.com/title/tt0039698/,US,1947,0,George Marshall,1,Pearl White,Actress,False,,False,Female,Betty Hutton,71
+The Pianist,http://www.imdb.com/title/tt0253474/,UK,2002,32.5,Roman Polanski,1,Wâadysâaw Szpilman,Musician,True,White,False,Male,Adrien Brody,16
+The Pistol: The Birth of a Legend,http://www.imdb.com/title/tt0102674/,US,1991,0,Frank C. SchrÌ¦der,1,Pete Maravich,Athlete,True,White,False,Male,Adam Guier,27
+The Plainsman,http://www.imdb.com/title/tt0028108/,US,1936,0,Cecil B. DeMille,1,Wild Bill Hickok,Historical,True,White,False,Male,"With: Gary Cooper, Jean Arthur, James Ellison",82
+The Pride of the Yankees,http://www.imdb.com/title/tt0035211/,US,1942,0,Sam Wood,1,Lou Gehrig,Athlete,True,White,False,Male,Gary Cooper,76
+The Prince of Egypt,http://www.imdb.com/title/tt0120794/,US,1998,101.0,"Brenda Chapman, Steve Hickner",2,Moses,Historical,True,Middle Eastern (White),False,Male,Val Kilmer,20
+The Prince of Egypt,http://www.imdb.com/title/tt0120794/,US,1998,101.0,"Brenda Chapman, Steve Hickner",2,Ramses,Historical,True,Middle Eastern (White),False,Male,Ralph Fiennes,20
+The Prisoner of Shark Island,http://www.imdb.com/title/tt0028141/,US,1936,0,John Ford,1,Samuel Mudd,Medicine,True,White,False,Male,Warner Baxter,82
+The Private Life of Henry VIII.,http://www.imdb.com/title/tt0024473/,UK,1933,0,Alexander Korda,1,Henry VIII,Historical,True,White,False,Male,Charles Laughton,85
+The Private Lives of Elizabeth and Essex,http://www.imdb.com/title/tt0031826/,US,1939,0,Michael Curtiz,2,Elizabeth I of England,Historical,True,White,False,Female,Bette Davis,79
+The Private Lives of Elizabeth and Essex,http://www.imdb.com/title/tt0031826/,US,1939,0,Michael Curtiz,2,"Robert Devereux, 2nd Earl of Essex",Historical,True,White,False,Male,Errol Flynn,79
+"The Prize Winner of Defiance, Ohio",http://www.imdb.com/title/tt0406158/,US,2005,0.626,Jane Anderson,1,Evelyn Ryan,Other,False,,False,Female,Julianne Moore,13
+The Pursuit of Happyness,http://www.imdb.com/title/tt0454921/,US,2006,163.0,Gabriele Muccino,1,Christopher Gardner,Other,True,African American,True,Male,Will Smith,12
+The Queen,http://www.imdb.com/title/tt0436697/,US/UK,2006,56.4,Stephen Frears,1,Queen Elizabeth II,Historical,True,White,False,Female,Helen Mirren,12
+The Railway Man,http://www.imdb.com/title/tt2058107/,UK,2013,4.44,Jonathan Teplitzky,1,Eric Lomax,Military,False,,False,Male,Colin Firth,5
+The Red Baron,http://www.imdb.com/title/tt0365675/,UK,2008,0.0366,Nikolai MÌÄå_llerschÌÄå¦n,1,Baron Manfred von Richthofen,Military,True,White,False,Male,Matthias SchweighÌ¦fer,10
+The Rocket: The Legend of Rocket Richard,http://www.imdb.com/title/tt0460505/,Canada,2005,0,Charles BinamÌÄå©,1,"Maurice ""The Rocket"" Richard",Athlete,True,White,False,Male,Roy Dupuis,13
+The Runaways,http://www.imdb.com/title/tt1017451/,US,2010,3.57,Floria Sigismondi,2,Joan Jett,Musician,True,White,False,Female,Kristen Stewart,8
+The Runaways,http://www.imdb.com/title/tt1017451/,US,2010,3.57,Floria Sigismondi,2,Cherie Currie,Musician,False,,False,Female,Dakota Fanning,8
+The Sessions,http://www.imdb.com/title/tt1866249/,US,2012,6.0,Ben Lewin,1,Mark O'Brien,Medicine,False,,False,Male,John Hawkes,6
+The Seven Little Foys,http://www.imdb.com/title/tt0048604/,US,1955,0,Melville Shavelson,1,"Eddie Foy, Sr.",Actor,True,White,False,Male,Bob Hope,63
+The Singing Nun,http://www.imdb.com/title/tt0060983/,US,1966,0,Henry Koster,1,Jeanne Deckers,Musician,True,White,False,Female,Debbie Reynolds,52
+The Social Network,http://www.imdb.com/title/tt1285016/,US,2010,96.9,David Fincher,1,Mark Zuckerberg,Other,False,,False,Male,Jesse Eisenberg,8
+The Soloist,http://www.imdb.com/title/tt0821642/,US/UK,2009,31.7,Joe Wright,2,Nathaniel Ayers,Musician,True,African American,True,Male,Jamie Foxx,9
+The Soloist,http://www.imdb.com/title/tt0821642/,US/UK,2009,31.7,Joe Wright,2,Steve Lopez,Media,False,,False,Male,"Robert Downey, Jr.",9
+The Song of Bernadette,http://www.imdb.com/title/tt0036377/,US,1943,0,Henry King,1,Saint Bernadette Soubirous,Other,True,White,False,Female,Jennifer Jones,75
+The Soul Keeper,http://www.imdb.com/title/tt0349995/,UK,2002,0,Roberto Faenza,2,Carl Gustav Jung,Academic,True,White,False,Male,Iain Glen,16
+The Soul Keeper,http://www.imdb.com/title/tt0349995/,UK,2002,0,Roberto Faenza,2,Sabina Spielrein,Academic,True,White,False,Female,Emilia Fox,16
+The Sound of Music,http://www.imdb.com/title/tt0059742/,US,1965,163.0,Robert Wise,1,Maria von Trapp,Singer,True,White,False,Female,Julie Andrews,53
+The Spirit of St. Louis,http://www.imdb.com/title/tt0051003/,US,1957,0,Billy Wilder,1,Charles 'Slim' Lindbergh,Other,True,White,False,Male,James Stewart,61
+The Story of Alexander Graham Bell,http://www.imdb.com/title/tt0031981/,US,1939,0,Irving Cummings,1,Alexander Graham Bell,Academic,True,White,False,Male,Don Ameche,79
+The Story of Louis Pasteur,http://www.imdb.com/title/tt0028313/,US,1936,0,William Dieterle,1,Louis Pasteur,Academic,True,White,False,Male,Paul Muni,82
+The Story of Vernon and Irene Castle,http://www.imdb.com/title/tt0031983/,US,1939,1.12,H.C. Potter,2,Irene Castle,Artist,False,,False,Female,Ginger Rogers,79
+The Story of Vernon and Irene Castle,http://www.imdb.com/title/tt0031983/,US,1939,1.12,H.C. Potter,2,Vernon Castle,Artist,False,,False,Male,Fred Astaire,79
+The Straight Story,http://www.imdb.com/title/tt0166896/,US/UK,1999,6.2,David Lynch,1,Alvin Straight,Other,False,,False,Male,Richard Farnsworth,19
+The Stratton Story,http://www.imdb.com/title/tt0041928/,US,1949,0,Sam Wood,1,Monty Stratton,Athlete,False,,False,Male,James Stewart,69
+The Ten Commandments,http://www.imdb.com/title/tt0049833/,US,1956,80.0,Cecil B. DeMille,1,Moses,Historical,True,Middle Eastern (White),False,Male,Charlton Heston,62
+The Theory of Everything,http://www.imdb.com/title/tt2980516/,UK,2014,35.9,James Marsh,1,Steven Hawking,Academic,True,White,False,Male,Eddie Redmayne,4
+The Toast of New York,http://www.imdb.com/title/tt0029675/,US,1937,0,Rowland V. Lee,1,James Fisk,Criminal,True,White,False,Male,Edward Arnold,81
+The Trials of Oscar Wilde,http://www.imdb.com/title/tt0054403/,UK,1960,0,Ken Hughes,1,Oscar Wilde,Author,True,White,False,Male,Peter Finch,58
+The True Story of Jesse James,http://www.imdb.com/title/tt0051114/,US,1957,0,Nicholas Ray,1,Jesse James,Criminal,True,White,False,Male,Robert Wagner,61
+The Unsinkable Molly Brown,http://www.imdb.com/title/tt0058708/,US,1964,0,Charles Walters,1,Molly Brown,Other,True,White,False,Female,Debbie Reynolds,54
+The Visual Bible: The Gospel of John,http://www.imdb.com/title/tt0377992/,Canada/UK,2003,4.07,Philip Saville,1,Jesus,Historical,True,Middle Eastern (White),False,Male,Henry Ian Cusick,15
+The Whistleblower,http://www.imdb.com/title/tt0896872/,US/Canada,2010,1.12,Larysa Kondracki,1,Kathryn Bolkovac,Other,True,White,False,Female,Rachel Weisz,8
+The Whole Wide World,http://www.imdb.com/title/tt0118163/,US,1996,0.137,Dan Ireland,2,Robert Howard,Author,True,White,False,Male,Vincent D'Onofrio,22
+The Whole Wide World,http://www.imdb.com/title/tt0118163/,US,1996,0.137,Dan Ireland,2,Novalyne Price,Author,True,Multi racial,False,Female,RenÌ©e Zellweger,22
+The Wings of Eagles,http://www.imdb.com/title/tt0051198/,US,1957,0,John Ford,1,"Frank W. ""Spig"" Wead",Military,False,,False,Male,John Wayne,61
+The Winning Team,http://www.imdb.com/title/tt0045332/,US,1952,0,Lewis Seiler,1,Grover Cleveland Alexander,Athlete,True,White,False,Male,Ronald Reagan,66
+The Wizard of Speed and Time,http://www.imdb.com/title/tt0081766/,US,1988,0,Mike Jittlov,1,Mike Jittlov,Other,False,,False,Male,Mike Jittlov,30
+The Wolf of Wall Street,http://www.imdb.com/title/tt0993846/,US,2013,117.0,Martin Scorsese,1,Jordan Belfort,Criminal,False,,False,Male,Leonardo DiCaprio,5
+The Wonderful World of the Brothers Grimm,http://www.imdb.com/title/tt0056700/,US,1961,0,"Henry Levin, George Pal",2,Jacob Grimm,Author,True,White,False,Male,Karlheinz BÌ¦hm,57
+The Wonderful World of the Brothers Grimm,http://www.imdb.com/title/tt0056700/,US,1961,0,"Henry Levin, George Pal",2,Wilhelm Grimm,Author,True,White,False,Male,Laurence Harvey,57
+The World's Fastest Indian,http://www.imdb.com/title/tt0412080/,US,2005,5.13,Roger Donaldson,1,"Herbert James ""Burt"" Munro",Athlete,True,White,False,Male,Anthony Hopkins,13
+The Young Victoria,http://www.imdb.com/title/tt0962736/,US/UK,2009,11.0,Jean-Marc VallÌ©e,1,Victoria,Historical,True,White,False,Female,Emily Bunt,9
+They Died with Their Boots On,http://www.imdb.com/title/tt0034277/,US,1941,0,Raoul Walsh,1,George Armstrong Custer,Military,True,White,False,Male,Errol Flynn,77
+Thirteen,http://www.imdb.com/title/tt0328538/,US,2003,4.6,Catherine Hardwicke,2,Nikki Reed,Other,True,White,False,Female,Evan Rachel Wood,15
+Thirteen,http://www.imdb.com/title/tt0328538/,US,2003,4.6,Catherine Hardwicke,2,Catherine Hardwicke,Other,False,,False,Female,Holly Hunter,15
+Thirty Two Short Films About Glenn Gould,http://www.imdb.com/title/tt0108328/,Canada,1993,1.57,FranÌ¤ois Girard,1,Glenn Gould,Musician,True,White,False,Male,Colm Feore,25
+This Boy's Life,http://www.imdb.com/title/tt0108330/,US,1993,4.1,Michael Caton-Jones,1,Tobias Wolff,Other,False,,False,Male,Leonardo DiCaprio,25
+This Is Elvis,http://www.imdb.com/title/tt0083193/,US,1981,0,"Malcolm Leo, Andrew Solt",1,Elvis Presley,Musician,True,White,False,Male,Multiple,37
+Thomas Kinkade's Christmas Cottage,http://www.imdb.com/title/tt0999872/,US,2008,0,Michael Campus,1,Thomas Kinkade,Artist,True,White,False,Male,Jared Padalecki,10
+Three Little Words,http://www.imdb.com/title/tt0043044/,US,1950,0,Richard Thorpe,2,Bert Kalmar,Musician,True,White,False,Male,Fred Astaire,68
+Three Little Words,http://www.imdb.com/title/tt0043044/,US,1950,0,Richard Thorpe,2,Harry Ruby,Musician,True,White,False,Male,Red Skelton,68
+Till the Clouds Roll By,http://www.imdb.com/title/tt0039035/,US,1946,6.72,Richard Whorf,1,Jerome Kern,Musician,True,White,False,Male,Robert Walker,72
+To Hell and Back,http://www.imdb.com/title/tt0048729/,US,1955,0,Jesse Hibbs,1,Audie Murphy,Military,True,White,False,Male,Audie Murphy,63
+To Kill a King,http://www.imdb.com/title/tt0302436/,UK,2003,0,Mike Barker,2,Oliver Cromwell,Historical,True,White,False,Male,Tim Roth,15
+To Kill a King,http://www.imdb.com/title/tt0302436/,UK,2003,0,Mike Barker,2,Thomas Fairfax,Historical,True,White,False,Male,Dougray Scott,15
+To Walk with Lions,http://www.imdb.com/title/tt0132563/,Canada/UK,1999,0,Carl Schultz,2,George Adamson,Other,False,,False,Male,Richard Harris,19
+To Walk with Lions,http://www.imdb.com/title/tt0132563/,Canada/UK,1999,0,Carl Schultz,2,Tony Fitzjohn,Other,False,,False,Male,John Michie,19
+To Write Love on Her Arms,http://www.imdb.com/title/tt1850418/,US,2012,0,Nathan Frankowski,1,Renee Yohe,Other,False,,False,Female,Kat Dennings,6
+Tom & Viv,http://www.imdb.com/title/tt0111454/,US/UK,1994,0.539,Brian Gilbert,2,T.S. Eliot,Author,True,White,False,Male,Willem Dafoe,24
+Tom & Viv,http://www.imdb.com/title/tt0111454/,US/UK,1994,0.539,Brian Gilbert,2,Vivienne Haigh-Wood,Author,True,White,False,Female,Miranda Richardson,24
+Topsy-Turvy,http://www.imdb.com/title/tt0151568/,US/UK,1999,6.2,Mike Leigh,2,Arthur Sullivan,Musician,True,White,False,Male,Allan Corduner,19
+Topsy-Turvy,http://www.imdb.com/title/tt0151568/,US/UK,1999,6.2,Mike Leigh,2,William Schwenck Gilbert,Author,True,White,False,Male,Jim Broadbent,19
+Total Eclipse,http://www.imdb.com/title/tt0114702/,UK,1995,0.34,Agnieszka Holland,2,Arthur Rimbaud,Author (poet),False,,False,Male,Leonardo DiCaprio,23
+Total Eclipse,http://www.imdb.com/title/tt0114702/,UK,1995,0.34,Agnieszka Holland,2,Paul Verlaine,Author (poet),False,,False,Male,David Thewlis,23
+Triumph of the Spirit,http://www.imdb.com/title/tt0098513/,US,1989,0.409,Robert M. Young,1,Salamo Arouch,Athlete,True,White,False,Male,Willem Dafoe,29
+Tucker: The Man and His Dream,http://www.imdb.com/title/tt0096316/,US,1988,19.7,Francis Ford Coppola,1,Preston Tucker,Other,False,,False,Male,Jeff Bridges,30
+Unbroken,http://www.imdb.com/title/tt1809398/,US,2014,116.0,Angelina Jolie,1,Louis Zamperini,Athlete / military,True,White,False,Male,Jack O'Connell,4
+Valentino,http://www.imdb.com/title/tt0076868/,US/UK,1977,0,Ken Russell,1,Rudolph Valentino,Actor,True,White,False,Male,Rudolf Nureyev,41
+Vatel,http://www.imdb.com/title/tt0190861/,UK,2000,0.0495,Roland JoffÌ©,1,FranÌ¤ois Vatel,Other,True,White,False,Male,GÌ©rard Depardieu,18
+Veronica Guerin,http://www.imdb.com/title/tt0312549/,US/UK,2003,1.57,Joel Schumacher,1,Veronica Guerin,Media,True,White,False,Female,Cate Blanchett,15
+Vincent & Theo,http://www.imdb.com/title/tt0100873/,UK,1990,2.23,Robert Altman,2,Theo van Gogh,Other,True,White,False,Male,Paul Rhys,28
+Vincent & Theo,http://www.imdb.com/title/tt0100873/,UK,1990,2.23,Robert Altman,2,Vincent Van Gogh,Artist,True,White,False,Male,Tim Roth,28
+VIPs,http://www.imdb.com/title/tt1235548/,US,2010,0,Toniko Melo,1,Marcelo Nascimento da Rocha,Criminal,True,White,False,Male,Wagner Moura,8
+Viva Knievel!,http://www.imdb.com/title/tt0076890/,US,1977,0,Gordon Douglas,1,Evel Knievel,Athlete,True,White,False,Male,Evel Knievel,41
+Viva Villa!,http://www.imdb.com/title/tt0025948/,US,1934,1.11,Jack Conway,1,Pancho Villa,Military,True,Hispanic (Latin American),True,Male,Wallace Beery,84
+Viva Zapata!,http://www.imdb.com/title/tt0045296/,US,1952,0,Elia Kazan,1,Emiliano Zapata,Activist,True,Hispanic (Latin American),True,Male,Marlon Brando,66
+Von Richthofen and Brown,http://www.imdb.com/title/tt0067658/,US,1971,0,Roger Corman,2,Manfred von Richtofen,Military,True,White,False,Male,John Phillip Law,47
+Von Richthofen and Brown,http://www.imdb.com/title/tt0067658/,US,1971,0,Roger Corman,2,Roy Brown,Military,True,White,False,Male,Don Stroud,47
+W.,http://www.imdb.com/title/tt1175491/,US,2008,25.5,Oliver Stone,1,George W. Bush,World leader,True,White,False,Male,Josh Brolin,10
+Walk the Line,http://www.imdb.com/title/tt0358273/,US,2005,120.0,James Mangold,1,Johnny Cash,Musician,True,White,False,Male,Joaquin Phoenix,13
+Walker,http://www.imdb.com/title/tt0096409/,US,1987,0.257,Alex Cox,1,William Walker,Other,True,White,False,Male,Ed Harris,31
+Walking Tall Part II,http://www.imdb.com/title/tt0073880/,US,1975,0,Earl Bellamy,1,Buford Pusser,Other,False,,False,Male,Bo Svenson,43
+What We Do Is Secret,http://www.imdb.com/title/tt0384683/,US,2007,0.0588,Rodger Grossman,1,Darby Crash,Singer,False,,False,Male,Shane West,11
+What's Love Got to Do with It,http://www.imdb.com/title/tt0108551/,US,1993,39.1,Brian Gibson,1,Anna Mae Bullock (Tina Turner),Singer,True,Multi racial,True,Female,Angela Bassett,25
+When Did You Last See Your Father?,http://www.imdb.com/title/tt0829098/,UK,2007,1.07,Anand Tucker,1,Blake Morrison,Other,True,White,False,Male,Colin Firth,11
+Where the Buffalo Roam,http://www.imdb.com/title/tt0081748/,US,1980,0,Art Linson,1,Hunter S. Thompson,Media,False,,False,Male,Bill Murray,38
+WhiteLightnin',http://www.imdb.com/title/tt1034419/,UK,2009,0,Dominic Murphy,1,Jesco White,Other,False,,False,Male,Edward Hogg,9
+Why Do Fools Fall in Love,http://www.imdb.com/title/tt0123324/,US,1998,12.4,Gregory Nava,1,Frankie Lymon,Musician,True,African American,True,Male,Larenz Tate,20
+Wild,http://www.imdb.com/title/tt2305051/,US,2014,37.9,Jean-Marc VallÌ©e,1,Cheryl Strayed,Other,False,,False,Female,Reese Witherspoon,4
+Wild Bill,http://www.imdb.com/title/tt0114938/,US,1995,2.17,Walter Hill,1,Wild Bill Hickok,Historical,True,White,False,Male,Jeff Bridges,23
+Wilde,http://www.imdb.com/title/tt0120514/,UK,1997,2.16,Brian Gilbert,1,Oscar Wilde,Author,True,White,False,Male,Stephen Fry,21
+Wilson,http://www.imdb.com/title/tt0037465/,US,1944,2.0,Henry King,1,Woodrow Wilson,World leader,True,White,False,Male,Alexander Knox,74
+Winnie Mandela,http://www.imdb.com/title/tt1551641/,Canada,2011,0,Darrell Roodt,1,Winnie Mandela,Government,True,African,True,Female,Jennifer Hudson,7
+Wired,http://www.imdb.com/title/tt0098660/,US,1989,1.09,Larry Peerce,1,John Belushi,Comedian,False,,False,Male,Michael Chiklis,29
+With a Song in My Heart,http://www.imdb.com/title/tt0045333/,US,1952,0,Walter Lang,1,Jane Froman,Musician,False,,False,Female,Susan Hayward,66
+Without Limits,http://www.imdb.com/title/tt0119934/,US,1998,0.777,Robert Towne,1,Steve Prefontaine,Athlete,True,White,False,Male,Billy Crudup,20
+Wittgenstein,http://www.imdb.com/title/tt0108583/,UK,1993,0,Derek Jarman,1,Ludwig Wittgenstein,Academic (Philosopher),True,White,False,Male,Clancy Chassay,25
+Words and Music,http://www.imdb.com/title/tt0040976/,US,1948,0,Norman Taurog,2,Lorenz Hart,Musician,True,White,False,Male,Mickey Rooney,70
+Words and Music,http://www.imdb.com/title/tt0040976/,US,1948,0,Norman Taurog,2,Richard Rogers,Musician,True,White,False,Male,Tom Drake,70
+Wyatt Earp,http://www.imdb.com/title/tt0111756/,US,1994,25.1,Lawrence Kasdan,1,Wyatt Earp,Other,True,White,False,Male,Kevin Costner,24
+Yankee Doodle Dandy,http://www.imdb.com/title/tt0035575/,US,1942,0,Michael Curtiz,1,George M. Cohan,Musician,True,White,False,Male,James Cagney,76
+Young Bess,http://www.imdb.com/title/tt0046564/,US,1953,0,George Sidney,1,Elizabeth I,Historical,True,White,False,Female,Jean Simmons,65
+Young Cassidy,http://www.imdb.com/title/tt0059930/,UK,1965,0,Jack Cardiff,1,Sean O'Casey,Author,True,White,False,Male,Rod Taylor,53
+Young Man with a Horn,http://www.imdb.com/title/tt0043153/,US,1950,0,Michael Curtiz,1,Bix Beiderbecke,Musician,True,White,False,Male,Kirk Douglas,68
+Young Mr. Lincoln,http://www.imdb.com/title/tt0032155/,US,1939,0,John Ford,1,Abraham Lincoln,World leader,True,White,False,Male,Henry Fonda,79
+Young Tom Edison,http://www.imdb.com/title/tt0033289/,US,1940,0,Norman Taurog,1,Thomas Edison,Other,True,White,False,Male,Mickey Rooney,78
+Young Winston,http://www.imdb.com/title/tt0069528/,US,1972,0,Richard Attenborough,1,Winston Churchill,World leader,True,White,False,Male,Simon Ward,46
+Your Cheatin' Heart,http://www.imdb.com/title/tt0058765/,US,1964,0,Gene Nelson,1,Hank Williams,Musician,False,,False,Male,George Hamilton,54
