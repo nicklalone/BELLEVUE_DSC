@@ -1,5 +1,6 @@
 # Avenger class to assist with creating a markdown report.
 
+
 class Avenger:
     def __init__(self, record=None):
         """
@@ -40,6 +41,10 @@ class Avenger:
         # Returns the percentage gap between males and females (absolute value)
         return self.gap
 
+    def __str__(self):
+        # Reads the object as a string
+        return self.name()
+
     def __repr__(self):
         """
 
@@ -52,16 +57,17 @@ class Avenger:
                                      if key == 'name_alias'
                                      or key == 'url') + ")"
 
-    def to_markdown(self, recordslist, outfile):
+    def to_markdown(self, records_list, outfile):
         # Takes a list of records and writes out a formatted output file.
         # Arguments:
-            # recordslist: list of records utilized in the Avengers class
+            # records_list: list of records utilized in the Avengers class
         with open(outfile, 'w') as ofile:
             ofile.write('# List of the top 10 names with the lowest gender gap.\n\n')
-            for idx, rc in enumerate(recordslist, 1):
+            for idx, rc in enumerate(records_list, 1):
                 avenger = Avenger(rc)
                 ofile.write('## ' + str(idx) + '. ' + str(avenger.name()) + '\n\n')
                 ofile.write('* Total number of people with the name: ' + str(avenger.total()) + '\n')
                 ofile.write('* Percent of males: ' + str(avenger.male_share()) + '\n')
                 ofile.write('* Percent of females: ' + str(avenger.female_share()) + '\n')
                 ofile.write('* Gap:' + str(avenger.gap()) + '\n\n')
+
