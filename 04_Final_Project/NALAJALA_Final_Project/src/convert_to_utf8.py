@@ -19,9 +19,9 @@ def main(input_file_path, output_file_path):
         print("File created with utf-8 encoded data and copied to {}".format(output_file_path))
     except IOError as e:
         print("I/O error({0}): {1}".format(e.errno, e.strerror))
-    except Exception:
-        print(sys.exc_info())
+    except Exception as e:
         print("Error during conversion. Please try again")
+        print("Error on line {}:".format(sys.exc_info()[-1].tb_lineno), type(e).__name__, e)
 
 
 if __name__ == '__main__':

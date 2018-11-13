@@ -6,7 +6,7 @@
 Link to the data set; Too large to upload 
 <br />
 
-https://github.com/fivethirtyeight/data/blob/master/science-giving/science_federal_giving.csv
+https://raw.githubusercontent.com/fivethirtyeight/data/master/comic-characters/dc-wikia-data.csv
 <br />
 
 * This was processed from ISO to UTF-8 using convert_to_utf8.py file and stored in the 'interim' folder
