@@ -16,6 +16,7 @@ class Biopic:
             self.record = record
             self.title_value = record["title"]
             self.site_value = record["site"]
+            # I'm just curious does it make a difference when you use self.country_name = record["country"].  My code did not work until I changed this.
             self.country = record["country"]
             self.year_release_value = record["year_release"]
             self.box_office_amount = record["box_office"]
@@ -74,7 +75,8 @@ class Biopic:
 
     def subject(self):
         """
-        Returns: str: The main subject that biopic based on
+
+Returns: str: The main subject that biopic based on
         """
         return self.subject.strip()
 
@@ -155,6 +157,7 @@ class Biopic:
                     ofile.write('*  Box Office: $%s million\n' % format(biopic.box_office(), ",.2f"))
                     ofile.write('*  Years Since Released: %d \n' % biopic.years_since_released())
                     ofile.write('*  URL: <%s>\n' % biopic.site())
+        # I like the exception piece you added below.  It makes it easy to know where there is an error and where to implement a fix.            
         except BaseException as e:
             print("Exception in 'to_markdown' function")
             print("Error on line {}:".format(sys.exc_info()[-1].tb_lineno), type(e).__name__, e)
