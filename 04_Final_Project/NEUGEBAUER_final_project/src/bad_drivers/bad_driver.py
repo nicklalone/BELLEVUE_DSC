@@ -1,4 +1,5 @@
 # Fundamentally re-written for bad drivers.
+from google_utils.google_searches import get_google_results
 
 # DO NOT EDIT THE FORMATTING IN THIS FILE!!! NO EXTRA CR AND WHITE SPACE!!!
 
@@ -102,6 +103,14 @@ class BadDrivers:
                 ofile.write("* % fatals while drivers had no priors: " + str(bad_drivers.get_no_priors()) + "\n")
                 ofile.write("* Premium for bad driver: " + '$' + str(bad_drivers.get_premiums()) + "\n")
                 ofile.write("* Losses per collision per driver: " + str(bad_drivers.get_losses()) + "\n")
+
+            # Now that the driver record information is printed, list some stuff from
+            # Google on bad drivers.
+            ofile.write("## Google search on 'bad drivers'")
+            ofile.write('# Warning: some content may be inappropriate.')
+
+            for this_result in get_google_search.get_google_results():
+                ofile.write(this_result)
 
 
 
