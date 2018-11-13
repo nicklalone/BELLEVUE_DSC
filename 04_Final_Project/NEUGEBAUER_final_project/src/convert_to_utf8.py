@@ -30,10 +30,13 @@ def main(input_file, output_file):
 if __name__ == "__main__":
     config = yaml.safe_load(open('../config/config.yml'))
     print('Opened YAML config')
+
     inputFileName = config.get('RawInputFile')
     print('Got the input file name.', inputFileName)
+
     interimUTF8Name = config.get('InterimUTF8File')
     print('Got the output file name', interimUTF8Name)
+
     main(inputFileName, interimUTF8Name)
 
 
