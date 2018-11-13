@@ -1,9 +1,6 @@
 import sys
 import csv
 import yaml
-# Python 3 uses dot notation to specify a sub-directory, then a file, and you import
-# a class within the file.
-#Here, at first I tried from src.msds510.avenger and was wondering why my code wouldn't work.  it wasn't until I changed it to msds510 that it worked.
 from bad_drivers.bad_driver import BadDrivers
 
 def main():
@@ -21,7 +18,6 @@ def main():
         print('An exception occured in the main method.', sys.exc_info())
 
 def generate_report(infile, outfile):
-
     file = []
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')

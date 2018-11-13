@@ -88,3 +88,16 @@
 * % fatals while drivers had no priors: 86
 * Premium for bad driver: $669.31
 * Losses per collision per driver: 96.87
+## Google search. Warning: some content may be inappropriate.
+Now that you have seen bad drivers per state, let's look at actual bad drivers.
+* https://www.youtube.com/watch?v=IH5jWAlV2pU
+* https://www.youtube.com/watch?v=yDdJCFH_IBE
+* https://www.youtube.com/watch?v=HvOZ7N8cc9E
+* https://www.youtube.com/watch?v=1VDCGlyZ5Hw
+* https://www.facebook.com/BaadDrivers/
+* https://www.facebook.com/BaadDrivers/videos
+* https://www.icebike.org/bad-driving-habits/
+* https://www.someecards.com/news/news/15-reaaallllyyyy-bad-drivers/
+* https://www.youtube.com/watch?v=WoBg9vmKbz0
+* https://www.psychologicalscience.org/news/motr/bad-drivers-no-just-bad-stereotypes.html
+* https://twitter.com/hashtag/baddrivers?lang=en

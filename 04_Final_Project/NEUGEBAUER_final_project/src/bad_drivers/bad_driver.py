@@ -1,5 +1,5 @@
 # Fundamentally re-written for bad drivers.
-from google_utils.google_searches import get_google_results
+from googlesearch import search
 
 # DO NOT EDIT THE FORMATTING IN THIS FILE!!! NO EXTRA CR AND WHITE SPACE!!!
 
@@ -80,7 +80,6 @@ class BadDrivers:
         """
         return self.losses
 
-
     def to_markdown(self, recordslist, outfile):
         """takes a list of records, formats them
         and prints them to an output file.
@@ -104,13 +103,11 @@ class BadDrivers:
                 ofile.write("* Premium for bad driver: " + '$' + str(bad_drivers.get_premiums()) + "\n")
                 ofile.write("* Losses per collision per driver: " + str(bad_drivers.get_losses()) + "\n")
 
-            # Now that the driver record information is printed, list some stuff from
-            # Google on bad drivers.
-            ofile.write("## Google search on 'bad drivers'")
-            ofile.write('# Warning: some content may be inappropriate.')
-
-            for this_result in get_google_search.get_google_results():
-                ofile.write(this_result)
+            # Now that the driver record information is printed, list some stuff from Google on bad drivers.
+            ofile.write('## Google search. Warning: some content may be inappropriate.' + '\n')
+            ofile.write('Now that you have seen bad drivers per state, let\'s look at actual bad drivers.' + '\n')
+            for google_result in search('Bad Drivers', tld='com', num=10, stop=1, pause=2):
+                ofile.write('* ' + google_result + '\n')
 
 
 
