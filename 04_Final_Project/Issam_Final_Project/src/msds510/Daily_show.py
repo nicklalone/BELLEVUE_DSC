@@ -20,7 +20,7 @@ class Daily_show:
             self.guest_value = record["raw_guest_list"]
 
 
-    def year_value(self):
+    def year(self):
         """
 
         Returns:
@@ -29,7 +29,7 @@ class Daily_show:
         """
         return int(self.year_value)
 
-    def occupation(self):
+    def googleknowlege_occupation(self):
         """
 
         Returns:
@@ -38,7 +38,7 @@ class Daily_show:
         """
         return str(self.occupation)
 
-    def air_date(self):
+    def show(self):
         """
 
         Returns:
@@ -49,7 +49,7 @@ class Daily_show:
 
 
 
-    def group_value(self):
+    def group(self):
         """
 
         Returns:
@@ -58,7 +58,7 @@ class Daily_show:
         """
         return str(self.group_value)
 
-    def guest_value(self):
+    def raw_guest_list(self):
         """
 
         Returns:
@@ -76,7 +76,7 @@ class Daily_show:
             str: A human-readable value for this character
 
         """
-        return str(self.guest_value())
+        return str(self.raw_guest_list())
 
     def __repr__(self):
         """
@@ -87,8 +87,8 @@ class Daily_show:
 
         return "Daily_show(" + ",".join(key + "=" + val
                                      for key, val in self.record.items()
-                                     if key == 'guest_value'
-                                     or key == 'occupation') + ")"
+                                     if key == 'raw_guest_list'
+                                     or key == 'googleknowlege_occupation') + ")"
 
     def to_markdown(self, recordslist, outfile):
         """takes a list of records, formats them
@@ -102,10 +102,10 @@ class Daily_show:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 daily_show = Daily_show(rc)
-                ofile.write("# " +  str(idx +1)+ ". " + str(daily_show.guest_value()) + "\n\n")
-                ofile.write('* Occupation of Guest: ' + str(daily_show.occupation()) + '\n') #This needs to be a string to write
-                ofile.write('* General Group of Guest: ' + str(daily_show.group_value()) + '\n')
-                ofile.write('* Air Date of Guest Appearance: ' + str(daily_show.air_date()) + '\n')
+                ofile.write("# " +  str(idx +1)+ ". " + str(daily_show.raw_guest_list()) + "\n\n")
+                ofile.write('* Occupation of Guest: ' + str(daily_show.googleknowlege_occupation()) + '\n') #This needs to be a string to write
+                ofile.write('* General Group of Guest: ' + str(daily_show.group()) + '\n')
+                ofile.write('* Air Date of Guest Appearance: ' + str(daily_show.show()) + '\n')
 
 
 
