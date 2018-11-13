@@ -1,7 +1,7 @@
 import sys
 import csv
 import sys
-from  msds510.Daily_show import Daily_Show
+from  msds510.Daily_show import Daily_show as ds
 # Added import sys and Avenger class import
 
 # if the avenger utility is supposed to be imported here, how do I do that? Which utility?
@@ -45,8 +45,8 @@ def generateReport(infile, outfile):
                            key=lambda k: int(k['year']),
                            reverse=True)[:10]
 
-    avenger = Avenger()
-    avenger.to_markdown(sortedRecords, outfile)
+    daily_show = ds()
+    daily_show.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
