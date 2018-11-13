@@ -10,18 +10,18 @@ class BadDrivers:
         no records is provided, the instance attributes are not set.
 
         Args:
-            record (dict): Dictionary-based record of Avenger data
+            record (dict): Dictionary-based record of data appropriate bad drivers
         """
         if record:
             self.record = record
             self.state = record["state"]
-            self.fatal_collisions = record["number_of_drivers_involved_in_fatal_collisions_per_billion_miles"]
-            self.speeding = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_speeding"]
-            self.drunk = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_alcohol-impaired"]
-            self.not_distracted = record["percentage_of_drivers_involved_in_fatal_collisions_who_were_not_distracted"]
-            self.no_priors = record["percentage_of_drivers_involved_in_fatal_collisions_who_had_not_been_involved_in_any_previous_accidents"]
-            self.premiums = record["car_insurance_premiums_($)"]
-            self.losses = record["losses_incurred_by_insurance_companies_for_collisions_per_insured_driver_($)"]
+            self.fatal_collisions = float(record["number_of_drivers_involved_in_fatal_collisions_per_billion_miles"])
+            self.speeding = int(record["percentage_of_drivers_involved_in_fatal_collisions_who_were_speeding"])
+            self.drunk = int(record["percentage_of_drivers_involved_in_fatal_collisions_who_were_alcohol-impaired"])
+            self.not_distracted = int(record["percentage_of_drivers_involved_in_fatal_collisions_who_were_not_distracted"])
+            self.no_priors = int(record["percentage_of_drivers_involved_in_fatal_collisions_who_had_not_been_involved_in_any_previous_accidents"])
+            self.premiums = float(record["car_insurance_premiums_($)"])
+            self.losses = float(record["losses_incurred_by_insurance_companies_for_collisions_per_insured_driver_($)"])
 
     def get_state(self):
         """
@@ -96,12 +96,12 @@ class BadDrivers:
                 # Do stuff with it - specifically, print each element to the .md file
                 ofile.write("# " + str(idx + 1) + ". " + bad_drivers.get_state() + "\n\n")
                 ofile.write("* Number of fatals per billion miles: " + str(bad_drivers.get_fatal_collisions()) + "\n")
-                ofile.write("* % fatals while driver speeding: " + str(bad_drivers.get_speeding()) + "\n")
-                ofile.write("* % fatals while driver drunk: " + str(bad_drivers.get_drunk()) + "\n")
-                ofile.write("* % fatals while driver NOT distracted: " + str(bad_drivers.get_not_distracted()) + "\n")
-                ofile.write("* % fatals while drivers had no priors: " + str(bad_drivers.get_no_priors()) + "\n")
+                ofile.write("* % fatals while driver speeding: " + str(bad_drivers.get_speeding()) + "%\n")
+                ofile.write("* % fatals while driver drunk: " + str(bad_drivers.get_drunk()) + "%\n")
+                ofile.write("* % fatals while driver NOT distracted: " + str(bad_drivers.get_not_distracted()) + "%\n")
+                ofile.write("* % fatals while drivers had no priors: " + str(bad_drivers.get_no_priors()) + "%\n")
                 ofile.write("* Premium for bad driver: " + '$' + str(bad_drivers.get_premiums()) + "\n")
-                ofile.write("* Losses per collision per driver: " + str(bad_drivers.get_losses()) + "\n")
+                ofile.write("* Losses per collision per driver: " + '$' + str(bad_drivers.get_losses()) + "\n")
 
             # Now that the driver record information is printed, list some stuff from Google on bad drivers.
             ofile.write('## Google search. Warning: some content may be inappropriate.' + '\n')
