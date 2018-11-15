@@ -136,6 +136,10 @@ def transform_record(rdict):
         rdict["full_reserve_avengers_intro"]
     )
 
+    # Will not need to use this particular condition for DC
+    # but may need to modify if using living_is_True function??
+    # Will not harm leaving in code since will not find
+    # anything to process
     for key, val in rdict.items():
         if (key.startswith('death') or key.startswith('return')):
             rdict[key] = to_bool(rdict[key])

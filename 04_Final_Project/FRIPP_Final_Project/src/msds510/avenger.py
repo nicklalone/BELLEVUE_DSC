@@ -62,18 +62,21 @@ class Avenger:
         Returns:
              str: Sex of DC Character
         """
+        return self.hair_color
 
     def gsm(self):
         """
         Returns:
              str: GSM Status of DC Character
         """
+        return self.gsm
 
     def alive(self):
         """
         Returns:
             str: Living status of DC Character
         """
+        return self.alive
 
     def appearances(self):
         """
