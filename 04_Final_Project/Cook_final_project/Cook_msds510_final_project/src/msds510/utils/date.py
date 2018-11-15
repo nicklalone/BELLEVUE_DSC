@@ -1,5 +1,12 @@
 import datetime
 
+# Fair Note: I am equally guilty of this. Full Disclosure.
+# I would recommend removing any 'date' processing files/methods 
+# from your directory since they won't be used for this data set.
+# It would save a true code reviewer some head scratching if they're looking
+# for the purpose of those piees in terms of this partiular data set.
+# Could maybe move them into another file structure to show that they 
+# are functioning, just not related tho this report output process.
 
 def get_month(dateString):
     """takes a string which contains a 3 letter month
