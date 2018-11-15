@@ -36,6 +36,18 @@ def to_int(value):
     except Exception:
         return None
 
+def to_float(value):
+    """takes an incoming numeric string and converts it
+        to an decimal.
+    Args:
+        value: a numeric string
+    Returns:
+        an decimal or None when can't be converted
+    """
+    try:
+        return float(value)
+    except Exception:
+        return None
 
 def to_bool(value):
     """takes an incoming string (empty, YES, NO)
@@ -113,7 +125,7 @@ def transform_record(rdict):
     rdict["beer_servings"] = to_int(rdict["beer_servings"])
     rdict["spirit_servings"] = to_int(rdict["spirit_servings"])
     rdict["wine_servings"] = to_int(rdict["wine_servings"])
-    rdict["total_litres_of_pure_alcohol"] = to_int(rdict["total_litres_of_pure_alcohol"])
+    rdict["total_litres_of_pure_alcohol"] = to_float(rdict["total_litres_of_pure_alcohol"])
 
 
     return rdict
