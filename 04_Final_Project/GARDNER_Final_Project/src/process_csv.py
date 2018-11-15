@@ -46,7 +46,7 @@ def processFile(infile, outfile):
         fieldnames = [conversion.make_nice_name(field) for field in fielddata]
 
     file = conversion.clean_field_names(file)
-    fieldnames.append("month_joinded")
+    fieldnames.append("month_joined")
 
     with open(outfile, 'w') as csvfile:
         writer = csv.DictWriter(csvfile,

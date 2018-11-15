@@ -9,7 +9,7 @@ def read_csv(csv_path):
         rows = [row for row in csv_reader]
 
     print('Printing Row 162 using csv.reader')
-    pprint(rows[162])
+    pprint(rows[62])
 
 
 def read_csv_dict(csv_path):
@@ -19,7 +19,7 @@ def read_csv_dict(csv_path):
         records = [row for row in csv_reader]
 
     print('Printing record 161 using csv.DictReader')
-    pprint(records[161])
+    pprint(records[61])
     print('Printing fieldnames')
     pprint(fieldnames)
 
