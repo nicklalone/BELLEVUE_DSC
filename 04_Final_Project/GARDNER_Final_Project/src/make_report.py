@@ -1,37 +1,32 @@
 import sys
 import csv
-from msds510.fandango import Fandango as fd
+from msds510.fandango import Avenger
 
 
 def main():
-    """interprets command line request
-    Args:
-        argv: an array with input and output files
-
-    Returns:
-        no return. Executed generateReport with
-        collected file names.
-    """
+    # Executes generate_report function with the 2 arguments
+    # 2 arguments: input file and output file location
     if len(sys.argv) != 3:
-        print("this report generator takes two parameters, "
-              "an input file and an output file")
+        print("This report generator takes two parameters, an input file and an output file.")
     else:
         print("input file: " + sys.argv[1])
         print("output file: " + sys.argv[2])
-        generateReport(sys.argv[1], sys.argv[2])
+        generate_report(sys.argv[1], sys.argv[2])
 
 
-def generateReport(infile, outfile):
+def generate_report(infile, outfile):
+    # Reads an input file and sorts it to display the top 10.
+    # Generates a report for the top 10 names with the smallest gender percentage gap.
+    # Output file name should be a markdown file as the Avenger class is formatted as such.
 
     file = []
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
+    sorted_records = sorted(file, key=lambda x: int(x['fandango_votes']), reverse=True)[:10]
+    avenger = Avenger()
+    avenger.to_markdown(sorted_records, outfile)
 
-    sortedRecords = sorted(file, key=lambda k: int(k['fandango_votes']), reverse=True)[:10]
-
-    fan_record = fd()
-    fan_record.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
