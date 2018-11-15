@@ -13,8 +13,8 @@ class Fandango:
         if record:
             self.record = record
             self.film = record["film"]
-            self.rottentomatoes = int(record["rottentomatoes"])
-            self.metacritic = int(record["metacritic"])
+            self.rotten_tomatoes = int(record["rottentomatoes"])
+            self.meta_critic = int(record["metacritic"])
             self.imdb = float(record["imdb"])
             self.fandango_ratingvalue = float(record["fandango_ratingvalue"])
             self.fandango_votes = int(record["fandango_votes"])
@@ -25,13 +25,13 @@ class Fandango:
         ''' Returns the film name'''
         return self.film
 
-    def get_rottentomatoes(self):
+    def get_rotten_tomatoes(self):
         ''' Returns the Rotten Tomatoes score'''
-        return self.rottentomatoes
+        return self.rotten_tomatoes
 
-    def get_metacritic(self):
+    def get_meta_critic(self):
         ''' Returns the Metacritic score'''
-        return self.metacritic
+        return self.meta_critic
 
     def get_imdb(self):
         ''' Returns the IMDB score'''
@@ -75,8 +75,8 @@ class Fandango:
             for idx, rc in enumerate(recordslist):
                 fan = Fandango(rc)
                 ofile.write('# %d: %s \n\n' % (idx +1, Fandango.get_film(self)))
-                ofile.write('* The Rotten Tomatoes score for %d is %s \n' % (Fandango.get_film(self), Fandango.get_rottentomatoes(self)))
-                ofile.write('* The MetaCritic score for %d is %s \n' % (Fandango.get_film(self), Fandango.get_metacritic(self)))
+                ofile.write('* The Rotten Tomatoes score for %d is %s \n' % (Fandango.get_film(self), Fandango.get_rotten_tomatoes(self)))
+                ofile.write('* The MetaCritic score for %d is %s \n' % (Fandango.get_film(self), Fandango.get_meta_critic(self)))
                 ofile.write('* The IMDB score for %d is %s \n' % (Fandango.get_film(self), Fandango.get_imdb(self)))
                 ofile.write('* The Fandango Rating Value for %d is %s \n' % (Fandango.get_film(self), Fandango.get_fandango_ratingvalue(self)))
                 ofile.write('* %d had %s votes.\n' % (Fandango.get_film(self), Fandango.get_fandango_votes(self)))

@@ -28,8 +28,7 @@ def generateReport(infile, outfile):
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
 
-    sortedRecords = sorted(file,
-                           key=lambda k: int(k['fandango_votes']), reverse=True)[:10]
+    sortedRecords = sorted(file, key=lambda k: int(k['fandango_votes']), reverse=True)[:10]
 
     fan_record = fd()
     fan_record.to_markdown(sortedRecords, outfile)
