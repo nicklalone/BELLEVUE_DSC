@@ -1,7 +1,8 @@
 import sys
 import csv
-from msds510.avenger import Avenger
-# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
+from msds510.fandango import Fandango as fd
+
+
 def main():
     """interprets command line request
     Args:
@@ -21,17 +22,6 @@ def main():
 
 
 def generateReport(infile, outfile):
-    """reads an infile, sorts the content, and
-       sends the sorted records and an outfile
-       destination to printMarkdown to print
-    Args:
-        infile: a file location to read data from
-        outfile: a destination file location
-    Result:
-        executes the printMarkdown function with
-        sorted records and an outfile to write
-        the results to.
-    """
 
     file = []
     with open(infile, 'r') as csvfile:
@@ -39,11 +29,10 @@ def generateReport(infile, outfile):
         file = list(reader)
 
     sortedRecords = sorted(file,
-                           key=lambda k: int(k['appearances']),
-                           reverse=True)[:10]
+                           key=lambda k: int(k['fandango_votes']), reverse=True)[:10]
 
-    avenger = Avenger()
-    avenger.to_markdown(sortedRecords, outfile)
+    fan_record = fd()
+    fan_record.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
