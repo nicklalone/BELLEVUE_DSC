@@ -94,7 +94,12 @@ class Fifa:
         """takes a list of records, formats them
         and prints them to an output file.
         Args:
-            recordslist: list of top 10 avenger records
+            # Joe Fripp - Making very minor edit to change 'Avengers' to 'Fifa'
+            # Code appears solid here assuming all other methods/files are clean
+            # Nice modification, and I appreciate your use of 
+            # "__repr__" and "__str__"
+            
+            recordslist: list of top 10 Fifa records
             outfile: a file location string.
         Result:
             prints the contents to a formatted outfile.
