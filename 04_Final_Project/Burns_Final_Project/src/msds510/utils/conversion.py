@@ -113,9 +113,7 @@ def transform_record(rdict):
     rdict["beer_servings"] = to_int(rdict["beer_servings"])
     rdict["spirit_servings"] = to_int(rdict["spirit_servings"])
     rdict["wine_servings"] = to_int(rdict["wine_servings"])
-    rdict["beer_servings"] = to_int(rdict["beer_servings"])
+    rdict["total_litres_of_pure_alcohol"] = to_int(rdict["total_litres_of_pure_alcohol"])
 
-    for key, val in rdict.items():
-        if (key.startswith('death') or key.startswith('return')):
-            rdict[key] = to_bool(rdict[key])
+
     return rdict
