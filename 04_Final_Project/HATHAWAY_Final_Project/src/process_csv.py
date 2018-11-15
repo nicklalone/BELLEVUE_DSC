@@ -36,6 +36,7 @@ def processFile(infile, outfile):
 
     file = []
     fieldnames = []
+    # Updated to below: Don't do it. It is, according to Python, 'illegal' :-)
     # I kept getting a Warning message saying "rU" mode is deprecated
     # I switched to their recommended 'newline = " " ' method and resolved
     # this error; I would recommend maybe rewriting this line as:
