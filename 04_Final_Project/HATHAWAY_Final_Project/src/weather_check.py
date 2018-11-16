@@ -197,7 +197,7 @@ class Weathercheck:
 
     def to_markdown(self, recordslist, outfile):
         """takes a list of records, formats them
-        and prints them to an output file.
+        and prints them to an output file in markdown.
         Args:
             recordslist: list of respondents somewhat or very likely to check weather on Smartwatch
             outfile: a file location string.
