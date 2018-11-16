@@ -26,7 +26,7 @@ class Beer:
             str: The name of the country
 
         """
-        return int(self.country)
+        return str(self.country)
 
     def beer_servings(self):
         """
@@ -35,7 +35,7 @@ class Beer:
             str: The number of beers
 
         """
-        return str(self.beer_servings)
+        return int(self.beer_servings)
 
     def spirit_servings(self):
         """
@@ -44,7 +44,7 @@ class Beer:
             int: The number of mixed drinks
 
         """
-        return str(self.spirit_servings)
+        return int(self.spirit_servings)
 
 
 
@@ -55,7 +55,7 @@ class Beer:
             str: The glasses of wine
 
         """
-        return str(self.wine_servings)
+        return int(self.wine_servings)
 
     def total_litres_of_pure_alcohol(self):
         """
@@ -64,7 +64,7 @@ class Beer:
             int: The name of the guest
 
         """
-        return str(self.total_litres_of_pure_alcohol)
+        return float(self.total_litres_of_pure_alcohol)
 
 
 
@@ -100,11 +100,8 @@ class Beer:
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
-                daily_show = Daily_show(rc)
-                ofile.write("# " +  str(idx +1)+ ". " + str(daily_show.raw_guest_list()) + "\n\n")
-                ofile.write('* Occupation of Guest: ' + str(daily_show.googleknowlege_occupation()) + '\n') #This needs to be a string to write
-                ofile.write('* General Group of Guest: ' + str(daily_show.group()) + '\n')
-                ofile.write('* Air Date of Guest Appearance: ' + str(daily_show.show()) + '\n')
+                beer = Beer(rc)
+                ofile.write('* Occupation of Guest: '+str(idx +1) + '\n') #This needs to be a string to write
 
 
 
