@@ -1,7 +1,6 @@
 import sys
 import csv
-import sys
-from  msds510.Fifa_countries import Fifa_countries as fc
+from msds510.Fifa_countries import Avenger
 
 # Added import sys and Avenger class import
 
