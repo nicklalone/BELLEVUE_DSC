@@ -14,7 +14,7 @@ class Beer:
         if record:
             self.record = record
             self.nation = record["country"]
-            self.beer_servings = record["beer_servings"]
+            self.beer = record["beer_servings"]
             self.spirit_servings = record["spirit_servings"]
             self.wine_servings = record["wine_servings"]
             self.total_litres_of_pure_alcohol = record["total_litres_of_pure_alcohol"]
@@ -36,7 +36,7 @@ class Beer:
             str: The number of beers
 
         """
-        return int(self.beer_servings)
+        return int(self.beer)
 
     def spirit_servings(self):
         """
@@ -102,8 +102,8 @@ class Beer:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 beer = Beer(rc)
-                ofile.write('* Occupation of Guest: '+str(idx +1) + '\n') #This needs to be a string to write
-                ofile.write(" " + str(beer.country()) + " ")
+                ofile.write(str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
+                ofile.write(" " + str(beer.beer_servings()) + "\n ")
 
                 # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
                 # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
