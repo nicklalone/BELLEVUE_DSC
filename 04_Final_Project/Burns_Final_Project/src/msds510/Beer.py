@@ -103,7 +103,7 @@ class Beer:
             for idx, rc in enumerate(recordslist):
                 beer = Beer(rc)
                 ofile.write('* Occupation of Guest: '+str(idx +1) + '\n') #This needs to be a string to write
-                ofile.write(" " + str(beer.nation()) + " ")
+                ofile.write(" " + str(beer.country()) + " ")
 
                 # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
                 # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
