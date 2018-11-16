@@ -105,6 +105,10 @@ class Beer:
                 ofile.write(str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
                 ofile.write(" " + str(beer.beer_servings()) + "\n ")
 
+                # ofile.write("# " +str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
+                #ofile.write("* Beer Servings " + str(beer.beer_servings()) + "\n ")
+                #ofile.write("\n\n")
+
                 # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
                 # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
                 # converting things to strings, and using '\n' to create new lines.
