@@ -1,5 +1,7 @@
 # Avenger class to assist with creating a markdown report.
 
+#Christine Hathaway - maybe change the name Avenger to Fandango?
+#I know it doesn't change anything, but maybe makes a little more sense when reading through the code?
 
 class Avenger:
     def __init__(self, record=None):
