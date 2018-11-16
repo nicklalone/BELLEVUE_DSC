@@ -1,6 +1,6 @@
 import datetime
 import re
-from msds510.utils import date
+# from src.msds510.utils import date
 
 
 def get_value(series, value):
@@ -126,15 +126,21 @@ def transform_record(rdict):
         a dictionary with newly formatted values
     """
     rdict["page_id"] = to_int(rdict["page_id"])
+    rdict['name'] = str(rdict['name'])
+    rdict['urlslug'] = str(rdict['urlslug'])
+    rdict['ID'] = str(rdict['ID'])
+    rdict['ALIGN'] = str(rdict['ALIGN'])
+    rdict['EYE'] = str(rdict['EYE'])
+    rdict['HAIR'] = str(rdict['HAIR'])
+    rdict['SEX'] = str(rdict['SEX'])
+    rdict['GSM'] = str(rdict['GSM'])
     rdict['APPEARANCES'] = to_int(rdict['APPEARANCES'])
     rdict["current"] = to_bool(rdict["current"])
     rdict['ALIVE'] = to_bool(living_is_True(rdict['ALIVE']))
     rdict["YEAR"] = to_int(rdict["YEAR"])
     rdict['years_since_joining'] = datetime.date.today().year - rdict['YEAR']
     rdict["notes"] = clean_notes(rdict["notes"])
-    rdict["month_joined"] = date.get_month(
-        rdict["full_reserve_avengers_intro"]
-    )
+  
 
     # Will not need to use this particular condition for DC
     # but may need to modify if using living_is_True function??

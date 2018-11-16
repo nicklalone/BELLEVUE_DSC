@@ -3,6 +3,7 @@ import csv
 from msds510.utils import conversion
 
 
+
 def main():
     """interprets command line request
     Args:
@@ -36,7 +37,7 @@ def processFile(infile, outfile):
 
     file = []
     fieldnames = []
-    with open(infile, newline=' ') as csvfile:
+    with open(infile, 'rU') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
 
