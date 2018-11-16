@@ -43,7 +43,7 @@ def generateReport(infile, outfile):
 
     sortedRecords = sorted(file,
                            key=lambda k: int(k['beer_servings']),
-                           reverse=False)[:10]
+                           reverse=True)[:30]
 
     beer = br()
     beer.to_markdown(sortedRecords, outfile)
