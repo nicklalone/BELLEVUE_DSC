@@ -152,8 +152,8 @@ def transform_record(rdict):
     rdict['appearances'] = to_int(rdict['appearances'])
     # rdict["current"] = to_bool(rdict["current"])
     rdict['alive'] = to_bool(living_is_True(rdict['alive']))
-    rdict["year"] = to_int(rdict["year"])
-    rdict['years_since_joining'] = datetime.date.today().year - rdict['year']
+    rdict['year'] = to_int(rdict['year'])
+    # rdict['years_since_joining'] = datetime.date.today().year - rdict['year']
     # rdict["notes"] = clean_notes(rdict["notes"])
   
 
