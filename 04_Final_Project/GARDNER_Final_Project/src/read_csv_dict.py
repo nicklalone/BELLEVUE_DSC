@@ -19,7 +19,7 @@ def readRows(inputCSV):
         for row in readCSV:
             listoforderedDics.append(row)
         for key in keys:
-            print(key, listoforderedDics[160][key], end=" ")
+            print(key, listoforderedDics[60][key], end=" ")
 
 
 if __name__ == '__main__':

@@ -1,6 +1,7 @@
 import csv
 import sys
 
+# For this recordset, it makes no sense to have a separate file for one line of code.
 def format_header(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
 

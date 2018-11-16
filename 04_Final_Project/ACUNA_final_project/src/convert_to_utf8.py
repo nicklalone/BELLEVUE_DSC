@@ -1,6 +1,6 @@
 import sys
 
-
+#
 def main(input_file_path, output_file_path):
     with open(input_file_path, encoding='ISO-8859-1') as f:
         text = f.read()
