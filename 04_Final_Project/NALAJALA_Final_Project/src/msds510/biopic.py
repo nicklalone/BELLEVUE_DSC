@@ -148,6 +148,7 @@ class Biopic:
         """
         try:
             with open(outfile, 'w') as ofile:
+                ofile.write("# Top Ten Biopics by Box Office Collections \n")
                 for idx, rc in enumerate(recordslist):
                     biopic = Biopic(rc)
                     ofile.write('#  %d. %s\n' % (idx + 1, biopic.title()))

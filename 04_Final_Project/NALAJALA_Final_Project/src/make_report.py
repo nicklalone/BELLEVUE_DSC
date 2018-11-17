@@ -7,7 +7,8 @@ from msds510 import util
 
 
 def main(infile, outfile):
-    """reads an infile, sorts the content, and
+    """Generates a mark down report with top ten box_office grossing biopics
+       reads an infile, sorts the content, and
        sends the sorted records and an outfile
        destination to printMarkdown to print
     Args:
