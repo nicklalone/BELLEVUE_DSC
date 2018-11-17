@@ -54,19 +54,3 @@ class Fifa:
                 ofile.write("* TV Audience Share: " + str(fifa.tv_audience_share()) + "\n")
 
                 ofile.write("* GDP Weighted Share: " + str(fifa.gdp_weighted_share()) + "\n\n")
-
-                #               ofile.write('# {}{} {}'.format(idx, ".", avenger.name_alias()))
-
-                # ofile.write('\n\n* {} {}'.format('Country: ', avenger.country()))
-
-                # ofile.write('\n* {} {}'.format('Confederation: ', avenger.confederation()))
-
-                # ofile.write('\n* {} {}'.format('Population Share: ', avenger.population_share()))
-
-                # ofile.write('\n* {} {}'.format('TV Audience Share: ', avenger.tv_audience_share))
-
-                # ofile.write('\n* {} {}'.format('GDP Weighted Share: ', avenger.gdp_weighted_share))
-
-                # ofile.write('\n\n## {}'.format("Notes"))
-
-                # ofile.write('\n\n{}\n\n'.format(avenger.notes()))
