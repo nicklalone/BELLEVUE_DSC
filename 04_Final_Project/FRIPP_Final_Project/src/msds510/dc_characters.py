@@ -208,8 +208,8 @@ class dc_characters:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 characters = dc_characters(rc)
-                ofile.write('# ' + str(idx +1) + characters.name() + '\n\n')
-                ofile.write('* Number of Appearances : ' + characters.appearances() +'\n')
-                ofile.write('* Year Joined: ' + characters.year() + '\n')
-                ofile.write('* Years Since Joining: '+ characters.years_since_joining() + '\n')
-                ofile.write('* URL: ' + characters.urlslug() + '\n\n')
+                ofile.write('# ' + str(idx +1) + characters.name + '\n\n')
+                ofile.write('* Number of Appearances : ' + characters.appearance_count +'\n')
+                ofile.write('* Year Joined: ' + characters.year + '\n')
+                ofile.write('* First Appearance: ' + characters.first_appearance + '\n')
+                ofile.write('* URL: ' + characters.urlslug + '\n\n')
