@@ -18,6 +18,11 @@ def main(infile, outfile):
         sorted records and an outfile to write
         the results to.
     """
+
+    # I was trying to do the same by box office collection. However, there were some places where the collections were not provided.
+    # So choose by release year
+    # Did you face the same issue?
+
     try:
         file = []
         with open(infile, 'r', encoding='ISO-8859-1') as csvfile:
