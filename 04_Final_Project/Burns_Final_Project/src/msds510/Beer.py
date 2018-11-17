@@ -15,9 +15,9 @@ class Beer:
             self.record = record
             self.nation = record["country"]
             self.beer = record["beer_servings"]
-            self.spirit_servings = record["spirit_servings"]
-            self.wine_servings = record["wine_servings"]
-            self.total_litres_of_pure_alcohol = record["total_litres_of_pure_alcohol"]
+            self.spirit = record["spirit_servings"]
+            self.wine = record["wine_servings"]
+            self.total = record["total_litres_of_pure_alcohol"]
 
 
     def country(self):
@@ -45,7 +45,7 @@ class Beer:
             int: The number of mixed drinks
 
         """
-        return int(self.spirit_servings)
+        return int(self.spirit)
 
 
 
@@ -56,7 +56,7 @@ class Beer:
             str: The glasses of wine
 
         """
-        return int(self.wine_servings)
+        return int(self.wine)
 
     def total_litres_of_pure_alcohol(self):
         """
@@ -65,7 +65,7 @@ class Beer:
             int: The name of the guest
 
         """
-        return float(self.total_litres_of_pure_alcohol)
+        return float(self.total)
 
 
 
@@ -102,8 +102,11 @@ class Beer:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 beer = Beer(rc)
-                ofile.write(str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
+                ofile.write("# " + str(idx +1)+". " + str(beer.country()) + " " + "\n\n")
                 ofile.write(" " + str(beer.beer_servings()) + "\n ")
+                ofile.write('* Spirit Servings: ' + str(beer.spirit_servings()) + "\n ")
+                ofile.write(" " + str(beer.wine_servings()) + "\n ")
+                ofile.write(" " + str(beer.total_litres_of_pure_alcohol()) + "\n ")
 
                 # ofile.write("# " +str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
                 #ofile.write("* Beer Servings " + str(beer.beer_servings()) + "\n ")
