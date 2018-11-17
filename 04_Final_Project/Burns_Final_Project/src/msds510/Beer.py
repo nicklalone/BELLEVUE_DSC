@@ -103,8 +103,8 @@ class Beer:
                 beer = Beer(rc)
                 ofile.write("# " + str(idx +1)+". " + str(beer.country()) + " " + "\n\n")
                 ofile.write('* ' + "**"+"Beer Servings: " + str(beer.beer_servings())+"**" + "\n ")
-                ofile.write('* Spirit Servings: ' + str(beer.spirit_servings()) + "\n ")
-                ofile.write('* Wine Servings: ' + str(beer.wine_servings()) + "\n ")
+                ofile.write('* Spirit Servings:   ' + str(beer.spirit_servings()) + "\n ")
+                ofile.write('* Wine Servings:     ' + str(beer.wine_servings()) + "\n ")
                 ofile.write('* Liters of Alcohol: ' + str(beer.total_litres_of_pure_alcohol()) + "\n ")
 
 
