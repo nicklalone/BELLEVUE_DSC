@@ -3,6 +3,13 @@
 <br />
 <br />
 
+**All Files are in the top level src and src>msds510 patsh; Accidentally duplicated in src>src paths**
+<br />
+* Leaving some files in the duplicated sub-src path as collaborators contributed here
+
+<br />
+<br />
+
 Link to the data set; Too large to upload 
 <br />
 
