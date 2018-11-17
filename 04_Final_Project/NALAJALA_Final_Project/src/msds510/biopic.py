@@ -55,6 +55,8 @@ class Biopic:
         """
         return int(self.year_release_value)
 
+    # DHULIPALA: Great Job! I had reall difficulty handling the box office collections as it is not provided in all the cases
+
     def box_office(self):
         """
         Returns: float: Total box office amount of biopic
@@ -158,8 +160,14 @@ class Biopic:
                     ofile.write('*  Box Office: $%s million\n' % format(biopic.box_office(), ",.2f"))
                     ofile.write('*  Years Since Released: %d \n' % biopic.years_since_released())
                     ofile.write('*  URL: <%s>\n' % biopic.site())
-        # I like the exception piece you added below.  It makes it easy to know where there is an error and where to implement a fix.            
+
+        # I like the exception piece you added below.  It makes it easy to know where there is an error and where to implement a fix.
+        # DHULIPALA: This is the other way we can format the markdown: ofile.write('# {}{} {}'.format(idx, ".", biopic.title()))
+        # DHULIPALA: I agree with the above comment, you handled the exception really well.
+
         except BaseException as e:
             print("Exception in 'to_markdown' function")
             print("Error on line {}:".format(sys.exc_info()[-1].tb_lineno), type(e).__name__, e)
+
+
 

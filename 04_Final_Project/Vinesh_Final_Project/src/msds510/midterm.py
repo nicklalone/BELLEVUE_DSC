@@ -89,6 +89,7 @@ class Midterm:
             label = ""
             for idx, rc in enumerate(recordslist):
                 midterm = Midterm(rc)
+                # DHULIPALA: Need to take out the colon
                 count = idx+1;
                 abc=""+str(count)
                 if midterm.party() == "D":

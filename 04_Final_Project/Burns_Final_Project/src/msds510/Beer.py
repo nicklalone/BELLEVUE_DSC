@@ -122,4 +122,7 @@ class Beer:
                 #As a further tip to the above, remember that the index (idx) starts at zero
                 #so we'll want to add 1 to it before converting to a string
 
+                # To start the index from 1, you can also pass the number in the enumarate function as an arguement: enumerate(recordslist, 1)
+                # This will make sure to start the index from 1
+
 

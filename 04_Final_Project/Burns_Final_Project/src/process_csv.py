@@ -37,6 +37,8 @@ def processFile(infile, outfile):
     After researching, it seems that this method is going away 
     and being replaced by newline. Just wanted to give you a heads up too.
     """
+
+    # DHULIPALA: I am just curious: We normally use 'r' as an arguement right? What is the difference between 'r' and 'ru'?
     
     file = []
     fieldnames = []
