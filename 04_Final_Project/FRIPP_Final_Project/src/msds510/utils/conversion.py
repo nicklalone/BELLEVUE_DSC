@@ -1,6 +1,6 @@
 import datetime
 import re
-from msds510.utils import date
+# from src.msds510.utils import date
 
 
 def get_value(series, value):
@@ -22,6 +22,19 @@ def get_value(series, value):
         except Exception:
             return None
 
+
+def to_str(value):
+    """takes an incoming numeric string and converts it
+        to an string
+    Args:
+        value: some string words
+    Returns:
+        a string or none if can't be converted
+    """
+    try:
+        return str(value)
+    except Exception:
+        return None
 
 def to_int(value):
     """takes an incoming numeric string and converts it
@@ -75,6 +88,8 @@ def make_nice_name(name):
     """
     newString = name.replace(" ", "_")
     newString = newString.replace("/", "_")
+    newString = newString.replace("(", "_")
+    newString = newString.replace(")", "_")
     newString = newString.strip("?").strip().lower()
     newString = re.sub(r'[^0-9a-z_\_]', '', newString)
     return newString
@@ -126,16 +141,26 @@ def transform_record(rdict):
         a dictionary with newly formatted values
     """
     rdict["page_id"] = to_int(rdict["page_id"])
-    rdict['APPEARANCES'] = to_int(rdict['APPEARANCES'])
-    rdict["current"] = to_bool(rdict["current"])
-    rdict['ALIVE'] = to_bool(living_is_True(rdict['ALIVE']))
-    rdict["YEAR"] = to_int(rdict["YEAR"])
-    rdict['years_since_joining'] = datetime.date.today().year - rdict['YEAR']
-    rdict["notes"] = clean_notes(rdict["notes"])
-    rdict["month_joined"] = date.get_month(
-        rdict["full_reserve_avengers_intro"]
-    )
+    rdict['name'] = to_str(rdict['name'])
+    rdict['urlslug'] = to_str(rdict['urlslug'])
+    rdict['id'] = to_str(rdict['id'])
+    rdict['align'] = to_str(rdict['align'])
+    rdict['eye'] = to_str(rdict['eye'])
+    rdict['hair'] = to_str(rdict['hair'])
+    rdict['sex'] = to_str(rdict['sex'])
+    rdict['gsm'] = to_str(rdict['gsm'])
+    rdict['appearances'] = to_int(rdict['appearances'])
+    # rdict["current"] = to_bool(rdict["current"])
+    rdict['alive'] = to_bool(living_is_True(rdict['alive']))
+    rdict['year'] = to_int(rdict['year'])
+    # rdict['years_since_joining'] = datetime.date.today().year - rdict['year']
+    # rdict["notes"] = clean_notes(rdict["notes"])
+  
 
+    # Will not need to use this particular condition for DC
+    # but may need to modify if using living_is_True function??
+    # Will not harm leaving in code since will not find
+    # anything to process
     for key, val in rdict.items():
         if (key.startswith('death') or key.startswith('return')):
             rdict[key] = to_bool(rdict[key])

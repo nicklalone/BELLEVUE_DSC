@@ -100,21 +100,6 @@ def clean_field_names(data):
         retdata.append(newRow)
     return retdata
 
-def living_is_True(liveStatus):
-    """
-    Takes the 'ALIVE" column with possible values
-    'Living Characters' or 'Deceased Characters'
-    and will return True or False string for convert
-    to_bool later
-    :param liveStatus:
-    :return:
-    """
-    if liveStatus == 'Living Characters':
-        'True'
-    else:
-        'False'
-
-    return liveStatus
 
 def transform_record(rdict):
     """takes a dictionary record and converts the
@@ -125,21 +110,15 @@ def transform_record(rdict):
     Returns:
         a dictionary with newly formatted values
     """
-    rdict["page_id"] = to_int(rdict["page_id"])
-    rdict['APPEARANCES'] = to_int(rdict['APPEARANCES'])
+    rdict["appearances"] = to_int(rdict["appearances"])
     rdict["current"] = to_bool(rdict["current"])
-    rdict['ALIVE'] = to_bool(living_is_True(rdict['ALIVE']))
-    rdict["YEAR"] = to_int(rdict["YEAR"])
-    rdict['years_since_joining'] = datetime.date.today().year - rdict['YEAR']
+    rdict["year"] = to_int(rdict["year"])
+    rdict['years_since_joining'] = datetime.date.today().year - rdict['year']
     rdict["notes"] = clean_notes(rdict["notes"])
-    rdict["month_joined"] = date.get_month(
+    rdict["month_joinded"] = date.get_month(
         rdict["full_reserve_avengers_intro"]
     )
 
-    # Will not need to use this particular condition for DC
-    # but may need to modify if using living_is_True function??
-    # Will not harm leaving in code since will not find
-    # anything to process
     for key, val in rdict.items():
         if (key.startswith('death') or key.startswith('return')):
             rdict[key] = to_bool(rdict[key])

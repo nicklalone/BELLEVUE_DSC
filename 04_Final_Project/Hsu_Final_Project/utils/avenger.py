@@ -65,9 +65,8 @@ class Avenger:
             ofile.write('# List of the top 10 names with the lowest gender gap.\n\n')
             for idx, rc in enumerate(records_list, 1):
                 avenger = Avenger(rc)
-                ofile.write('## ' + str(idx) + '. ' + str(avenger.name()) + '\n\n')
-                ofile.write('* Total number of people with the name: ' + str(avenger.total()) + '\n')
-                ofile.write('* Percent of males: ' + str(avenger.male_share()) + '\n')
-                ofile.write('* Percent of females: ' + str(avenger.female_share()) + '\n')
-                ofile.write('* Gap:' + str(avenger.gap()) + '\n\n')
-
+                ofile.write('## ' + str(idx) + '. ' + avenger.name() + '\n\n')
+                ofile.write('* Total number of people with the name: ' + avenger.total() + '\n')
+                ofile.write('* Percent of males: ' + avenger.male_share() + '\n')
+                ofile.write('* Percent of females: ' + avenger.female_share() + '\n')
+                ofile.write('* Gap: ' + avenger.gap() + '\n\n')

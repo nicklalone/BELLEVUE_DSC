@@ -1,11 +1,9 @@
 import sys
 import csv
-import sys
-from  msds510.Fifa_countries import Fifa_countries as fc
+from msds510.midterm import Midterm
 
-# Added import sys and Avenger class import
 
-# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
+# if the midterm utility is supposed to be imported here, how do I do that? Which utility?
 def main():
     """interprets command line request
     Args:
@@ -43,12 +41,11 @@ def generateReport(infile, outfile):
         file = list(reader)
 
     sortedRecords = sorted(file,
-                           key=lambda k: int(k['year']),
+                           key=lambda k: k['win_probability'],
                            reverse=True)[:10]
 
-    fifa_countries = fc()
-    fifa_countries.to_markdown(sortedRecords, outfile)
-
+    midterm = Midterm(sortedRecords[0])
+    midterm.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()

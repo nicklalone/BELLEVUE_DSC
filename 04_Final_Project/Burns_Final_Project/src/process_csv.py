@@ -33,7 +33,11 @@ def processFile(infile, outfile):
         friendly content and an outfile to write
         the results to.
     """
-
+    """ I also used the 'rU' and received a deprecated error.
+    After researching, it seems that this method is going away 
+    and being replaced by newline. Just wanted to give you a heads up too.
+    """
+    
     file = []
     fieldnames = []
     with open(infile, 'rU') as csvfile:

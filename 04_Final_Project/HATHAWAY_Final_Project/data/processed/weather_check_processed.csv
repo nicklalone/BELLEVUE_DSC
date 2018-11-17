@@ -1,0 +1,929 @@
+respondentid,do_you_typically_check_a_daily_weather_report,how_do_you_typically_check_the_weather,a_specific_website_or_app_please_provide_the_answer,if_you_had_a_smartwatch_like_the_soon_to_be_released_apple_watch_how_likely_or_unlikely_would_you_be_to_check_the_weather_on_that_device,age,what_is_your_gender,how_much_total_combined_money_did_all_members_of_your_household_earn_last_year,us_region
+3887201482,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$50,000 to $74,999",South Atlantic
+3887159451,True,The default weather app on your phone,-,Very likely,18 - 29,Male,Prefer not to answer,-
+3887152228,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$100,000 to $124,999",Middle Atlantic
+3887145426,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,Prefer not to answer,-
+3887021873,True,A specific website or app (please provide the answer),Iphone app,Very likely,30 - 44,Male,"$150,000 to $174,999",Middle Atlantic
+3886937140,True,A specific website or app (please provide the answer),AccuWeather App,Somewhat likely,18 - 29,Male,"$100,000 to $124,999",West South Central
+3886923931,True,The Weather Channel,-,Very unlikely,30 - 44,Male,"$25,000 to $49,999",West South Central
+3886913587,True,-,-,-,-,-,-,-
+3886889048,True,The Weather Channel,-,Very likely,30 - 44,Male,Prefer not to answer,Pacific
+3886848806,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$150,000 to $174,999",West North Central
+3886782609,False,Internet search,-,Somewhat unlikely,18 - 29,Male,"$0 to $9,999",Pacific
+3886416355,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$100,000 to $124,999",East North Central
+3886356706,False,-,-,-,-,-,-,-
+3886328736,True,Local TV News,-,Very likely,30 - 44,Male,"$0 to $9,999",Middle Atlantic
+3886284495,False,The Weather Channel,-,Very unlikely,18 - 29,Male,"$10,000 to $24,999",Middle Atlantic
+3886283555,True,Internet search,-,Somewhat likely,18 - 29,Male,"$75,000 to $99,999",Middle Atlantic
+3886272525,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$10,000 to $24,999",Mountain
+3886261814,True,A specific website or app (please provide the answer),nice,Very likely,30 - 44,Male,"$25,000 to $49,999",Middle Atlantic
+3886258514,True,Local TV News,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",West South Central
+3886256409,False,The default weather app on your phone,-,Very likely,18 - 29,Male,"$25,000 to $49,999",South Atlantic
+3886226091,True,The default weather app on your phone,-,Somewhat unlikely,18 - 29,Male,"$25,000 to $49,999",South Atlantic
+3886201383,True,Local TV News,-,Very likely,30 - 44,Male,"$150,000 to $174,999",West South Central
+3886197152,True,The Weather Channel,-,Very unlikely,30 - 44,Male,Prefer not to answer,Mountain
+3886132282,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$25,000 to $49,999",East North Central
+3886121810,False,-,-,-,-,-,-,-
+3886114640,True,A specific website or app (please provide the answer),Weather.com,Very unlikely,30 - 44,Male,"$75,000 to $99,999",Middle Atlantic
+3886112493,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$10,000 to $24,999",East North Central
+3886110900,True,Local TV News,-,Somewhat likely,30 - 44,Male,"$25,000 to $49,999",New England
+3886102001,True,The Weather Channel,-,Very likely,45 - 59,Female,"$200,000 and up",Mountain
+3886098922,False,Newspaper,-,Very unlikely,18 - 29,Male,"$0 to $9,999",West North Central
+3886095863,True,The Weather Channel,-,Somewhat unlikely,45 - 59,Female,"$10,000 to $24,999",East North Central
+3886067670,True,Radio weather,-,Somewhat likely,30 - 44,Male,"$25,000 to $49,999",Middle Atlantic
+3886043003,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,"$0 to $9,999",West North Central
+3886040050,True,Internet search,-,Very likely,18 - 29,Male,"$0 to $9,999",East South Central
+3886031017,True,The default weather app on your phone,-,Very likely,60+,Female,"$50,000 to $74,999",South Atlantic
+3886019381,False,Internet search,-,Somewhat likely,18 - 29,Male,"$75,000 to $99,999",Pacific
+3886018765,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$50,000 to $74,999",West South Central
+3886007951,True,A specific website or app (please provide the answer),Weatherbug,Very likely,30 - 44,Male,"$25,000 to $49,999",Mountain
+3885984891,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$50,000 to $74,999",Pacific
+3885983629,True,The Weather Channel,-,Very likely,60+,Male,Prefer not to answer,South Atlantic
+3885983248,True,The Weather Channel,-,Very likely,30 - 44,Male,Prefer not to answer,Middle Atlantic
+3885969840,True,Internet search,-,Very likely,30 - 44,Male,"$200,000 and up",South Atlantic
+3885965613,True,Local TV News,-,Somewhat likely,60+,Male,"$150,000 to $174,999",New England
+3885944544,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$100,000 to $124,999",Middle Atlantic
+3885928568,True,Local TV News,-,Very likely,18 - 29,Male,"$100,000 to $124,999",New England
+3885927684,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$25,000 to $49,999",South Atlantic
+3885872237,False,The Weather Channel,-,Somewhat likely,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+3885869392,True,A specific website or app (please provide the answer),weather channel app,Somewhat likely,18 - 29,Male,"$50,000 to $74,999",West South Central
+3885838101,True,Internet search,-,Very likely,18 - 29,Male,"$10,000 to $24,999",Pacific
+3885835130,True,Internet search,-,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",South Atlantic
+3885824482,True,The Weather Channel,-,Very unlikely,60+,Male,"$100,000 to $124,999",West South Central
+3885821034,True,The default weather app on your phone,-,Very likely,60+,Male,Prefer not to answer,East North Central
+3885802164,False,Radio weather,-,Very unlikely,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+3885791607,False,Local TV News,-,Somewhat unlikely,30 - 44,Male,"$200,000 and up",Middle Atlantic
+3885773515,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$10,000 to $24,999",Pacific
+3885691247,True,Internet search,-,Somewhat unlikely,30 - 44,Male,Prefer not to answer,West South Central
+3885688258,True,A specific website or app (please provide the answer),Yahoo weather iphone,Very likely,18 - 29,Male,"$25,000 to $49,999",West South Central
+3885687708,True,Internet search,-,Very unlikely,30 - 44,Male,"$175,000 to $199,999",East North Central
+3885683872,True,Local TV News,-,Somewhat likely,30 - 44,Male,Prefer not to answer,Middle Atlantic
+3885652370,True,Internet search,-,Somewhat likely,30 - 44,Male,"$50,000 to $74,999",West North Central
+3885637949,False,Internet search,-,Very likely,18 - 29,Male,"$10,000 to $24,999",-
+3885625628,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$75,000 to $99,999",West North Central
+3885602270,True,The default weather app on your phone,-,Very unlikely,18 - 29,Male,"$125,000 to $149,999",East North Central
+3885570360,False,Radio weather,-,Somewhat unlikely,30 - 44,Male,"$125,000 to $149,999",South Atlantic
+3885569498,True,A specific website or app (please provide the answer),Weather Puppy,Somewhat likely,30 - 44,Male,"$75,000 to $99,999",South Atlantic
+3885540601,True,A specific website or app (please provide the answer),AccuWeather,Very likely,18 - 29,Male,"$0 to $9,999",South Atlantic
+3885539632,True,The Weather Channel,-,Very unlikely,18 - 29,Male,"$10,000 to $24,999",East North Central
+3885525146,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$200,000 and up",Pacific
+3885512170,True,Newsletter,-,Somewhat unlikely,30 - 44,Male,"$25,000 to $49,999",Pacific
+3885497220,True,A specific website or app (please provide the answer),Apple weater,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",Pacific
+3885496201,True,Radio weather,-,Very unlikely,30 - 44,Male,"$0 to $9,999",-
+3885404319,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$25,000 to $49,999",West South Central
+3885304775,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+3885296722,True,A specific website or app (please provide the answer),The Weather Channel app,Very likely,30 - 44,Male,"$10,000 to $24,999",Middle Atlantic
+3885275206,True,-,-,-,-,-,-,-
+3885247252,False,Local TV News,-,Somewhat likely,30 - 44,Male,"$150,000 to $174,999",East North Central
+3885195077,True,A specific website or app (please provide the answer),"google ""weather""",Very likely,18 - 29,Male,"$0 to $9,999",South Atlantic
+3885174420,True,Internet search,-,Somewhat likely,60+,Male,"$175,000 to $199,999",East North Central
+3885164782,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$125,000 to $149,999",Middle Atlantic
+3885139533,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$200,000 and up",New England
+3885123066,True,The Weather Channel,-,Very unlikely,18 - 29,Male,Prefer not to answer,New England
+3885040099,True,A specific website or app (please provide the answer),Weather Underground,Somewhat likely,30 - 44,Male,"$100,000 to $124,999",West North Central
+3885026185,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$75,000 to $99,999",Pacific
+3884998535,True,A specific website or app (please provide the answer),Weather Timeline (android),Very unlikely,30 - 44,Male,"$125,000 to $149,999",Pacific
+3884960044,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,"$100,000 to $124,999",South Atlantic
+3884902653,False,The default weather app on your phone,-,Very likely,18 - 29,Male,"$25,000 to $49,999",Mountain
+3884859930,True,Local TV News,-,Somewhat unlikely,30 - 44,Male,"$10,000 to $24,999",West South Central
+3884813859,False,Internet search,-,Very unlikely,18 - 29,Male,"$0 to $9,999",Pacific
+3884790873,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$0 to $9,999",West North Central
+3884694722,True,The Weather Channel,-,Very likely,18 - 29,Male,"$100,000 to $124,999",New England
+3884500697,True,The Weather Channel,-,Very unlikely,18 - 29,Male,"$25,000 to $49,999",South Atlantic
+3883994422,True,Radio weather,-,Very likely,18 - 29,Male,"$0 to $9,999",East South Central
+3883947693,False,Internet search,-,Somewhat likely,18 - 29,Male,Prefer not to answer,Pacific
+3883852529,False,Radio weather,-,Somewhat unlikely,18 - 29,Male,"$75,000 to $99,999",Pacific
+3883822504,True,A specific website or app (please provide the answer),Weatherbug,Somewhat likely,18 - 29,Male,"$0 to $9,999",West South Central
+3883792972,True,The Weather Channel,-,Very unlikely,30 - 44,Male,Prefer not to answer,West South Central
+3883744850,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,"$50,000 to $74,999",West South Central
+3883706735,False,The default weather app on your phone,-,Somewhat unlikely,18 - 29,Male,Prefer not to answer,Pacific
+3883706220,True,Internet search,-,Somewhat likely,18 - 29,Male,Prefer not to answer,New England
+3883591931,True,A specific website or app (please provide the answer),1 weather,Very likely,30 - 44,Male,"$150,000 to $174,999",South Atlantic
+3883449927,False,Local TV News,-,Very unlikely,18 - 29,Male,"$0 to $9,999",Pacific
+3883423513,False,Internet search,-,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",Mountain
+3883400954,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$200,000 and up",South Atlantic
+3883396110,False,Newsletter,-,Somewhat likely,18 - 29,Male,"$50,000 to $74,999",-
+3883373140,True,Local TV News,-,Somewhat likely,30 - 44,Male,"$10,000 to $24,999",New England
+3883347727,True,The default weather app on your phone,-,Somewhat unlikely,30 - 44,Male,"$100,000 to $124,999",New England
+3883237358,False,The Weather Channel,-,Very unlikely,18 - 29,Male,"$50,000 to $74,999",Middle Atlantic
+3883013307,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",South Atlantic
+3882981067,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$50,000 to $74,999",Pacific
+3882953969,True,The default weather app on your phone,-,Very unlikely,30 - 44,Male,"$75,000 to $99,999",Mountain
+3882828486,True,Internet search,-,Very unlikely,30 - 44,Male,"$50,000 to $74,999",West South Central
+3882734383,True,A specific website or app (please provide the answer),Weather Channel app,Very likely,30 - 44,Male,"$50,000 to $74,999",East North Central
+3882036173,True,Internet search,-,Very likely,30 - 44,Male,"$100,000 to $124,999",Pacific
+3882027944,True,A specific website or app (please provide the answer),"Weather Underground, also local tv news half the time.",Somewhat likely,30 - 44,Male,"$10,000 to $24,999",West North Central
+3882024847,True,Internet search,-,Very likely,45 - 59,Male,"$125,000 to $149,999",Mountain
+3881999864,True,A specific website or app (please provide the answer),weatherbug app,Very likely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3881965206,False,Internet search,-,Somewhat likely,18 - 29,Male,"$75,000 to $99,999",South Atlantic
+3881590664,True,A specific website or app (please provide the answer),weather bug,Very unlikely,30 - 44,Male,"$75,000 to $99,999",East North Central
+3881586024,True,Internet search,-,Very unlikely,45 - 59,Male,"$150,000 to $174,999",South Atlantic
+3881268852,True,Internet search,-,Somewhat likely,18 - 29,Male,Prefer not to answer,-
+3881207655,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$25,000 to $49,999",Pacific
+3881152975,False,A specific website or app (please provide the answer),The Weather Channel app,Somewhat likely,45 - 59,Male,"$200,000 and up",Pacific
+3881043805,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+3880998411,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$50,000 to $74,999",Middle Atlantic
+3880901650,True,Internet search,-,Very unlikely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3880901309,True,The Weather Channel,-,Very unlikely,45 - 59,Male,"$10,000 to $24,999",Mountain
+3880839674,True,Internet search,-,Somewhat likely,45 - 59,Male,"$200,000 and up",Pacific
+3880831944,True,The default weather app on your phone,-,Very unlikely,45 - 59,Male,"$25,000 to $49,999",East North Central
+3880760866,True,Newspaper,-,Very likely,45 - 59,Male,"$0 to $9,999",South Atlantic
+3880684514,True,The Weather Channel,-,Very likely,45 - 59,Male,"$25,000 to $49,999",Middle Atlantic
+3880658899,True,A specific website or app (please provide the answer),FancyClock app on my phone and accuweather.com,Very likely,45 - 59,Male,"$125,000 to $149,999",Mountain
+3880648847,True,Local TV News,-,Very unlikely,45 - 59,Male,"$0 to $9,999",East North Central
+3880644828,True,Radio weather,-,Somewhat likely,18 - 29,Male,Prefer not to answer,Pacific
+3880589507,True,A specific website or app (please provide the answer),GOES West Satalite,Very unlikely,45 - 59,Male,"$75,000 to $99,999",Pacific
+3880580324,True,A specific website or app (please provide the answer),Intellicast / Storm,Very likely,45 - 59,Male,"$150,000 to $174,999",South Atlantic
+3880574320,True,Local TV News,-,Somewhat likely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3880465916,False,Internet search,-,Somewhat unlikely,30 - 44,Male,"$0 to $9,999",West North Central
+3880464921,False,The Weather Channel,-,Somewhat likely,30 - 44,Male,"$75,000 to $99,999",South Atlantic
+3880459984,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",West South Central
+3880448211,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$175,000 to $199,999",Middle Atlantic
+3880441785,True,A specific website or app (please provide the answer),ipod weather ,Very likely,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+3880438117,True,A specific website or app (please provide the answer),weatherbug,Somewhat unlikely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3880436782,True,Newspaper,-,Very unlikely,45 - 59,Male,"$200,000 and up",South Atlantic
+3880427365,True,A specific website or app (please provide the answer),weatherbug.com,Very unlikely,45 - 59,Male,"$200,000 and up",New England
+3880377127,False,Internet search,-,Somewhat likely,45 - 59,Male,"$125,000 to $149,999",Pacific
+3880323654,True,Local TV News,-,Very unlikely,45 - 59,Male,"$125,000 to $149,999",West South Central
+3880319089,False,A specific website or app (please provide the answer),iphone weather app,Somewhat likely,18 - 29,Male,"$50,000 to $74,999",South Atlantic
+3880303554,True,A specific website or app (please provide the answer),Weather Bug,Very likely,45 - 59,Male,"$150,000 to $174,999",East North Central
+3880299725,True,A specific website or app (please provide the answer),Accuweather,Somewhat unlikely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3880256330,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",Pacific
+3880230736,True,The Weather Channel,-,Very unlikely,45 - 59,Male,"$150,000 to $174,999",South Atlantic
+3880219305,False,Internet search,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",Pacific
+3880210450,True,The Weather Channel,-,Very likely,45 - 59,Male,"$100,000 to $124,999",Pacific
+3880208319,True,Internet search,-,Somewhat likely,30 - 44,Male,"$100,000 to $124,999",West South Central
+3880187634,True,Internet search,-,Very unlikely,45 - 59,Male,"$10,000 to $24,999",Pacific
+3880162442,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,Prefer not to answer,Middle Atlantic
+3880131987,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$150,000 to $174,999",Pacific
+3880129691,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$125,000 to $149,999",South Atlantic
+3880099657,True,Local TV News,-,Very unlikely,45 - 59,Male,Prefer not to answer,Mountain
+3880086571,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$150,000 to $174,999",Pacific
+3880033304,True,Local TV News,-,Very likely,18 - 29,Male,"$0 to $9,999",Middle Atlantic
+3879970050,True,The default weather app on your phone,-,Very likely,18 - 29,Female,Prefer not to answer,South Atlantic
+3879946254,True,The Weather Channel,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3879934990,False,Local TV News,-,Very unlikely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3879902865,True,Radio weather,-,Very unlikely,45 - 59,Male,"$75,000 to $99,999",Middle Atlantic
+3879887212,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$175,000 to $199,999",Pacific
+3879876964,False,Radio weather,-,Somewhat likely,18 - 29,Male,"$0 to $9,999",South Atlantic
+3879874372,True,Local TV News,-,Very likely,45 - 59,Male,"$200,000 and up",West South Central
+3879823141,True,The Weather Channel,-,Very unlikely,45 - 59,Male,"$200,000 and up",Pacific
+3879815451,False,Newspaper,-,Somewhat likely,45 - 59,Male,"$75,000 to $99,999",Middle Atlantic
+3879622928,True,The Weather Channel,-,Very unlikely,18 - 29,Male,"$100,000 to $124,999",West North Central
+3879622165,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$10,000 to $24,999",Middle Atlantic
+3879618163,True,A specific website or app (please provide the answer),weather channel app,Very likely,45 - 59,Male,"$25,000 to $49,999",East North Central
+3879505742,False,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3879492127,True,Internet search,-,Somewhat likely,18 - 29,Male,"$50,000 to $74,999",East South Central
+3879466790,False,Newsletter,-,Very likely,18 - 29,Male,Prefer not to answer,-
+3879405493,False,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,"$125,000 to $149,999",Pacific
+3879399705,False,The Weather Channel,-,Somewhat likely,30 - 44,Male,"$50,000 to $74,999",Mountain
+3879387300,True,The default weather app on your phone,-,Very unlikely,45 - 59,Male,"$200,000 and up",New England
+3879361333,True,A specific website or app (please provide the answer),www.wunderground.com,Very likely,45 - 59,Male,"$25,000 to $49,999",West South Central
+3879332676,True,A specific website or app (please provide the answer),The Weather Channel,Very likely,45 - 59,Male,"$75,000 to $99,999",East North Central
+3879327814,True,A specific website or app (please provide the answer),noaa.gov,Somewhat likely,45 - 59,Male,Prefer not to answer,New England
+3879326602,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3879325675,False,Newspaper,-,Very unlikely,18 - 29,Male,Prefer not to answer,-
+3879323844,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$25,000 to $49,999",Pacific
+3879315853,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$75,000 to $99,999",West North Central
+3879274139,True,Local TV News,-,Somewhat likely,60+,Female,"$100,000 to $124,999",East North Central
+3879266798,True,The Weather Channel,-,Very likely,60+,Female,"$75,000 to $99,999",East North Central
+3879261981,True,The Weather Channel,-,Very likely,60+,Female,Prefer not to answer,South Atlantic
+3879258283,True,Internet search,-,Very likely,60+,Female,"$50,000 to $74,999",New England
+3879248890,True,A specific website or app (please provide the answer),1weather,Very likely,60+,Female,"$50,000 to $74,999",West North Central
+3879245036,True,A specific website or app (please provide the answer),yahoo,Very likely,60+,Female,"$100,000 to $124,999",Pacific
+3879210502,True,Internet search,-,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",West South Central
+3879207640,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+3879205854,True,The default weather app on your phone,-,Very unlikely,18 - 29,Male,"$100,000 to $124,999",New England
+3879196296,True,Local TV News,-,Very likely,60+,Female,"$50,000 to $74,999",South Atlantic
+3879194705,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$10,000 to $24,999",Mountain
+3879189511,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$100,000 to $124,999",South Atlantic
+3879186514,True,Local TV News,-,Very likely,60+,Female,Prefer not to answer,West South Central
+3879159385,True,The default weather app on your phone,-,Very likely,60+,Female,"$50,000 to $74,999",Mountain
+3879157578,False,Local TV News,-,Somewhat likely,30 - 44,Male,"$25,000 to $49,999",East North Central
+3879152338,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$125,000 to $149,999",South Atlantic
+3879139489,True,Newsletter,-,Very unlikely,60+,Female,"$75,000 to $99,999",West South Central
+3879106766,True,The default weather app on your phone,-,Very likely,60+,Male,"$0 to $9,999",Middle Atlantic
+3879102520,True,Local TV News,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3879102450,True,The Weather Channel,-,Somewhat likely,60+,Female,"$75,000 to $99,999",East South Central
+3879094933,True,Internet search,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3879090979,True,The default weather app on your phone,-,Somewhat likely,60+,Male,"$200,000 and up",New England
+3879055766,True,A specific website or app (please provide the answer),Weather Bug App,Very unlikely,45 - 59,Male,"$125,000 to $149,999",Middle Atlantic
+3879048742,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,Prefer not to answer,South Atlantic
+3879043041,True,Local TV News,-,Somewhat unlikely,60+,Female,"$75,000 to $99,999",East North Central
+3879024100,True,Radio weather,-,Very likely,60+,Male,"$100,000 to $124,999",West North Central
+3879022427,True,A specific website or app (please provide the answer),Yo Window,Very unlikely,60+,Female,"$25,000 to $49,999",East North Central
+3879018623,True,The Weather Channel,-,Somewhat likely,60+,Female,"$100,000 to $124,999",Middle Atlantic
+3879014394,True,A specific website or app (please provide the answer),Weather bug,Somewhat unlikely,60+,Male,"$50,000 to $74,999",Middle Atlantic
+3878997264,True,A specific website or app (please provide the answer),Dark Sky,Very likely,60+,Male,"$200,000 and up",Middle Atlantic
+3878995654,True,Internet search,-,Very unlikely,45 - 59,Male,"$175,000 to $199,999",Middle Atlantic
+3878993313,True,Local TV News,-,Very unlikely,60+,Female,"$100,000 to $124,999",West South Central
+3878975679,True,Local TV News,-,Somewhat unlikely,60+,Female,"$10,000 to $24,999",South Atlantic
+3878973380,True,The Weather Channel,-,Very likely,45 - 59,Male,"$75,000 to $99,999",East South Central
+3878972273,True,The default weather app on your phone,-,Very unlikely,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+3878971737,True,The Weather Channel,-,Very likely,60+,Female,"$50,000 to $74,999",New England
+3878964663,True,Radio weather,-,Somewhat unlikely,60+,Female,"$75,000 to $99,999",Middle Atlantic
+3878957212,False,Local TV News,-,Very unlikely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3878949789,True,A specific website or app (please provide the answer),Weatherbug,Somewhat likely,60+,Male,"$125,000 to $149,999",Middle Atlantic
+3878945643,True,Local TV News,-,Somewhat likely,60+,Male,"$25,000 to $49,999",Middle Atlantic
+3878940858,True,Local TV News,-,Somewhat unlikely,60+,Male,"$0 to $9,999",-
+3878922314,True,The default weather app on your phone,-,Somewhat unlikely,45 - 59,Male,"$175,000 to $199,999",East North Central
+3878908574,True,The Weather Channel,-,Very likely,45 - 59,Male,"$175,000 to $199,999",West North Central
+3878851367,True,Internet search,-,Very likely,60+,Female,Prefer not to answer,East North Central
+3878801345,True,Local TV News,-,Very likely,60+,Male,"$100,000 to $124,999",South Atlantic
+3878776250,True,Local TV News,-,Very unlikely,60+,Male,Prefer not to answer,South Atlantic
+3878773688,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3878724412,True,Internet search,-,Very unlikely,45 - 59,Male,"$100,000 to $124,999",West South Central
+3878675581,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$10,000 to $24,999",Middle Atlantic
+3878672825,True,A specific website or app (please provide the answer),Accuweather,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",Pacific
+3878664404,True,Newsletter,-,Very likely,60+,Male,"$50,000 to $74,999",Pacific
+3878664002,True,A specific website or app (please provide the answer),aol,Somewhat unlikely,60+,Male,"$25,000 to $49,999",East North Central
+3878617605,False,Radio weather,-,Very unlikely,45 - 59,Male,Prefer not to answer,Pacific
+3878604937,False,Internet search,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+3878604458,True,Local TV News,-,Somewhat likely,30 - 44,Female,"$0 to $9,999",East South Central
+3878594142,False,Newspaper,-,Very unlikely,30 - 44,Female,"$10,000 to $24,999",-
+3878581130,True,Local TV News,-,Somewhat likely,60+,Female,"$75,000 to $99,999",East North Central
+3878580386,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878574698,True,A specific website or app (please provide the answer),NOAA and The Weather Channel,Very unlikely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878562127,False,Local TV News,-,Very unlikely,60+,Male,Prefer not to answer,Pacific
+3878555115,True,A specific website or app (please provide the answer),weatherbug,Somewhat likely,30 - 44,Female,Prefer not to answer,Pacific
+3878547877,False,Internet search,-,Somewhat unlikely,60+,Female,"$50,000 to $74,999",Pacific
+3878539231,False,Internet search,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3878537531,False,The default weather app on your phone,-,Very unlikely,60+,Male,Prefer not to answer,Pacific
+3878536105,True,A specific website or app (please provide the answer),Weather Kitty,Somewhat likely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878534855,True,Newspaper,-,Very unlikely,60+,Female,"$100,000 to $124,999",Pacific
+3878533095,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$0 to $9,999",West North Central
+3878527607,False,The default weather app on your phone,-,Somewhat unlikely,60+,Female,"$50,000 to $74,999",Pacific
+3878526543,True,A specific website or app (please provide the answer),"Internet, tv, radio, newspaper",Very likely,60+,Male,"$200,000 and up",Middle Atlantic
+3878522121,True,The Weather Channel,-,Very unlikely,45 - 59,Male,"$25,000 to $49,999",Middle Atlantic
+3878521585,False,A specific website or app (please provide the answer),App on Iphone,Somewhat unlikely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878520921,True,The default weather app on your phone,-,Very likely,60+,Female,"$175,000 to $199,999",Pacific
+3878517202,True,Internet search,-,Somewhat likely,60+,Female,"$50,000 to $74,999",East North Central
+3878516380,True,A specific website or app (please provide the answer),yr.no,Somewhat likely,30 - 44,Female,Prefer not to answer,-
+3878513419,False,The default weather app on your phone,-,Very unlikely,60+,Male,Prefer not to answer,Pacific
+3878510837,False,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",Pacific
+3878488034,True,The default weather app on your phone,-,Very likely,60+,Male,"$100,000 to $124,999",Pacific
+3878487715,True,Newspaper,-,Somewhat likely,60+,Female,Prefer not to answer,Pacific
+3878487142,False,Internet search,-,Very unlikely,60+,Female,"$100,000 to $124,999",West North Central
+3878483534,False,Internet search,-,Somewhat likely,60+,Male,Prefer not to answer,Pacific
+3878479362,True,The Weather Channel,-,Very likely,30 - 44,Female,"$50,000 to $74,999",Pacific
+3878466821,True,A specific website or app (please provide the answer),weather.com,Very likely,60+,Female,Prefer not to answer,Pacific
+3878465693,True,The default weather app on your phone,-,Very likely,30 - 44,Female,Prefer not to answer,Mountain
+3878464503,True,Newspaper,-,Very unlikely,60+,Female,"$150,000 to $174,999",Pacific
+3878462883,False,Local TV News,-,Somewhat likely,30 - 44,Male,Prefer not to answer,Pacific
+3878450038,True,Local TV News,-,Very unlikely,60+,Male,Prefer not to answer,West South Central
+3878449625,False,Local TV News,-,Very unlikely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878445660,True,Local TV News,-,Very likely,45 - 59,Male,"$25,000 to $49,999",Pacific
+3878443579,True,Internet search,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",Pacific
+3878436241,False,Internet search,-,Somewhat unlikely,60+,Female,"$125,000 to $149,999",Pacific
+3878436018,True,Internet search,-,Very likely,18 - 29,Male,"$25,000 to $49,999",Pacific
+3878432043,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$10,000 to $24,999",South Atlantic
+3878431247,True,The Weather Channel,-,Very likely,60+,Female,"$25,000 to $49,999",Pacific
+3878426886,True,The Weather Channel,-,Somewhat unlikely,30 - 44,Female,"$100,000 to $124,999",West South Central
+3878426515,True,Local TV News,-,Very unlikely,60+,Male,"$50,000 to $74,999",New England
+3878425988,False,Internet search,-,Somewhat unlikely,60+,Female,Prefer not to answer,Pacific
+3878424879,True,Local TV News,-,Very unlikely,60+,Male,"$10,000 to $24,999",Mountain
+3878417014,True,Internet search,-,Very likely,60+,Female,"$75,000 to $99,999",East North Central
+3878413474,True,Internet search,-,Very likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3878409427,False,The default weather app on your phone,-,Very likely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3878405540,False,Internet search,-,Somewhat unlikely,60+,Male,"$50,000 to $74,999",South Atlantic
+3878404884,True,The Weather Channel,-,Very likely,60+,Male,"$10,000 to $24,999",Middle Atlantic
+3878404363,False,The default weather app on your phone,-,Very likely,60+,Female,"$175,000 to $199,999",South Atlantic
+3878404022,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$150,000 to $174,999",Middle Atlantic
+3878401700,True,Local TV News,-,Somewhat likely,60+,Female,"$25,000 to $49,999",West North Central
+3878398785,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+3878396691,True,Local TV News,-,Very unlikely,30 - 44,Male,"$75,000 to $99,999",West North Central
+3878392986,False,Newspaper,-,Very likely,60+,Female,"$10,000 to $24,999",Middle Atlantic
+3878388646,True,A specific website or app (please provide the answer),weatherunderground,Very likely,60+,Female,"$10,000 to $24,999",Pacific
+3878386420,False,The Weather Channel,-,Very unlikely,18 - 29,Male,"$0 to $9,999",Pacific
+3878381396,True,A specific website or app (please provide the answer),wunderground.com,Very unlikely,60+,Male,"$50,000 to $74,999",Pacific
+3878370379,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Male,"$125,000 to $149,999",South Atlantic
+3878365414,True,Local TV News,-,Very unlikely,60+,Male,"$50,000 to $74,999",West South Central
+3878359420,False,Internet search,-,Somewhat unlikely,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+3878352834,True,The default weather app on your phone,-,Very unlikely,45 - 59,Male,"$75,000 to $99,999",Pacific
+3878349775,True,Local TV News,-,Very unlikely,60+,Male,"$75,000 to $99,999",Pacific
+3878349239,True,The Weather Channel,-,Very likely,60+,Male,Prefer not to answer,South Atlantic
+3878348366,False,Radio weather,-,Very unlikely,60+,Female,Prefer not to answer,Middle Atlantic
+3878348238,True,Internet search,-,Very likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3878345997,True,The default weather app on your phone,-,Very likely,60+,Male,"$100,000 to $124,999",South Atlantic
+3878345589,True,The default weather app on your phone,-,Very likely,60+,Male,"$50,000 to $74,999",Middle Atlantic
+3878340200,False,Local TV News,-,Very likely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3878340018,True,A specific website or app (please provide the answer),Weather channel app,Very likely,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+3878339582,False,The Weather Channel,-,Somewhat unlikely,60+,Male,"$125,000 to $149,999",Mountain
+3878339411,True,A specific website or app (please provide the answer),weather.com,Very likely,60+,Female,"$100,000 to $124,999",Pacific
+3878337550,True,A specific website or app (please provide the answer),intellicast,Very unlikely,60+,Male,"$100,000 to $124,999",East North Central
+3878336326,False,Internet search,-,Very likely,30 - 44,Female,Prefer not to answer,Pacific
+3878335390,False,The default weather app on your phone,-,Somewhat likely,60+,Female,Prefer not to answer,Pacific
+3878332804,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$25,000 to $49,999",East North Central
+3878331425,True,A specific website or app (please provide the answer),Weather Risk,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+3878324728,False,Internet search,-,Very unlikely,18 - 29,Male,"$175,000 to $199,999",West South Central
+3878324500,True,Internet search,-,Somewhat likely,60+,Female,Prefer not to answer,Middle Atlantic
+3878319761,True,A specific website or app (please provide the answer),local newspaper online  Weather Bug  NOAH,Somewhat likely,60+,Female,"$150,000 to $174,999",South Atlantic
+3878319271,True,Internet search,-,Somewhat likely,60+,Female,"$25,000 to $49,999",East North Central
+3878317738,True,Local TV News,-,Very unlikely,60+,Male,"$50,000 to $74,999",Pacific
+3878317474,False,The Weather Channel,-,Somewhat likely,60+,Male,"$100,000 to $124,999",Pacific
+3878317326,True,Local TV News,-,Very unlikely,30 - 44,Female,"$50,000 to $74,999",West South Central
+3878316445,False,The Weather Channel,-,Very unlikely,60+,Female,Prefer not to answer,Mountain
+3878315845,True,Local TV News,-,Very likely,45 - 59,Female,"$50,000 to $74,999",Mountain
+3878315601,True,A specific website or app (please provide the answer),AccuWeather or Weather Underground,Very likely,45 - 59,Female,Prefer not to answer,New England
+3878313074,True,Radio weather,-,Somewhat unlikely,60+,Female,Prefer not to answer,South Atlantic
+3878312380,True,The default weather app on your phone,-,Somewhat likely,60+,Male,"$10,000 to $24,999",East South Central
+3878311826,False,Internet search,-,Very unlikely,60+,Male,"$25,000 to $49,999",-
+3878311562,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3878310702,True,Radio weather,-,Somewhat likely,60+,Female,"$50,000 to $74,999",South Atlantic
+3878310569,False,Newspaper,-,Very unlikely,60+,Female,"$200,000 and up",Pacific
+3878309530,True,A specific website or app (please provide the answer),Weather Underground,Very likely,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+3878302658,False,Radio weather,-,Very likely,60+,Female,"$25,000 to $49,999",Pacific
+3878296951,False,The Weather Channel,-,Somewhat likely,60+,Female,"$75,000 to $99,999",South Atlantic
+3878296336,True,Local TV News,-,Somewhat unlikely,60+,Female,"$100,000 to $124,999",Middle Atlantic
+3878295740,True,The default weather app on your phone,-,Very likely,60+,Female,"$50,000 to $74,999",East North Central
+3878293399,True,The Weather Channel,-,Somewhat likely,30 - 44,Female,"$200,000 and up",East North Central
+3878293163,True,The Weather Channel,-,Very unlikely,60+,Male,"$50,000 to $74,999",South Atlantic
+3878291970,True,Local TV News,-,Somewhat likely,45 - 59,Female,Prefer not to answer,Mountain
+3878286381,True,Newspaper,-,Somewhat unlikely,60+,Female,"$125,000 to $149,999",New England
+3878284921,True,Local TV News,-,Very likely,30 - 44,Female,"$200,000 and up",New England
+3878284808,True,Internet search,-,Very unlikely,45 - 59,Male,Prefer not to answer,Pacific
+3878280708,True,Radio weather,-,Somewhat likely,60+,Female,"$25,000 to $49,999",East South Central
+3878278676,True,The Weather Channel,-,Very likely,60+,Female,"$200,000 and up",South Atlantic
+3878278488,True,Local TV News,-,Somewhat likely,60+,Male,"$200,000 and up",Middle Atlantic
+3878278271,True,Internet search,-,Very unlikely,45 - 59,Male,Prefer not to answer,East South Central
+3878277161,True,A specific website or app (please provide the answer),weather.com,Very likely,60+,Male,"$200,000 and up",New England
+3878275261,True,Radio weather,-,Somewhat unlikely,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+3878274622,True,Internet search,-,Somewhat unlikely,45 - 59,Female,"$75,000 to $99,999",East South Central
+3878270558,True,Local TV News,-,Somewhat unlikely,60+,Female,"$25,000 to $49,999",West South Central
+3878270404,False,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$100,000 to $124,999",East North Central
+3878269619,True,Newsletter,-,Somewhat likely,45 - 59,Female,"$175,000 to $199,999",South Atlantic
+3878269540,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,Prefer not to answer,South Atlantic
+3878268976,True,The Weather Channel,-,Very likely,30 - 44,Female,"$50,000 to $74,999",East North Central
+3878267217,True,Local TV News,-,Very likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3878263834,True,Internet search,-,Very likely,60+,Male,"$200,000 and up",Pacific
+3878263694,True,The default weather app on your phone,-,Very unlikely,60+,Female,Prefer not to answer,East North Central
+3878262512,True,A specific website or app (please provide the answer),"Weatherbug, Storm",Very likely,45 - 59,Male,"$75,000 to $99,999",East South Central
+3878261302,False,A specific website or app (please provide the answer),look/feel the weather outside,Very unlikely,45 - 59,Female,"$150,000 to $174,999",East North Central
+3878259660,True,The Weather Channel,-,Very likely,45 - 59,Female,"$50,000 to $74,999",Mountain
+3878256328,True,Local TV News,-,Very likely,45 - 59,Female,"$0 to $9,999",East South Central
+3878255469,True,A specific website or app (please provide the answer),accuweather,Somewhat likely,30 - 44,Female,"$25,000 to $49,999",East North Central
+3878255097,False,The default weather app on your phone,-,Somewhat unlikely,45 - 59,Female,"$100,000 to $124,999",West North Central
+3878253341,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",Mountain
+3878252826,True,A specific website or app (please provide the answer),apple-provided site,Somewhat likely,60+,Female,"$100,000 to $124,999",Pacific
+3878251387,True,The Weather Channel,-,Very likely,30 - 44,Female,"$10,000 to $24,999",East South Central
+3878251359,False,Local TV News,-,Very likely,45 - 59,Female,"$0 to $9,999",Pacific
+3878249188,True,Local TV News,-,Very likely,30 - 44,Female,"$25,000 to $49,999",Pacific
+3878248250,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$100,000 to $124,999",East North Central
+3878247540,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$50,000 to $74,999",East North Central
+3878244194,True,Local TV News,-,Very likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3878243755,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$50,000 to $74,999",Middle Atlantic
+3878242397,True,The default weather app on your phone,-,Very unlikely,60+,Female,"$25,000 to $49,999",West North Central
+3878239927,True,Radio weather,-,Somewhat likely,60+,Male,"$50,000 to $74,999",Pacific
+3878238124,False,Local TV News,-,Very likely,60+,Male,"$50,000 to $74,999",Mountain
+3878228000,True,Internet search,-,Very likely,45 - 59,Female,"$25,000 to $49,999",East North Central
+3878227923,True,The Weather Channel,-,Very likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3878226107,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",Pacific
+3878225639,True,Local TV News,-,Very unlikely,60+,Female,"$150,000 to $174,999",East North Central
+3878225361,True,Local TV News,-,Very likely,45 - 59,Female,"$100,000 to $124,999",East North Central
+3878224262,True,The default weather app on your phone,-,Very unlikely,45 - 59,Female,Prefer not to answer,East North Central
+3878223377,False,A specific website or app (please provide the answer),Weather channel app on my phone and ipad,Somewhat likely,45 - 59,Female,"$150,000 to $174,999",Pacific
+3878219443,True,Local TV News,-,Very likely,60+,Female,"$125,000 to $149,999",Middle Atlantic
+3878215557,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$75,000 to $99,999",East North Central
+3878215555,True,Local TV News,-,Very likely,45 - 59,Female,"$100,000 to $124,999",South Atlantic
+3878209275,True,The Weather Channel,-,Very likely,45 - 59,Male,"$10,000 to $24,999",East North Central
+3878209013,True,Internet search,-,Very likely,45 - 59,Male,"$50,000 to $74,999",Mountain
+3878208724,False,Local TV News,-,Very unlikely,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+3878205297,True,Newspaper,-,Very likely,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+3878204973,True,Radio weather,-,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",West South Central
+3878204241,True,Local TV News,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",East North Central
+3878201710,True,A specific website or app (please provide the answer),Numerous local weather apps,Very unlikely,60+,Female,"$10,000 to $24,999",Middle Atlantic
+3878198621,True,Newspaper,-,Very unlikely,45 - 59,Female,"$25,000 to $49,999",Mountain
+3878197524,True,Local TV News,-,Very likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3878196162,False,Local TV News,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",West North Central
+3878194430,True,A specific website or app (please provide the answer),The Weather Channel app on my phone,Somewhat likely,45 - 59,Female,"$100,000 to $124,999",West South Central
+3878193774,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$100,000 to $124,999",West North Central
+3878193623,True,Local TV News,-,Very likely,45 - 59,Male,"$10,000 to $24,999",West South Central
+3878192054,True,A specific website or app (please provide the answer),Accuweather,Somewhat likely,60+,Male,"$25,000 to $49,999",East North Central
+3878190686,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+3878190060,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,"$100,000 to $124,999",New England
+3878189246,True,A specific website or app (please provide the answer),Storm Team 4,Somewhat likely,60+,Male,"$200,000 and up",Middle Atlantic
+3878187831,True,Local TV News,-,Very likely,60+,Female,-,West South Central
+3878187206,False,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,Prefer not to answer,New England
+3878177832,True,The default weather app on your phone,-,Very likely,30 - 44,Male,"$50,000 to $74,999",West North Central
+3878176797,True,-,-,-,-,-,-,-
+3878176285,True,-,-,-,-,-,-,-
+3878175971,True,The default weather app on your phone,-,Very likely,60+,Male,"$75,000 to $99,999",South Atlantic
+3878171501,True,The Weather Channel,-,Very unlikely,30 - 44,Female,Prefer not to answer,Middle Atlantic
+3878168802,True,Local TV News,-,Very likely,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+3878166803,True,Local TV News,-,Somewhat unlikely,45 - 59,Female,"$100,000 to $124,999",Middle Atlantic
+3878166171,True,A specific website or app (please provide the answer),KCRA online,Very unlikely,45 - 59,Female,Prefer not to answer,Pacific
+3878162896,True,A specific website or app (please provide the answer),yahoo weather,Very unlikely,30 - 44,Female,"$25,000 to $49,999",Pacific
+3878162631,True,A specific website or app (please provide the answer),Accuweather,Very likely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3878162069,False,Internet search,-,Somewhat likely,18 - 29,Male,"$75,000 to $99,999",Pacific
+3878160615,True,A specific website or app (please provide the answer),weatherbug on my phone,Somewhat likely,45 - 59,Female,"$200,000 and up",West North Central
+3878160534,True,The Weather Channel,-,Very likely,45 - 59,Female,"$50,000 to $74,999",Middle Atlantic
+3878159600,False,Local TV News,-,Very likely,60+,Female,"$10,000 to $24,999",West South Central
+3878159123,True,The default weather app on your phone,-,Somewhat unlikely,30 - 44,Female,"$10,000 to $24,999",West South Central
+3878158418,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$25,000 to $49,999",Pacific
+3878156563,True,A specific website or app (please provide the answer),the weather channel app on my phone,Very likely,30 - 44,Female,"$10,000 to $24,999",Pacific
+3878151947,False,A specific website or app (please provide the answer),Weather Channel.com,Very likely,60+,Male,Prefer not to answer,Mountain
+3878147244,True,Internet search,-,Very likely,60+,Male,"$10,000 to $24,999",West North Central
+3878146840,True,Internet search,-,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",West South Central
+3878144950,True,Internet search,-,Very unlikely,30 - 44,Female,Prefer not to answer,East South Central
+3878139391,True,Newspaper,-,Somewhat unlikely,60+,Female,"$75,000 to $99,999",East North Central
+3878137364,True,A specific website or app (please provide the answer),Accuweather,Somewhat likely,45 - 59,Male,"$200,000 and up",-
+3878136673,True,A specific website or app (please provide the answer),Weather Channel app on phone,Somewhat likely,45 - 59,Male,"$150,000 to $174,999",Pacific
+3878129801,True,Internet search,-,Very likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3878123775,False,Internet search,-,Somewhat likely,60+,Female,"$25,000 to $49,999",Pacific
+3878120046,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",Pacific
+3878118150,True,A specific website or app (please provide the answer), Weather underground ,Very likely,45 - 59,Male,"$200,000 and up",South Atlantic
+3878117988,True,The Weather Channel,-,Very likely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3878115959,True,The Weather Channel,-,Somewhat unlikely,45 - 59,Female,"$200,000 and up",East North Central
+3878114690,True,A specific website or app (please provide the answer),yahoo weather,Very likely,60+,Female,Prefer not to answer,Mountain
+3878112779,True,The Weather Channel,-,Somewhat likely,60+,Male,"$150,000 to $174,999",South Atlantic
+3878112712,True,A specific website or app (please provide the answer),IPhone,Very likely,45 - 59,Female,"$25,000 to $49,999",East North Central
+3878111554,True,Local TV News,-,Very unlikely,60+,Male,"$200,000 and up",Pacific
+3878109491,True,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$75,000 to $99,999",East North Central
+3878108075,True,A specific website or app (please provide the answer),intellicast,Very likely,30 - 44,Male,"$100,000 to $124,999",South Atlantic
+3878104623,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$25,000 to $49,999",Mountain
+3878102392,False,Local TV News,-,Somewhat likely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3878099445,True,Local TV News,-,Somewhat likely,18 - 29,Female,"$10,000 to $24,999",West North Central
+3878099081,False,The Weather Channel,-,Somewhat likely,18 - 29,Male,"$10,000 to $24,999",West North Central
+3878098952,True,The Weather Channel,-,Very likely,18 - 29,Female,Prefer not to answer,East North Central
+3878098258,True,A specific website or app (please provide the answer),Weather Channel app android,Very unlikely,45 - 59,Male,"$100,000 to $124,999",West South Central
+3878096992,True,A specific website or app (please provide the answer),NOAA app,Somewhat likely,60+,Male,"$125,000 to $149,999",Middle Atlantic
+3878096868,True,A specific website or app (please provide the answer),Via my iPhone builtin app,Very likely,60+,Male,"$25,000 to $49,999",Mountain
+3878095559,True,The Weather Channel,-,Very unlikely,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+3878094553,False,Internet search,-,Very unlikely,18 - 29,Male,Prefer not to answer,-
+3878093169,True,The Weather Channel,-,Somewhat unlikely,60+,Male,"$10,000 to $24,999",East South Central
+3878093010,True,Internet search,-,Somewhat unlikely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3878089067,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$10,000 to $24,999",Mountain
+3878088243,True,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$10,000 to $24,999",East North Central
+3878086902,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$75,000 to $99,999",Pacific
+3878086392,False,Internet search,-,Somewhat likely,18 - 29,Female,Prefer not to answer,Pacific
+3878085372,True,A specific website or app (please provide the answer),weatherforyou.com,Very unlikely,60+,Female,"$50,000 to $74,999",Mountain
+3878084501,True,Local TV News,-,Somewhat likely,30 - 44,Female,"$10,000 to $24,999",Middle Atlantic
+3878078991,True,Internet search,-,Very unlikely,30 - 44,Female,"$200,000 and up",Pacific
+3878074226,True,Internet search,-,Somewhat likely,60+,Female,Prefer not to answer,South Atlantic
+3878064767,True,Local TV News,-,Very unlikely,60+,Male,"$25,000 to $49,999",Pacific
+3878064239,True,The Weather Channel,-,Very unlikely,60+,Female,"$125,000 to $149,999",New England
+3878061795,True,Internet search,-,Very unlikely,60+,Male,"$25,000 to $49,999",Mountain
+3878059916,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$150,000 to $174,999",East North Central
+3878059307,True,The default weather app on your phone,-,Very likely,60+,Female,"$100,000 to $124,999",East North Central
+3878054163,True,The default weather app on your phone,-,Somewhat likely,60+,Female,"$200,000 and up",South Atlantic
+3878053524,True,A specific website or app (please provide the answer),Weather Underground through HD Widgets,Somewhat likely,18 - 29,Female,"$75,000 to $99,999",East North Central
+3878052764,True,A specific website or app (please provide the answer),Weather Bug,Very unlikely,45 - 59,Male,"$150,000 to $174,999",Pacific
+3878052086,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$100,000 to $124,999",Pacific
+3878048164,True,The Weather Channel,-,Somewhat likely,45 - 59,Female,"$50,000 to $74,999",Pacific
+3878044812,True,Internet search,-,Very likely,18 - 29,Female,"$75,000 to $99,999",West North Central
+3878044317,False,The default weather app on your phone,-,Very likely,45 - 59,Female,"$75,000 to $99,999",East North Central
+3878043927,True,The Weather Channel,-,Very likely,45 - 59,Female,Prefer not to answer,Middle Atlantic
+3878043272,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$25,000 to $49,999",Mountain
+3878042695,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$150,000 to $174,999",Middle Atlantic
+3878041562,True,The Weather Channel,-,Very likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3878040881,True,Newspaper,-,Very unlikely,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+3878040492,True,Local TV News,-,Somewhat likely,30 - 44,Female,Prefer not to answer,Pacific
+3878040326,True,Local TV News,-,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",East North Central
+3878038987,True,The Weather Channel,-,Very likely,45 - 59,Female,"$75,000 to $99,999",Mountain
+3878037165,True,A specific website or app (please provide the answer),weather app,Very likely,30 - 44,Female,Prefer not to answer,West North Central
+3878035259,True,Local TV News,-,Very likely,60+,Male,"$100,000 to $124,999",Pacific
+3878035151,True,A specific website or app (please provide the answer),AccuWeather,Somewhat likely,30 - 44,Female,"$200,000 and up",East North Central
+3878035092,True,Local TV News,-,Very likely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3878034412,True,Local TV News,-,Very unlikely,60+,Female,"$10,000 to $24,999",West North Central
+3878033239,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$75,000 to $99,999",East North Central
+3878032634,True,Internet search,-,Somewhat likely,18 - 29,Female,"$10,000 to $24,999",Mountain
+3878032607,True,The default weather app on your phone,-,Very likely,60+,Female,"$75,000 to $99,999",Pacific
+3878032087,True,Local TV News,-,Very likely,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+3878031030,True,A specific website or app (please provide the answer),iPhone app,Somewhat likely,30 - 44,Female,"$75,000 to $99,999",East North Central
+3878023139,False,Local TV News,-,Very likely,18 - 29,Female,"$0 to $9,999",South Atlantic
+3878020495,False,A specific website or app (please provide the answer),National Weather Service site,Very unlikely,45 - 59,Female,"$150,000 to $174,999",Middle Atlantic
+3878020282,True,Newspaper,-,Very likely,60+,Female,"$100,000 to $124,999",New England
+3878019960,True,Internet search,-,Very unlikely,30 - 44,Female,"$100,000 to $124,999",East North Central
+3878019423,True,Local TV News,-,Very likely,60+,Female,"$200,000 and up",South Atlantic
+3878018322,True,Newspaper,-,Somewhat likely,60+,Male,Prefer not to answer,East North Central
+3878018310,True,The Weather Channel,-,Very likely,60+,Male,"$125,000 to $149,999",New England
+3878016803,True,A specific website or app (please provide the answer),accuweather,Very likely,60+,Female,Prefer not to answer,Pacific
+3878014756,True,Local TV News,-,Somewhat likely,45 - 59,Female,Prefer not to answer,East North Central
+3878013956,True,A specific website or app (please provide the answer),Accuweather,Very likely,18 - 29,Female,Prefer not to answer,South Atlantic
+3878012449,True,Local TV News,-,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",Pacific
+3878010983,True,Newspaper,-,Somewhat likely,45 - 59,Female,Prefer not to answer,Pacific
+3878010950,True,Internet search,-,Somewhat unlikely,60+,Male,"$25,000 to $49,999",Pacific
+3878010904,True,Local TV News,-,Very unlikely,60+,Female,Prefer not to answer,West South Central
+3878010376,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$100,000 to $124,999",East North Central
+3878009694,True,The Weather Channel,-,Very likely,60+,Male,"$25,000 to $49,999",Pacific
+3878009691,True,Internet search,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",Pacific
+3878009582,True,A specific website or app (please provide the answer),Weather channel,Very unlikely,45 - 59,Male,Prefer not to answer,Pacific
+3878009488,True,Internet search,-,Very unlikely,60+,Female,"$0 to $9,999",Pacific
+3878008863,True,Newspaper,-,Somewhat likely,60+,Male,Prefer not to answer,Mountain
+3878007018,True,The default weather app on your phone,-,Very likely,60+,Male,"$200,000 and up",South Atlantic
+3878005790,True,Internet search,-,Very likely,18 - 29,Female,"$10,000 to $24,999",Mountain
+3878001706,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$100,000 to $124,999",East North Central
+3877999985,False,Internet search,-,Very unlikely,45 - 59,Female,"$100,000 to $124,999",Pacific
+3877998847,True,A specific website or app (please provide the answer),intellicast,Somewhat likely,60+,Male,Prefer not to answer,South Atlantic
+3877998797,True,The Weather Channel,-,Very likely,18 - 29,Female,"$10,000 to $24,999",West South Central
+3877997607,True,The Weather Channel,-,Very likely,18 - 29,Female,Prefer not to answer,East North Central
+3877996677,False,Local TV News,-,Very unlikely,60+,Male,"$50,000 to $74,999",West South Central
+3877995949,True,The Weather Channel,-,Somewhat unlikely,45 - 59,Female,"$75,000 to $99,999",Pacific
+3877995873,True,The Weather Channel,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East North Central
+3877994295,False,The Weather Channel,-,Somewhat likely,18 - 29,Female,Prefer not to answer,South Atlantic
+3877993115,False,Local TV News,-,Very unlikely,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+3877992847,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Male,Prefer not to answer,Pacific
+3877992331,True,The Weather Channel,-,Very unlikely,60+,Female,Prefer not to answer,West North Central
+3877991281,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3877990551,True,Local TV News,-,Very likely,60+,Female,Prefer not to answer,New England
+3877989849,True,The Weather Channel,-,Very likely,60+,Male,"$125,000 to $149,999",Mountain
+3877989016,True,A specific website or app (please provide the answer),Weatherbug,Very unlikely,60+,Male,"$50,000 to $74,999",West South Central
+3877986851,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$125,000 to $149,999",East North Central
+3877984798,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+3877983130,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$25,000 to $49,999",West South Central
+3877983122,True,The Weather Channel,-,Very likely,45 - 59,Male,"$175,000 to $199,999",West South Central
+3877982615,True,A specific website or app (please provide the answer),Weather.com,Very likely,60+,Female,"$25,000 to $49,999",South Atlantic
+3877982204,False,Internet search,-,Somewhat unlikely,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+3877981227,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3877981098,True,A specific website or app (please provide the answer),the weather channel,Very likely,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+3877980492,True,A specific website or app (please provide the answer),the weather channel,Somewhat likely,45 - 59,Female,Prefer not to answer,Pacific
+3877980484,False,The default weather app on your phone,-,Somewhat unlikely,18 - 29,Female,"$0 to $9,999",Pacific
+3877980051,True,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$25,000 to $49,999",West South Central
+3877977794,True,The Weather Channel,-,Very likely,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+3877976383,True,A specific website or app (please provide the answer),iPhone weather app,Very likely,18 - 29,Female,Prefer not to answer,East South Central
+3877975104,True,The Weather Channel,-,Somewhat likely,-,-,-,-
+3877973396,True,Radio weather,-,Very unlikely,60+,Male,Prefer not to answer,Middle Atlantic
+3877969129,True,A specific website or app (please provide the answer),The Weather Channel for iPhone or iPad ,Very likely,45 - 59,Female,Prefer not to answer,South Atlantic
+3877968802,True,Newspaper,-,Somewhat likely,60+,Female,"$100,000 to $124,999",Pacific
+3877966982,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$200,000 and up",New England
+3877965710,True,A specific website or app (please provide the answer),m.accuweather.com,Very likely,45 - 59,Female,"$100,000 to $124,999",Mountain
+3877965544,True,Local TV News,-,Very unlikely,60+,Male,"$75,000 to $99,999",Mountain
+3877961612,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+3877960106,False,Internet search,-,Somewhat unlikely,18 - 29,Female,"$25,000 to $49,999",Pacific
+3877958234,False,A specific website or app (please provide the answer),National Weather Service,Somewhat likely,45 - 59,Female,"$100,000 to $124,999",Mountain
+3877957277,True,Internet search,-,Very likely,45 - 59,Female,Prefer not to answer,East South Central
+3877955881,False,Local TV News,-,Very unlikely,45 - 59,Female,"$125,000 to $149,999",West South Central
+3877955839,True,Local TV News,-,Very likely,18 - 29,Female,"$10,000 to $24,999",Middle Atlantic
+3877955798,True,The default weather app on your phone,-,Very likely,60+,Male,"$50,000 to $74,999",West North Central
+3877954334,True,The default weather app on your phone,-,Very unlikely,45 - 59,Female,"$175,000 to $199,999",Middle Atlantic
+3877953647,True,Internet search,-,Very likely,60+,Female,"$75,000 to $99,999",Pacific
+3877950102,True,The default weather app on your phone,-,Very likely,60+,Female,Prefer not to answer,East North Central
+3877949696,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877949284,True,The Weather Channel,-,Very likely,60+,Male,"$100,000 to $124,999",Mountain
+3877948332,True,Local TV News,-,Very likely,45 - 59,Female,"$25,000 to $49,999",Middle Atlantic
+3877946979,True,A specific website or app (please provide the answer),weather channel,Very unlikely,30 - 44,Female,"$150,000 to $174,999",Pacific
+3877946354,True,Local TV News,-,Very unlikely,60+,Male,"$200,000 and up",Pacific
+3877945582,True,Internet search,-,Very likely,45 - 59,Female,Prefer not to answer,South Atlantic
+3877943483,False,Local TV News,-,Very unlikely,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+3877943300,True,Internet search,-,Very likely,18 - 29,Female,"$10,000 to $24,999",New England
+3877942496,False,Local TV News,-,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",East North Central
+3877941352,True,The Weather Channel,-,Very likely,45 - 59,Male,"$50,000 to $74,999",East South Central
+3877941272,False,-,-,-,-,-,-,-
+3877941245,True,Internet search,-,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",Middle Atlantic
+3877939977,True,The Weather Channel,-,Very likely,60+,Female,"$50,000 to $74,999",West South Central
+3877939933,True,The Weather Channel,-,Very likely,45 - 59,Male,"$125,000 to $149,999",East North Central
+3877939431,True,A specific website or app (please provide the answer),Google App,Very likely,18 - 29,Female,"$25,000 to $49,999",Pacific
+3877937093,True,Internet search,-,Very likely,18 - 29,Female,Prefer not to answer,West South Central
+3877936279,True,A specific website or app (please provide the answer),Accuweather,Very likely,60+,Female,Prefer not to answer,East North Central
+3877934942,True,-,-,-,-,-,-,-
+3877934726,True,Radio weather,-,Somewhat likely,45 - 59,Female,"$75,000 to $99,999",Pacific
+3877934192,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$200,000 and up",Mountain
+3877934039,True,The Weather Channel,-,Very likely,45 - 59,Female,"$175,000 to $199,999",West South Central
+3877934025,True,A specific website or app (please provide the answer),Accuweather,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",Middle Atlantic
+3877933879,True,Local TV News,-,Very unlikely,60+,Male,Prefer not to answer,East South Central
+3877933017,True,A specific website or app (please provide the answer),The Weather Channel app on my phone.,Very likely,45 - 59,Male,"$75,000 to $99,999",East North Central
+3877930386,True,Internet search,-,Very likely,18 - 29,Female,"$10,000 to $24,999",Pacific
+3877930133,True,Local TV News,-,Very likely,60+,Female,Prefer not to answer,South Atlantic
+3877926515,True,Local TV News,-,Somewhat likely,18 - 29,Female,"$0 to $9,999",New England
+3877926252,True,Radio weather,-,Very unlikely,60+,Male,"$200,000 and up",West South Central
+3877922131,True,The Weather Channel,-,Somewhat likely,45 - 59,Female,"$0 to $9,999",East North Central
+3877921800,True,Internet search,-,Somewhat likely,60+,Male,"$125,000 to $149,999",Pacific
+3877921461,False,Local TV News,-,Very likely,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+3877920147,False,Internet search,-,Very unlikely,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+3877919152,True,Local TV News,-,Somewhat likely,60+,Female,"$125,000 to $149,999",East North Central
+3877918818,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$150,000 to $174,999",Pacific
+3877916763,True,A specific website or app (please provide the answer),weather channel,Very likely,60+,Male,"$125,000 to $149,999",West North Central
+3877914049,True,Internet search,-,Very likely,45 - 59,Female,"$200,000 and up",East South Central
+3877912517,True,Newsletter,-,Very likely,60+,Male,"$75,000 to $99,999",West South Central
+3877911586,True,Local TV News,-,Somewhat likely,60+,Female,Prefer not to answer,New England
+3877906211,True,A specific website or app (please provide the answer),WEatherbug,Somewhat likely,30 - 44,Female,Prefer not to answer,East North Central
+3877905346,False,Local TV News,-,Very unlikely,45 - 59,Female,"$150,000 to $174,999",Mountain
+3877904337,True,The default weather app on your phone,-,Very likely,45 - 59,Male,"$75,000 to $99,999",West South Central
+3877903810,False,Local TV News,-,Very likely,45 - 59,Female,Prefer not to answer,East North Central
+3877903803,True,Newspaper,-,Very likely,45 - 59,Female,Prefer not to answer,Pacific
+3877903037,True,A specific website or app (please provide the answer),weatherbug,Somewhat likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877902471,False,The Weather Channel,-,Very unlikely,18 - 29,Female,Prefer not to answer,South Atlantic
+3877902073,True,A specific website or app (please provide the answer),DirecTv Weather App,Very unlikely,45 - 59,Male,Prefer not to answer,Pacific
+3877901837,True,Internet search,-,Very unlikely,60+,Female,"$75,000 to $99,999",East North Central
+3877897238,True,A specific website or app (please provide the answer),The Weather Channel app,Very likely,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+3877896109,True,Radio weather,-,Very unlikely,60+,Female,"$200,000 and up",Pacific
+3877893918,True,Local TV News,-,Very likely,60+,Male,"$75,000 to $99,999",East South Central
+3877893684,True,Internet search,-,Very likely,60+,Female,"$25,000 to $49,999",Pacific
+3877893604,True,Internet search,-,Somewhat likely,18 - 29,Female,Prefer not to answer,West South Central
+3877890420,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$100,000 to $124,999",Pacific
+3877890013,False,A specific website or app (please provide the answer),iphone,Very unlikely,30 - 44,Female,"$125,000 to $149,999",Pacific
+3877889922,True,A specific website or app (please provide the answer),smart phone,Very unlikely,60+,Male,"$50,000 to $74,999",South Atlantic
+3877885176,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$75,000 to $99,999",East North Central
+3877885125,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$25,000 to $49,999",West North Central
+3877885019,True,Local TV News,-,Somewhat likely,60+,Female,Prefer not to answer,West South Central
+3877884613,True,The Weather Channel,-,Very likely,45 - 59,Female,"$50,000 to $74,999",Pacific
+3877884192,False,Local TV News,-,Very unlikely,60+,Female,"$25,000 to $49,999",Pacific
+3877880332,False,Local TV News,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",East North Central
+3877877032,True,A specific website or app (please provide the answer),Weather app,Very likely,18 - 29,Female,"$125,000 to $149,999",Pacific
+3877874628,True,A specific website or app (please provide the answer),accuweather,Very unlikely,60+,Female,Prefer not to answer,East North Central
+3877873676,True,Radio weather,-,Very unlikely,45 - 59,Male,"$25,000 to $49,999",East South Central
+3877871653,True,A specific website or app (please provide the answer),basic weather app on my iPhone,Very likely,45 - 59,Female,"$150,000 to $174,999",East North Central
+3877871578,True,Local TV News,-,Very likely,18 - 29,Female,"$0 to $9,999",East North Central
+3877871132,True,A specific website or app (please provide the answer),phone,Very unlikely,18 - 29,Female,"$0 to $9,999",West South Central
+3877870133,True,The default weather app on your phone,-,Somewhat likely,60+,Female,"$50,000 to $74,999",West South Central
+3877870026,True,The default weather app on your phone,-,Somewhat likely,60+,Male,"$100,000 to $124,999",Middle Atlantic
+3877869125,True,The Weather Channel,-,Very likely,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+3877867553,True,A specific website or app (please provide the answer),Weather Bug,Somewhat likely,60+,Female,"$25,000 to $49,999",Mountain
+3877865436,True,Local TV News,-,Very likely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3877864574,False,Newspaper,-,Somewhat likely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3877862817,True,Internet search,-,Very unlikely,45 - 59,Female,Prefer not to answer,Mountain
+3877862354,True,A specific website or app (please provide the answer),WeatherBug,Very likely,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+3877861603,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+3877860767,True,Local TV News,-,Somewhat likely,45 - 59,Male,"$10,000 to $24,999",West South Central
+3877860097,False,Local TV News,-,Somewhat likely,60+,Female,"$25,000 to $49,999",Pacific
+3877860035,False,The default weather app on your phone,-,Somewhat unlikely,30 - 44,Female,"$125,000 to $149,999",Mountain
+3877859415,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$10,000 to $24,999",West North Central
+3877857384,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+3877857065,False,Internet search,-,Somewhat unlikely,30 - 44,Female,"$75,000 to $99,999",-
+3877856635,True,Local TV News,-,Very likely,30 - 44,Female,"$50,000 to $74,999",West South Central
+3877856424,True,A specific website or app (please provide the answer),the weather channel app,Somewhat likely,18 - 29,Female,Prefer not to answer,Middle Atlantic
+3877856090,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Male,"$25,000 to $49,999",East North Central
+3877855838,False,The Weather Channel,-,Very likely,30 - 44,Female,"$100,000 to $124,999",Pacific
+3877854283,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+3877854113,True,The Weather Channel,-,Very likely,45 - 59,Male,"$50,000 to $74,999",West North Central
+3877853409,True,A specific website or app (please provide the answer),weather bug,Very likely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3877851546,True,The Weather Channel,-,Very likely,45 - 59,Female,"$25,000 to $49,999",East South Central
+3877851313,True,The Weather Channel,-,Somewhat likely,60+,Female,Prefer not to answer,Mountain
+3877850546,True,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+3877849360,True,The default weather app on your phone,-,Very likely,18 - 29,Female,Prefer not to answer,New England
+3877849287,True,Local TV News,-,Very unlikely,45 - 59,Male,Prefer not to answer,Pacific
+3877844428,True,Local TV News,-,Very likely,60+,Female,"$25,000 to $49,999",East North Central
+3877840278,True,A specific website or app (please provide the answer),Bing,Very likely,60+,Female,"$25,000 to $49,999",Pacific
+3877839221,True,The Weather Channel,-,Very likely,60+,Male,"$50,000 to $74,999",South Atlantic
+3877838876,True,A specific website or app (please provide the answer),Weather Channel App,Somewhat likely,30 - 44,Female,"$175,000 to $199,999",East North Central
+3877838258,True,The Weather Channel,-,Somewhat likely,18 - 29,Female,"$25,000 to $49,999",East North Central
+3877835456,True,Local TV News,-,Somewhat likely,60+,Female,"$125,000 to $149,999",West South Central
+3877834333,True,The default weather app on your phone,-,Very unlikely,60+,Female,"$50,000 to $74,999",East North Central
+3877833661,True,Newspaper,-,Very likely,60+,Female,Prefer not to answer,South Atlantic
+3877833303,True,Local TV News,-,Very likely,60+,Female,Prefer not to answer,Middle Atlantic
+3877831288,False,Internet search,-,Somewhat likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877829146,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$150,000 to $174,999",East North Central
+3877828834,True,The Weather Channel,-,Very unlikely,30 - 44,Female,Prefer not to answer,West South Central
+3877828401,True,The default weather app on your phone,-,Very likely,18 - 29,Female,Prefer not to answer,Middle Atlantic
+3877828113,True,Newspaper,-,Somewhat likely,60+,Male,"$200,000 and up",East North Central
+3877825838,True,Local TV News,-,Somewhat likely,60+,Female,"$125,000 to $149,999",Pacific
+3877825768,True,The default weather app on your phone,-,Very likely,60+,Male,"$100,000 to $124,999",South Atlantic
+3877825397,True,The default weather app on your phone,-,Somewhat unlikely,60+,Female,"$150,000 to $174,999",Pacific
+3877825092,True,Internet search,-,Somewhat unlikely,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+3877825091,True,The Weather Channel,-,Somewhat unlikely,45 - 59,Female,"$10,000 to $24,999",New England
+3877823647,True,Local TV News,-,Very unlikely,60+,Female,"$10,000 to $24,999",West South Central
+3877823634,False,Local TV News,-,Somewhat unlikely,60+,Male,"$50,000 to $74,999",Mountain
+3877823022,True,The Weather Channel,-,Somewhat unlikely,60+,Female,"$10,000 to $24,999",Mountain
+3877822759,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$0 to $9,999",East North Central
+3877821639,False,Local TV News,-,Very likely,45 - 59,Female,"$100,000 to $124,999",West South Central
+3877821152,True,The Weather Channel,-,Somewhat likely,18 - 29,Female,Prefer not to answer,New England
+3877820317,False,Radio weather,-,Somewhat likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877817207,True,A specific website or app (please provide the answer),weather.com,Very likely,60+,Female,"$150,000 to $174,999",New England
+3877815508,True,The Weather Channel,-,Somewhat likely,60+,Female,"$100,000 to $124,999",Pacific
+3877813621,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+3877813587,False,Local TV News,-,Somewhat likely,18 - 29,Female,Prefer not to answer,South Atlantic
+3877813322,True,Local TV News,-,Very likely,60+,Male,"$25,000 to $49,999",Pacific
+3877812497,False,Local TV News,-,Somewhat likely,18 - 29,Female,Prefer not to answer,West North Central
+3877806850,True,Local TV News,-,Very likely,45 - 59,Female,"$200,000 and up",Middle Atlantic
+3877806666,False,A specific website or app (please provide the answer),Talk to my mother.,Somewhat unlikely,45 - 59,Female,Prefer not to answer,Pacific
+3877804843,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+3877803376,False,A specific website or app (please provide the answer),i look outside,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",Pacific
+3877803055,True,Local TV News,-,Very unlikely,18 - 29,Female,"$50,000 to $74,999",East North Central
+3877800395,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$0 to $9,999",Pacific
+3877799311,True,A specific website or app (please provide the answer),The Weather Channel,Very likely,45 - 59,Female,"$100,000 to $124,999",South Atlantic
+3877795231,True,The Weather Channel,-,Somewhat likely,60+,Male,"$100,000 to $124,999",Pacific
+3877794938,True,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$0 to $9,999",West North Central
+3877794732,True,Local TV News,-,Somewhat likely,45 - 59,Male,"$0 to $9,999",South Atlantic
+3877793419,True,Local TV News,-,Somewhat unlikely,60+,Male,"$150,000 to $174,999",East North Central
+3877792799,True,Internet search,-,Somewhat likely,60+,Male,"$100,000 to $124,999",East South Central
+3877791725,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$50,000 to $74,999",East North Central
+3877791459,True,A specific website or app (please provide the answer),weather.com,Very likely,30 - 44,Female,Prefer not to answer,East North Central
+3877791359,False,Internet search,-,Somewhat unlikely,60+,Female,Prefer not to answer,Pacific
+3877791126,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$0 to $9,999",Pacific
+3877789580,True,Internet search,-,Very likely,45 - 59,Female,Prefer not to answer,West South Central
+3877789311,True,Local TV News,-,Very likely,60+,Male,"$125,000 to $149,999",East North Central
+3877788831,True,A specific website or app (please provide the answer),Weather.com,Somewhat likely,60+,Female,"$75,000 to $99,999",East North Central
+3877788097,True,The Weather Channel,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3877785851,True,A specific website or app (please provide the answer),Weather Channel App in IPhone,Somewhat likely,60+,Female,Prefer not to answer,South Atlantic
+3877783718,True,Newspaper,-,Very likely,60+,Male,Prefer not to answer,East North Central
+3877783251,True,A specific website or app (please provide the answer),The Weather Channel app,Very unlikely,60+,Male,Prefer not to answer,East North Central
+3877781305,True,Local TV News,-,Very unlikely,60+,Male,"$25,000 to $49,999",Middle Atlantic
+3877781123,True,Radio weather,-,Very likely,45 - 59,Male,"$175,000 to $199,999",New England
+3877779376,True,A specific website or app (please provide the answer),Weather Channel,Somewhat likely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3877778622,True,Local TV News,-,Somewhat likely,30 - 44,Female,"$25,000 to $49,999",West North Central
+3877777746,True,A specific website or app (please provide the answer),The weather app on the iPhone ,Very likely,18 - 29,Female,"$75,000 to $99,999",New England
+3877775605,True,Local TV News,-,Very likely,60+,Female,"$75,000 to $99,999",Mountain
+3877775230,False,Local TV News,-,Very likely,45 - 59,Female,Prefer not to answer,East North Central
+3877775208,True,Local TV News,-,Very likely,60+,Male,"$100,000 to $124,999",South Atlantic
+3877771309,True,Local TV News,-,Very likely,30 - 44,Female,"$75,000 to $99,999",East North Central
+3877771155,True,A specific website or app (please provide the answer),The weather channel iPad app,Very likely,60+,Female,"$50,000 to $74,999",West South Central
+3877769359,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+3877768869,True,A specific website or app (please provide the answer),weather underground,Somewhat likely,18 - 29,Female,"$150,000 to $174,999",Middle Atlantic
+3877767444,True,The default weather app on your phone,-,Very likely,45 - 59,Female,Prefer not to answer,West North Central
+3877767366,True,Internet search,-,Very likely,60+,Male,"$100,000 to $124,999",Middle Atlantic
+3877764882,True,Local TV News,-,Somewhat likely,60+,Female,"$75,000 to $99,999",West South Central
+3877762163,True,Local TV News,-,Very likely,45 - 59,Male,"$25,000 to $49,999",West South Central
+3877760068,False,A specific website or app (please provide the answer),My husband usually informs me about the next day's weather.,Somewhat likely,30 - 44,Female,"$125,000 to $149,999",Pacific
+3877755586,True,Local TV News,-,Somewhat likely,60+,Male,"$10,000 to $24,999",Pacific
+3877755146,True,The Weather Channel,-,Somewhat likely,60+,Male,"$50,000 to $74,999",West North Central
+3877754981,True,Local TV News,-,Very likely,45 - 59,Male,"$50,000 to $74,999",Middle Atlantic
+3877754345,True,Local TV News,-,Very unlikely,60+,Female,Prefer not to answer,Middle Atlantic
+3877754281,True,A specific website or app (please provide the answer),weather underground,Very likely,45 - 59,Female,"$175,000 to $199,999",Pacific
+3877752751,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,"$10,000 to $24,999",Pacific
+3877751637,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$75,000 to $99,999",Pacific
+3877750962,True,Local TV News,-,Somewhat unlikely,45 - 59,Female,"$50,000 to $74,999",East South Central
+3877750724,False,The Weather Channel,-,Very likely,30 - 44,Female,"$25,000 to $49,999",East South Central
+3877748205,False,Internet search,-,Somewhat likely,18 - 29,Female,"$10,000 to $24,999",New England
+3877747724,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$10,000 to $24,999",East North Central
+3877746061,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$0 to $9,999",East South Central
+3877744514,True,The Weather Channel,-,Very likely,18 - 29,Female,"$10,000 to $24,999",East North Central
+3877744055,True,Newspaper,-,Very unlikely,60+,Male,Prefer not to answer,Pacific
+3877743862,True,A specific website or app (please provide the answer),Weather.com,Very likely,45 - 59,Female,Prefer not to answer,South Atlantic
+3877741292,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$50,000 to $74,999",East North Central
+3877740013,False,A specific website or app (please provide the answer),Default iPhone app,Very likely,18 - 29,Female,"$200,000 and up",East North Central
+3877739642,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$25,000 to $49,999",New England
+3877739070,False,Local TV News,-,Somewhat unlikely,60+,Male,"$100,000 to $124,999",East North Central
+3877737885,True,Internet search,-,Very unlikely,60+,Male,"$75,000 to $99,999",East North Central
+3877735171,True,Internet search,-,Very likely,45 - 59,Male,"$200,000 and up",Mountain
+3877732662,False,Local TV News,-,Somewhat likely,45 - 59,Female,"$10,000 to $24,999",East South Central
+3877732160,True,A specific website or app (please provide the answer),Google now,Somewhat likely,30 - 44,Female,"$150,000 to $174,999",West South Central
+3877731939,True,The Weather Channel,-,Somewhat unlikely,45 - 59,Male,"$100,000 to $124,999",Pacific
+3877729075,True,The Weather Channel,-,Very likely,45 - 59,Female,"$100,000 to $124,999",-
+3877728804,True,The default weather app on your phone,-,Very likely,60+,Male,"$125,000 to $149,999",Pacific
+3877728487,True,The Weather Channel,-,Very unlikely,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+3877728042,True,The default weather app on your phone,-,Somewhat unlikely,45 - 59,Female,Prefer not to answer,West South Central
+3877727777,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$100,000 to $124,999",West North Central
+3877726824,False,Local TV News,-,Very unlikely,45 - 59,Female,Prefer not to answer,South Atlantic
+3877724934,False,The Weather Channel,-,Very unlikely,60+,Female,"$25,000 to $49,999",West North Central
+3877723968,True,Internet search,-,Somewhat likely,60+,Male,Prefer not to answer,West North Central
+3877723964,False,Internet search,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",Pacific
+3877723322,True,A specific website or app (please provide the answer),Weather Underground,Very unlikely,45 - 59,Male,"$150,000 to $174,999",New England
+3877722749,True,Local TV News,-,Very likely,18 - 29,Female,"$25,000 to $49,999",East North Central
+3877721796,True,Local TV News,-,Very unlikely,45 - 59,Female,Prefer not to answer,South Atlantic
+3877721262,True,A specific website or app (please provide the answer),Chrome app,Very likely,30 - 44,Female,"$75,000 to $99,999",East North Central
+3877720994,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$200,000 and up",Middle Atlantic
+3877720618,True,A specific website or app (please provide the answer),Accuweather,Somewhat likely,18 - 29,Female,Prefer not to answer,Middle Atlantic
+3877719327,True,Local TV News,-,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",Middle Atlantic
+3877715614,True,Internet search,-,Somewhat unlikely,30 - 44,Female,"$50,000 to $74,999",Mountain
+3877714285,False,Local TV News,-,Somewhat likely,60+,Male,Prefer not to answer,East South Central
+3877713514,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$0 to $9,999",Mountain
+3877710759,True,Local TV News,-,Somewhat likely,60+,Male,"$75,000 to $99,999",Middle Atlantic
+3877709429,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+3877709396,True,Local TV News,-,Very unlikely,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+3877709203,False,Internet search,-,Somewhat likely,30 - 44,Female,"$75,000 to $99,999",South Atlantic
+3877705805,True,The Weather Channel,-,Very likely,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+3877705747,False,The Weather Channel,-,Very likely,30 - 44,Female,"$25,000 to $49,999",East North Central
+3877705621,False,Internet search,-,Very unlikely,18 - 29,Female,Prefer not to answer,Pacific
+3877705489,True,The default weather app on your phone,-,Very likely,18 - 29,Male,"$50,000 to $74,999",Mountain
+3877705171,True,The Weather Channel,-,Very likely,60+,Female,"$50,000 to $74,999",Pacific
+3877705053,True,The Weather Channel,-,Somewhat likely,30 - 44,Female,"$10,000 to $24,999",East North Central
+3877703334,True,The Weather Channel,-,Somewhat unlikely,18 - 29,Female,"$10,000 to $24,999",Mountain
+3877702652,True,A specific website or app (please provide the answer),Apple Weather App,Very likely,18 - 29,Female,Prefer not to answer,West South Central
+3877699575,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$200,000 and up",West North Central
+3877698507,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,Prefer not to answer,South Atlantic
+3877696556,True,Radio weather,-,Very unlikely,60+,Male,Prefer not to answer,East North Central
+3877694816,True,A specific website or app (please provide the answer),National Weather Service site,Somewhat unlikely,60+,Male,"$200,000 and up",East South Central
+3877693629,True,The Weather Channel,-,Very unlikely,60+,Male,"$50,000 to $74,999",Middle Atlantic
+3877693173,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$200,000 and up",Mountain
+3877691632,True,Local TV News,-,Very unlikely,30 - 44,Female,"$100,000 to $124,999",East South Central
+3877689877,False,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$75,000 to $99,999",West South Central
+3877689618,True,The Weather Channel,-,Somewhat likely,60+,Female,"$75,000 to $99,999",Mountain
+3877689598,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$150,000 to $174,999",South Atlantic
+3877688523,True,The Weather Channel,-,Very likely,30 - 44,Female,"$125,000 to $149,999",Pacific
+3877686918,False,Local TV News,-,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",West South Central
+3877686413,True,The Weather Channel,-,Somewhat likely,18 - 29,Female,"$75,000 to $99,999",Mountain
+3877685833,True,Local TV News,-,Very likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3877685611,False,Internet search,-,Very likely,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+3877685103,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",Mountain
+3877684867,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+3877682778,True,The Weather Channel,-,Very likely,18 - 29,Male,Prefer not to answer,West South Central
+3877682733,False,Newspaper,-,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+3877679711,True,Local TV News,-,Somewhat likely,60+,Male,"$50,000 to $74,999",East South Central
+3877679528,True,Local TV News,-,Very likely,60+,Female,"$25,000 to $49,999",East South Central
+3877675285,True,Local TV News,-,Somewhat likely,60+,Male,"$75,000 to $99,999",West North Central
+3877674431,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$175,000 to $199,999",New England
+3877673406,True,A specific website or app (please provide the answer),Iphone weather app,Somewhat likely,18 - 29,Female,"$25,000 to $49,999",West South Central
+3877673386,True,Local TV News,-,Very likely,60+,Female,"$175,000 to $199,999",Pacific
+3877671160,False,A specific website or app (please provide the answer),desktop icon,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",Pacific
+3877668804,True,The default weather app on your phone,-,Somewhat likely,18 - 29,Female,"$10,000 to $24,999",-
+3877668573,True,A specific website or app (please provide the answer),The one that comes on your iphone,Very likely,18 - 29,Female,"$0 to $9,999",New England
+3877668518,True,The default weather app on your phone,-,Very likely,18 - 29,Female,"$125,000 to $149,999",New England
+3877668411,True,The Weather Channel,-,Somewhat likely,30 - 44,Female,"$150,000 to $174,999",New England
+3877666795,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",East North Central
+3877666179,True,Internet search,-,Somewhat likely,60+,Female,Prefer not to answer,West South Central
+3877665489,True,A specific website or app (please provide the answer),weather bug,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",East North Central
+3877661347,True,Radio weather,-,Somewhat likely,60+,Male,"$75,000 to $99,999",Mountain
+3877660370,True,A specific website or app (please provide the answer),the weather channel and local TV kxan,Very likely,60+,Female,"$200,000 and up",West South Central
+3877660042,True,The default weather app on your phone,-,Somewhat unlikely,18 - 29,Female,"$25,000 to $49,999",West South Central
+3877656203,True,The Weather Channel,-,Somewhat likely,45 - 59,Male,"$50,000 to $74,999",Pacific
+3877654524,True,Internet search,-,Very unlikely,18 - 29,Female,Prefer not to answer,-
+3877654523,True,A specific website or app (please provide the answer),Accuweather,Very likely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3877653871,True,A specific website or app (please provide the answer),weather bug,Very likely,45 - 59,Female,"$200,000 and up",South Atlantic
+3877653260,True,Local TV News,-,Somewhat likely,60+,Female,"$200,000 and up",West South Central
+3877652718,True,Local TV News,-,Very unlikely,60+,Female,Prefer not to answer,Mountain
+3877652362,True,A specific website or app (please provide the answer),Wunderground,Very likely,60+,Female,"$25,000 to $49,999",Pacific
+3877651261,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$200,000 and up",South Atlantic
+3877650432,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,Prefer not to answer,South Atlantic
+3877649523,True,A specific website or app (please provide the answer),weatherbug,Very unlikely,18 - 29,Female,"$10,000 to $24,999",East North Central
+3877649260,True,Local TV News,-,Very unlikely,45 - 59,Female,"$50,000 to $74,999",Pacific
+3877648807,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$200,000 and up",South Atlantic
+3877648261,True,Newspaper,-,Somewhat likely,45 - 59,Female,"$125,000 to $149,999",New England
+3877648193,True,Internet search,-,Very likely,30 - 44,Female,"$25,000 to $49,999",West South Central
+3877647762,True,Local TV News,-,Very likely,30 - 44,Female,"$75,000 to $99,999",East North Central
+3877647733,True,The default weather app on your phone,-,Very likely,60+,Male,"$200,000 and up",Pacific
+3877647589,True,Internet search,-,Very likely,18 - 29,Female,"$25,000 to $49,999",East North Central
+3877647198,True,Local TV News,-,Very unlikely,45 - 59,Female,"$25,000 to $49,999",Middle Atlantic
+3877646688,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877646493,True,Newspaper,-,Very unlikely,45 - 59,Female,"$75,000 to $99,999",West North Central
+3877646443,True,Local TV News,-,Somewhat likely,45 - 59,Female,"$175,000 to $199,999",South Atlantic
+3877644027,True,The Weather Channel,-,Very unlikely,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+3877642069,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877640956,True,A specific website or app (please provide the answer),accuweather,Very likely,45 - 59,Female,Prefer not to answer,East North Central
+3877640569,True,A specific website or app (please provide the answer),the weather channel app,Very unlikely,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+3877640059,True,Local TV News,-,Somewhat unlikely,60+,Female,"$10,000 to $24,999",East South Central
+3877639651,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$125,000 to $149,999",Pacific
+3877639599,True,Internet search,-,Somewhat likely,60+,Male,"$25,000 to $49,999",West South Central
+3877639207,True,The Weather Channel,-,Very likely,45 - 59,Female,"$150,000 to $174,999",Middle Atlantic
+3877638685,True,A specific website or app (please provide the answer),Intellicast (site) & WUnderground (app) ,Very likely,45 - 59,Male,"$25,000 to $49,999",New England
+3877638200,False,The default weather app on your phone,-,Somewhat unlikely,18 - 29,Female,Prefer not to answer,West North Central
+3877637740,True,A specific website or app (please provide the answer),Weather Bug App,Very likely,18 - 29,Female,"$10,000 to $24,999",East South Central
+3877637463,True,The default weather app on your phone,-,Very unlikely,45 - 59,Male,"$200,000 and up",New England
+3877637448,True,A specific website or app (please provide the answer),myphone,Very unlikely,60+,Female,Prefer not to answer,West South Central
+3877637119,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$175,000 to $199,999",-
+3877635198,True,The default weather app on your phone,-,Very likely,30 - 44,Female,Prefer not to answer,East North Central
+3877635161,True,Internet search,-,Very likely,30 - 44,Female,"$10,000 to $24,999",New England
+3877633592,False,Local TV News,-,Somewhat likely,18 - 29,Female,Prefer not to answer,East North Central
+3877633421,True,A specific website or app (please provide the answer),weather.com,Very unlikely,30 - 44,Female,"$100,000 to $124,999",Mountain
+3877632920,True,A specific website or app (please provide the answer),weather.gov,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",West North Central
+3877632727,True,The Weather Channel,-,Somewhat likely,45 - 59,Female,Prefer not to answer,Pacific
+3877631626,True,The Weather Channel,-,Somewhat likely,30 - 44,Female,"$100,000 to $124,999",Pacific
+3877630928,True,Radio weather,-,Very likely,18 - 29,Female,Prefer not to answer,West South Central
+3877627989,True,Local TV News,-,Very likely,60+,Male,Prefer not to answer,Mountain
+3877627031,True,Internet search,-,Very likely,18 - 29,Female,Prefer not to answer,New England
+3877626831,True,Newsletter,-,Somewhat unlikely,45 - 59,Female,Prefer not to answer,Pacific
+3877626301,False,A specific website or app (please provide the answer),accuweather,Somewhat likely,18 - 29,Female,Prefer not to answer,Mountain
+3877625001,True,Internet search,-,Very likely,30 - 44,Female,"$75,000 to $99,999",Pacific
+3877624927,True,Internet search,-,Somewhat likely,30 - 44,Female,Prefer not to answer,Pacific
+3877623695,True,The default weather app on your phone,-,Very likely,18 - 29,Female,Prefer not to answer,Middle Atlantic
+3877623020,False,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",West South Central
+3877622336,False,A specific website or app (please provide the answer),my phone has a pre-loaded app,Very likely,45 - 59,Female,"$200,000 and up",Pacific
+3877622039,True,The Weather Channel,-,Somewhat likely,18 - 29,Female,Prefer not to answer,West North Central
+3877621290,True,The default weather app on your phone,-,Very likely,60+,Female,"$75,000 to $99,999",West North Central
+3877620916,False,A specific website or app (please provide the answer),www.weather.gov,Somewhat likely,30 - 44,Female,"$50,000 to $74,999",East North Central
+3877620216,True,Internet search,-,Very unlikely,60+,Female,"$200,000 and up",Mountain
+3877619244,True,Local TV News,-,Very unlikely,60+,Female,"$25,000 to $49,999",Middle Atlantic
+3877618703,True,The default weather app on your phone,-,Very likely,45 - 59,Female,"$200,000 and up",South Atlantic
+3877617187,True,A specific website or app (please provide the answer),weather.com,Somewhat unlikely,60+,Female,"$75,000 to $99,999",New England
+3877617097,True,Local TV News,-,Somewhat unlikely,30 - 44,Female,"$50,000 to $74,999",Mountain
+3877615523,True,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,"$50,000 to $74,999",Mountain
+3877614060,True,A specific website or app (please provide the answer),Weather Underground,Very likely,18 - 29,Female,Prefer not to answer,Middle Atlantic
+3877613803,True,The Weather Channel,-,Very likely,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+3877613602,False,-,-,-,-,-,-,-
+3877612849,True,Internet search,-,Somewhat likely,60+,Female,"$150,000 to $174,999",Pacific
+3877612172,True,Local TV News,-,Very unlikely,45 - 59,Female,"$50,000 to $74,999",East South Central
+3877611589,True,Internet search,-,Somewhat likely,60+,Female,Prefer not to answer,East South Central
+3877611244,True,Internet search,-,Somewhat likely,45 - 59,Male,"$75,000 to $99,999",East South Central
+3877608503,False,Local TV News,-,Somewhat likely,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+3877608111,True,The Weather Channel,-,Very likely,45 - 59,Female,"$75,000 to $99,999",West South Central
+3877607322,True,Local TV News,-,Very unlikely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3877606832,False,The default weather app on your phone,-,Very unlikely,18 - 29,Female,"$0 to $9,999",Mountain
+3877606205,True,A specific website or app (please provide the answer),The Weather Channel app,Very likely,45 - 59,Male,Prefer not to answer,South Atlantic
+3877606053,True,Newspaper,-,Somewhat likely,60+,Female,"$75,000 to $99,999",South Atlantic
+3877605415,True,Local TV News,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",New England
+3877605085,True,A specific website or app (please provide the answer),Weather & Clock widget,Very likely,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+3877604945,True,Local TV News,-,Very likely,45 - 59,Female,"$0 to $9,999",Mountain
+3877604719,True,Internet search,-,Somewhat likely,45 - 59,Female,Prefer not to answer,West North Central
+3877603245,True,The default weather app on your phone,-,Very unlikely,30 - 44,Female,"$75,000 to $99,999",Mountain
+3877602149,True,A specific website or app (please provide the answer),Weather.com,Very likely,60+,Male,"$175,000 to $199,999",East North Central
+3877602108,True,The Weather Channel,-,Very likely,30 - 44,Female,"$50,000 to $74,999",East South Central
+3877601790,True,The default weather app on your phone,-,Very likely,30 - 44,Female,"$75,000 to $99,999",West South Central
+3877600406,True,The Weather Channel,-,Somewhat unlikely,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+3877599363,True,The default weather app on your phone,-,Very likely,60+,Male,"$25,000 to $49,999",East North Central
+3877599184,False,Internet search,-,Very unlikely,30 - 44,Female,"$125,000 to $149,999",South Atlantic
+3877598945,True,The Weather Channel,-,Very likely,30 - 44,Female,"$125,000 to $149,999",West South Central
+3877598520,True,Local TV News,-,Very unlikely,45 - 59,Male,"$100,000 to $124,999",East North Central
+3877595167,True,The default weather app on your phone,-,Very likely,60+,Female,"$75,000 to $99,999",East North Central
+3877594682,True,Radio weather,-,Somewhat likely,60+,Male,"$25,000 to $49,999",East North Central
+3877592670,True,Local TV News,-,Very likely,45 - 59,Female,"$175,000 to $199,999",Middle Atlantic
+3877591670,True,The Weather Channel,-,Very likely,45 - 59,Female,"$50,000 to $74,999",West South Central
+3877591495,True,Local TV News,-,Very unlikely,30 - 44,Female,"$75,000 to $99,999",West North Central
+3877591297,False,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,"$125,000 to $149,999",Pacific
+3877586222,True,A specific website or app (please provide the answer),Weather.com,Very likely,30 - 44,Female,"$100,000 to $124,999",West North Central
+3877585955,True,The default weather app on your phone,-,Somewhat likely,30 - 44,Female,Prefer not to answer,New England
+3877584768,True,A specific website or app (please provide the answer),yahoo weather app,Very likely,45 - 59,Female,"$75,000 to $99,999",West South Central
+3877584496,False,A specific website or app (please provide the answer),Www.weather.com,Very unlikely,30 - 44,Female,"$10,000 to $24,999",Middle Atlantic
+3877580938,True,Newspaper,-,Somewhat likely,45 - 59,Female,"$25,000 to $49,999",Mountain
+3877579781,True,The Weather Channel,-,Very unlikely,30 - 44,Male,"$25,000 to $49,999",East South Central
+3877579062,True,The Weather Channel,-,Very unlikely,45 - 59,Female,"$75,000 to $99,999",Pacific
+3877576778,False,Local TV News,-,Very likely,45 - 59,Female,"$10,000 to $24,999",East North Central
+3877573011,True,Local TV News,-,Somewhat unlikely,45 - 59,Female,"$25,000 to $49,999",East South Central
+3877572488,True,A specific website or app (please provide the answer),weather app on iphone,Very likely,30 - 44,Female,"$125,000 to $149,999",South Atlantic
+3877572480,False,The default weather app on your phone,-,Very likely,18 - 29,Female,"$100,000 to $124,999",South Atlantic
+3877571848,False,The default weather app on your phone,-,Somewhat likely,45 - 59,Female,"$100,000 to $124,999",East North Central
+3877568315,True,The Weather Channel,-,Very unlikely,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+3877568116,False,Internet search,-,Very unlikely,60+,Female,"$100,000 to $124,999",West South Central
+3877568054,True,The Weather Channel,-,Very likely,45 - 59,Female,Prefer not to answer,Pacific
+3877568053,True,The default weather app on your phone,-,Very likely,30 - 44,Female,Prefer not to answer,South Atlantic
+3877566926,True,Local TV News,-,Somewhat likely,60+,Female,Prefer not to answer,Pacific
+3877551536,False,-,-,-,-,-,-,-
+3877548893,True,-,-,-,-,-,-,-
