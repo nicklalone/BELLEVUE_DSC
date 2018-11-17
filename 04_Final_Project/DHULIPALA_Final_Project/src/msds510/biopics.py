@@ -33,7 +33,7 @@ class Biopic:
         """
 
         Returns:
-            str: The URL of the comic character on the Marvel Wikia
+            str: The URL of the movie
 
         """
         return self.sites
@@ -42,7 +42,7 @@ class Biopic:
         """
 
         Returns:
-            str: The full name or alias of the character
+            str: The name of the movie
 
         """
         return self.title_value
@@ -51,7 +51,7 @@ class Biopic:
         """
 
         Returns:
-            str: The full name or alias of the character
+            str: The name of the director
 
         """
         return self.directors
@@ -60,7 +60,7 @@ class Biopic:
         """
 
         Returns:
-            str: The full name or alias of the character
+            str: The country of origin
 
         """
         return self.countrys
@@ -71,8 +71,7 @@ class Biopic:
         """
 
         Returns:
-            int: The number of comic books that character
-            appeared in as of April 30
+            int: The movie released year
 
         """
         return int(self.year_released)
@@ -91,8 +90,7 @@ class Biopic:
 
         """
             Returns:
-            int: The year the character was introduced
-            as a full or reserve member of the Avengers
+            str: The amount collected by the movie. If the data is not available. it returns not provided
 
         """
         if(self.box_offices == "-"):
@@ -102,10 +100,11 @@ class Biopic:
 
 
     def lead_actor(self):
-        """STRIP OFF TRAILING NEWLINES AND SPACES
+        """
 
         Returns:
-            str: Descriptions of deaths and resurrections.
+
+            str: returns the name of the lead actors
 
         """
         return self.lead_actor_actress
@@ -135,7 +134,7 @@ class Biopic:
         """takes a list of records, formats them
         and prints them to an output file.
         Args:
-            recordslist: list of top 10 avenger records
+            recordslist: list of movie records
             outfile: a file location string.
         Result:
             prints the contents to a formatted outfile.
@@ -159,13 +158,13 @@ class Biopic:
     '''
 
 # The above will work like this:
-#       What is the avenger's name? This should be level 1.
-# How may appearances have they had? This will be a bullet point.
-# What year did they join? This will be a bullet point.
-# How many years since joining? This will be a bullet point.
-# What is the avenger's URL? This will be a bullet point.
-# The notes section will be last as a level 2 heading.
-# followed by the notes themselves.
-# Spacing will be up to you.
+# What is the title of the movie? This should be level 1.
+# Movie released year? This will be a bullet point.
+# What is the box office collection for the movie? This will be a bullet point.
+# Who is the director of the movie? This will be a bullet point.
+# What is the url linked to the IMDB? This will be a bullet point.
+# Heading for Lead actors for the movie.
+# List of lead actors.
 
-# Remember to refer to the example report in the reports folder
+
+
