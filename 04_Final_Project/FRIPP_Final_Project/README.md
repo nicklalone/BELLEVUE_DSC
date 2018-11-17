@@ -3,7 +3,7 @@
 <br />
 <br />
 
-**All Files are in the top level src and src>msds510 patsh; Accidentally duplicated in src>src paths**
+**All Files are in the top level src and src>msds510 path; Accidentally duplicated in src>src paths**
 <br />
 * Leaving some files in the duplicated sub-src path as collaborators contributed here
 
