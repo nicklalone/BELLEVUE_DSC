@@ -3,6 +3,11 @@ import re
 from msds510.utils import date
 
 
+# Joe F.: I don't see a 'to_int(rdict['liters_of_pure_alcohol']) in your 
+# transform_record block. You used this in your class for the report 
+# generation via the conversion but it won't have an int value to look for I believe.
+# May want to add this in there.
+
 def get_value(series, value):
     """takes an incoming list and an item. if item exists in series,
         return index of where the item exists.  If the items are a
