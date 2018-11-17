@@ -110,6 +110,10 @@ def transform_record(rdict):
     Returns:
         a dictionary with newly formatted values
     """
+    
+    # Joe F.: These are values from the Avengers data set. You may have issues
+    # if you need this code and it isn't updated to match your keys from the 
+    # drinks data set.
     rdict["appearances"] = to_int(rdict["appearances"])
     rdict["current"] = to_bool(rdict["current"])
     rdict["year"] = to_int(rdict["year"])
