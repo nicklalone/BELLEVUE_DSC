@@ -1,181 +1,181 @@
 # 1. Namibia 
 
- 376
+* Beer Servings: 376
  * Spirit Servings: 3
-  1
-  6.8
+ * Wine Servings: 1
+ * Liters of Alcohol: 6.8
  # 2. Czech Republic 
 
- 361
+* Beer Servings: 361
  * Spirit Servings: 170
-  134
-  11.8
+ * Wine Servings: 134
+ * Liters of Alcohol: 11.8
  # 3. Gabon 
 
- 347
+* Beer Servings: 347
  * Spirit Servings: 98
-  59
-  8.9
+ * Wine Servings: 59
+ * Liters of Alcohol: 8.9
  # 4. Germany 
 
- 346
+* Beer Servings: 346
  * Spirit Servings: 117
-  175
-  11.3
+ * Wine Servings: 175
+ * Liters of Alcohol: 11.3
  # 5. Lithuania 
 
- 343
+* Beer Servings: 343
  * Spirit Servings: 244
-  56
-  12.9
+ * Wine Servings: 56
+ * Liters of Alcohol: 12.9
  # 6. Poland 
 
- 343
+* Beer Servings: 343
  * Spirit Servings: 215
-  56
-  10.9
+ * Wine Servings: 56
+ * Liters of Alcohol: 10.9
  # 7. Venezuela 
 
- 333
+* Beer Servings: 333
  * Spirit Servings: 100
-  3
-  7.7
+ * Wine Servings: 3
+ * Liters of Alcohol: 7.7
  # 8. Ireland 
 
- 313
+* Beer Servings: 313
  * Spirit Servings: 118
-  165
-  11.4
+ * Wine Servings: 165
+ * Liters of Alcohol: 11.4
  # 9. Palau 
 
- 306
+* Beer Servings: 306
  * Spirit Servings: 63
-  23
-  6.9
+ * Wine Servings: 23
+ * Liters of Alcohol: 6.9
  # 10. Romania 
 
- 297
+* Beer Servings: 297
  * Spirit Servings: 122
-  167
-  10.4
+ * Wine Servings: 167
+ * Liters of Alcohol: 10.4
  # 11. Belgium 
 
- 295
+* Beer Servings: 295
  * Spirit Servings: 84
-  212
-  10.5
+ * Wine Servings: 212
+ * Liters of Alcohol: 10.5
  # 12. Panama 
 
- 285
+* Beer Servings: 285
  * Spirit Servings: 104
-  18
-  7.2
+ * Wine Servings: 18
+ * Liters of Alcohol: 7.2
  # 13. Spain 
 
- 284
+* Beer Servings: 284
  * Spirit Servings: 157
-  112
-  10.0
+ * Wine Servings: 112
+ * Liters of Alcohol: 10.0
  # 14. Serbia 
 
- 283
+* Beer Servings: 283
  * Spirit Servings: 131
-  127
-  9.6
+ * Wine Servings: 127
+ * Liters of Alcohol: 9.6
  # 15. Latvia 
 
- 281
+* Beer Servings: 281
  * Spirit Servings: 216
-  62
-  10.5
+ * Wine Servings: 62
+ * Liters of Alcohol: 10.5
  # 16. Austria 
 
- 279
+* Beer Servings: 279
  * Spirit Servings: 75
-  191
-  9.7
+ * Wine Servings: 191
+ * Liters of Alcohol: 9.7
  # 17. Slovenia 
 
- 270
+* Beer Servings: 270
  * Spirit Servings: 51
-  276
-  10.6
+ * Wine Servings: 276
+ * Liters of Alcohol: 10.6
  # 18. Belize 
 
- 263
+* Beer Servings: 263
  * Spirit Servings: 114
-  8
-  6.8
+ * Wine Servings: 8
+ * Liters of Alcohol: 6.8
  # 19. Finland 
 
- 263
+* Beer Servings: 263
  * Spirit Servings: 133
-  97
-  10.0
+ * Wine Servings: 97
+ * Liters of Alcohol: 10.0
  # 20. Australia 
 
- 261
+* Beer Servings: 261
  * Spirit Servings: 72
-  212
-  10.4
+ * Wine Servings: 212
+ * Liters of Alcohol: 10.4
  # 21. Netherlands 
 
- 251
+* Beer Servings: 251
  * Spirit Servings: 88
-  190
-  9.4
+ * Wine Servings: 190
+ * Liters of Alcohol: 9.4
  # 22. USA 
 
- 249
+* Beer Servings: 249
  * Spirit Servings: 158
-  84
-  8.7
+ * Wine Servings: 84
+ * Liters of Alcohol: 8.7
  # 23. Russian Federation 
 
- 247
+* Beer Servings: 247
  * Spirit Servings: 326
-  73
-  11.5
+ * Wine Servings: 73
+ * Liters of Alcohol: 11.5
  # 24. Andorra 
 
- 245
+* Beer Servings: 245
  * Spirit Servings: 138
-  312
-  12.4
+ * Wine Servings: 312
+ * Liters of Alcohol: 12.4
  # 25. Brazil 
 
- 245
+* Beer Servings: 245
  * Spirit Servings: 145
-  16
-  7.2
+ * Wine Servings: 16
+ * Liters of Alcohol: 7.2
  # 26. Canada 
 
- 240
+* Beer Servings: 240
  * Spirit Servings: 122
-  100
-  8.2
+ * Wine Servings: 100
+ * Liters of Alcohol: 8.2
  # 27. Mexico 
 
- 238
+* Beer Servings: 238
  * Spirit Servings: 68
-  5
-  5.5
+ * Wine Servings: 5
+ * Liters of Alcohol: 5.5
  # 28. Luxembourg 
 
- 236
+* Beer Servings: 236
  * Spirit Servings: 133
-  271
-  11.4
+ * Wine Servings: 271
+ * Liters of Alcohol: 11.4
  # 29. Hungary 
 
- 234
+* Beer Servings: 234
  * Spirit Servings: 215
-  185
-  11.3
+ * Wine Servings: 185
+ * Liters of Alcohol: 11.3
  # 30. Iceland 
 
- 233
+* Beer Servings: 233
  * Spirit Servings: 61
-  78
-  6.6
+ * Wine Servings: 78
+ * Liters of Alcohol: 6.6
  
