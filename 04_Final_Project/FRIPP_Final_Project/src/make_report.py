@@ -45,7 +45,7 @@ def generateReport(infile, outfile):
         file = list(reader)
 
     sortedRecords = sorted(file,
-                           key=lambda k: float(k['appearances']),
+                           key=lambda k: k['appearances'],
                            reverse=True)[:10]
 
     characters = dc_characters()
