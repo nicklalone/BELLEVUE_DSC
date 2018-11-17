@@ -94,11 +94,23 @@ class Fifa:
         """takes a list of records, formats them
         and prints them to an output file.
         Args:
-            recordslist: list of top 10 avenger records
+            # Joe Fripp - Making very minor edit to change 'Avengers' to 'Fifa'
+            # Code appears solid here assuming all other methods/files are clean
+            # Nice modification, and I appreciate your use of 
+            # "__repr__" and "__str__"
+            
+            recordslist: list of top 10 Fifa records
             outfile: a file location string.
         Result:
             prints the contents to a formatted outfile.
         """
+        """
+        Christine Hathaway comments:
+        Another way to print is using the .format() str function.
+        I used it and found it was very clean and easy to code.
+        Just another way to do the same thing.
+        """
+        
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 fifa = Fifa(rc)
@@ -112,7 +124,13 @@ class Fifa:
 
                 ofile.write("* GDP Weighted Share: " + str(fifa.gdp_weighted_share()) + "\n\n")
 
-                 #               ofile.write('# {}{} {}'.format(idx, ".", avenger.name_alias()))
+"""
+Christine Hathaway comments:
+from here and below, you could remove the old lines 
+from the previous avengers file to clean up some space
+"""
+                
+                #               ofile.write('# {}{} {}'.format(idx, ".", avenger.name_alias()))
 
                 #ofile.write('\n\n* {} {}'.format('Country: ', avenger.country()))
 

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+import datetime
+
+>>>>>>> 0b017827aef0595bdaf5a01efbe1cbe387f3eba6
 class Avenger:
     def __init__(self, record=None):
         """
@@ -100,3 +105,4 @@ class Avenger:
                 ofile.write('* Region: ' + avenger.location + '\n\n')
 
 
+# FYI- Comments need to be updated to reflect the actual data file

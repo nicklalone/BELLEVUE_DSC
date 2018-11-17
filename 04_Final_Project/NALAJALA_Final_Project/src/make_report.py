@@ -7,7 +7,8 @@ from msds510 import util
 
 
 def main(infile, outfile):
-    """reads an infile, sorts the content, and
+    """Generates a mark down report with top ten box_office grossing biopics
+       reads an infile, sorts the content, and
        sends the sorted records and an outfile
        destination to printMarkdown to print
     Args:
@@ -18,6 +19,11 @@ def main(infile, outfile):
         sorted records and an outfile to write
         the results to.
     """
+
+    # I was trying to do the same by box office collection. However, there were some places where the collections were not provided.
+    # So choose by release year
+    # Did you face the same issue?
+
     try:
         file = []
         with open(infile, 'r', encoding='ISO-8859-1') as csvfile:

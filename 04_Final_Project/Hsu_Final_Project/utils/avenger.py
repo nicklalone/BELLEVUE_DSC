@@ -13,33 +13,33 @@ class Avenger:
 
         if record:
             self.record = record
-            self.name = record['name']
-            self.total = record['total']
-            self.male_share = record['male_share']
-            self.female_share = record['female_share']
-            self.gap = record['gap']
+            self.name_value = record['name']
+            self.total_value = record['total']
+            self.male_share_value = record['male_share']
+            self.female_share_value = record['female_share']
+            self.gap_value = record['gap']
 
     # Method Definitions
 
     def name(self):
         # Returns the unisex name that are commonly used.
-        return self.name
+        return self.name_value
 
     def total(self):
         # Returns the total number of Americans with the name
-        return self.total
+        return self.total_value
 
     def male_share(self):
         # Returns the percentage of people with the name that are male
-        return self.male_share
+        return self.male_share_value
 
     def female_share(self):
         # Returns the percentage of people with the name that are female
-        return self.female_share
+        return self.female_share_value
 
     def gap(self):
         # Returns the percentage gap between males and females (absolute value)
-        return self.gap
+        return self.gap_value
 
     def __str__(self):
         # Reads the object as a string
@@ -65,9 +65,8 @@ class Avenger:
             ofile.write('# List of the top 10 names with the lowest gender gap.\n\n')
             for idx, rc in enumerate(records_list, 1):
                 avenger = Avenger(rc)
-                ofile.write('## ' + str(idx) + '. ' + str(avenger.name()) + '\n\n')
-                ofile.write('* Total number of people with the name: ' + str(avenger.total()) + '\n')
-                ofile.write('* Percent of males: ' + str(avenger.male_share()) + '\n')
-                ofile.write('* Percent of females: ' + str(avenger.female_share()) + '\n')
-                ofile.write('* Gap:' + str(avenger.gap()) + '\n\n')
-
+                ofile.write('## ' + str(idx) + '. ' + avenger.name() + '\n\n')
+                ofile.write('* Total number of people with the name: ' + avenger.total() + '\n')
+                ofile.write('* Percent of males: ' + avenger.male_share() + '\n')
+                ofile.write('* Percent of females: ' + avenger.female_share() + '\n')
+                ofile.write('* Gap: ' + avenger.gap() + '\n\n')

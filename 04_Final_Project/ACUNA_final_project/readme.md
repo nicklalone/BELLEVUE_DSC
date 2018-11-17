@@ -1,0 +1,1 @@
+This dataset is from 538's Github repository: https://github.com/fivethirtyeight/data/tree/master/democratic-bench.

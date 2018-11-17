@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6515d795-a25f-43d6-bfd7-46d6a62d0fac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Burns_Final_Project/src/msds510/Beer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Burns_Final_Project/src/msds510/Beer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Burns_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Burns_Final_Project/src/process_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DHULIPALA_Final_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DHULIPALA_Final_Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DHULIPALA_Final_Project/src/make_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DHULIPALA_Final_Project/src/make_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GARDNER_Final_Project/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../GARDNER_Final_Project/src/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HATHAWAY_Final_Project/src/weather_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../HATHAWAY_Final_Project/src/weather_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NANDURI_Final_Project/src/msds510/marvel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../NANDURI_Final_Project/src/msds510/marvel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NANDURI_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../NANDURI_Final_Project/src/process_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vinesh_Final_Project/src/msds510/midterm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vinesh_Final_Project/src/msds510/midterm.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1254473075">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1908" />
+    <option name="y" value="30" />
+    <option name="width" value="1905" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="interim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="processed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="raw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1908" y="30" width="1905" height="988" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
