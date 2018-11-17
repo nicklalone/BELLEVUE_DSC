@@ -113,6 +113,7 @@ class Marvel:
             prints the contents to a formatted outfile.
         """
         with open(outfile, 'w') as ofile:
+            # I like your idea of incorporating the title in the markdown file
             ofile.write('\n## Raghu Raman Nanduri - Final Project 510  \n\n')
             ofile.write('***This report shows the top 10 appearances of the Marvel comic charecters*** \n')
             ofile.write('Source link for this project is :'
@@ -121,6 +122,7 @@ class Marvel:
             for idx, rc in enumerate(recordslist):
                 marvel = Marvel(rc)
                 # Writing report file for - Top ten appearances
+                # Just FYI, you can also use this format: ofile.write('# {}{} {}'.format(idx, ".", biopic.title()))
                 ofile.write(' **%d. %s ** \n\n' % (idx+1, marvel.fn_name()))
                 ofile.write('   - Number of Appearances: %d \n' % (marvel.fn_appearances()))
                 ofile.write('   - Year Joined: %d \n' % (marvel.fn_year()))

@@ -34,6 +34,7 @@ def processfile(infile, outfile):
         header = reader.fieldnames
         new_header = []
         for item in header:
+            # I like your usage of Regular expression in the following code
             new_header.append(re.sub(r'[^0-9a-z_\_]', '', item.replace(" ", "_").replace("/", "_").strip("?").strip().lower()))
         new_header.append("days_since_first_appearance")
 

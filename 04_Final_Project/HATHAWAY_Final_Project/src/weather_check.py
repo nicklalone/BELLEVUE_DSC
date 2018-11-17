@@ -214,6 +214,7 @@ class Weathercheck:
             for k, v in weather.how_check(recordslist).items():
                 ofile.write("* {0}: {1}\n" .format(k, v))
             ofile.write("## Number of Respondents in Each Age Bracket:\n")
+            # DHULIPALA: Really interesting the way you incorporated a method that gives a dictionary directly making the code very precise
             for k, v in weather.age_brackets(recordslist).items():
                 ofile.write("* {0}: {1}\n" .format(k, v))
             ofile.write("## Number of Respondents in Each Region of the US\n")

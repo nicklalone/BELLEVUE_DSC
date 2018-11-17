@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19adb92c-f31d-4321-a4fd-c18ff7dc0bfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../03_Week_8&amp;9/Dhulipala_MSDS510/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Week_8&amp;9/Dhulipala_MSDS510/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Burns_Final_Project/src/msds510/Beer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Burns_Final_Project/src/msds510/Beer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Burns_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Burns_Final_Project/src/process_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NALAJALA_Final_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NALAJALA_Final_Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NALAJALA_Final_Project/src/make_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NALAJALA_Final_Project/src/make_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NALAJALA_Final_Project/src/msds510/biopic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NALAJALA_Final_Project/src/msds510/biopic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/make_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Everett_Final_Project/src/msds510/avenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Everett_Final_Project/src/msds510/avenger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Everett_Final_Project/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Everett_Final_Project/src/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GARDNER_Final_Project/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GARDNER_Final_Project/src/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HATHAWAY_Final_Project/src/weather_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HATHAWAY_Final_Project/src/weather_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NANDURI_Final_Project/src/msds510/marvel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NANDURI_Final_Project/src/msds510/marvel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NANDURI_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NANDURI_Final_Project/src/process_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vinesh_Final_Project/src/msds510/midterm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vinesh_Final_Project/src/msds510/midterm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +58,7 @@
     <session id="376704093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -73,13 +79,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="614" />
-          <entry key="py" value="534" />
+          <entry key="py" value="638" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="614" />
-          <entry key="Python" value="534" />
+          <entry key="Python" value="638" />
         </counts>
       </usages-collector>
     </session>
@@ -120,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/read_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="615">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -147,7 +153,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/make_report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -169,11 +176,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/msds510/biopics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="515">
-              <caret line="145" column="69" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
+              <caret line="145" column="24" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -205,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/convert_to_utf8.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/msds510/biopics.py" />
+        <option value="$PROJECT_DIR$/src/make_report.py" />
       </list>
     </option>
   </component>
@@ -423,16 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/reports/movies_released_by_year.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -458,19 +456,30 @@
     <entry file="file://$PROJECT_DIR$/src/msds510/utils.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/msds510/biopics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="145" column="24" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/make_report.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/msds510/biopics.py">
+    <entry file="file://$PROJECT_DIR$/src/read_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="145" column="69" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

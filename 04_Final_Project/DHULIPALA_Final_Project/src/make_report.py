@@ -37,7 +37,7 @@ def generateReport(infile, outfile):
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
-
+    # Print all the records in the list in the order of movie release year
     sortedRecords = sorted(file,
                            key=lambda k: int(k['year_release']),
                            reverse=True)[:]
