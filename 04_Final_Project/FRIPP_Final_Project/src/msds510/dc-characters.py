@@ -1,7 +1,7 @@
 import datetime
 
 
-class Avenger:
+class dc_characters:
     def __init__(self, record=None):
         """
         Initializes the object with a dictionary-based record. If
@@ -13,17 +13,17 @@ class Avenger:
 
         if record:
             self.record = record
-            self.id_value = record["ID"]
-            self.align = record["ALIGN"]
-            self.eye_color = record["EYE"]
-            self.hair_color = record["HAIR"]
-            self.sex = record["SEX"]
-            self.gsm = record["GSM"]
-            self.living_status = record["ALIVE"]
-            self.appearance_count = record["APPEARANCES"]
-            self.first_appearance = record["FIRST APPEARANCE"]
-            self.appearance_year = record["YEAR"]
-            self.years_since_joining_value = record["years_since_joining"]
+            self.id_value = record["page_id"]
+            self.name = record["name"]
+            self.urlslug = record["urlslug"]
+            self.id = record["id"]
+            self.align = record["align"]
+            self.eye_color = record["eye"]
+            self.hair_color = record["hair"]
+            self.sex = record["sex"]
+            self.appearance_count = record["appearances"]
+            self.year = record["year"]
+            # self.years_since_joining_value = record["years_since_joining"]
 
     def id(self):
         """
@@ -48,7 +48,7 @@ class Avenger:
         Returns:
             str: Eye Color of DC Character
         """
-        return self.eye_color
+        return self.eye
 
     def hair_color(self):
         """
@@ -62,14 +62,7 @@ class Avenger:
         Returns:
              str: Sex of DC Character
         """
-        return self.hair_color
-
-    def gsm(self):
-        """
-        Returns:
-             str: GSM Status of DC Character
-        """
-        return self.gsm
+        return self.sex
 
     def alive(self):
         """
@@ -78,28 +71,14 @@ class Avenger:
         """
         return self.alive
 
-    def appearances(self):
+    def appearance_count(self):
         """
 
         Returns:
             int: The number of appearances of comic book DC Character
 
         """
-        return int(self.appearance_count)
-
-    def is_current(self):
-        """
-
-        Returns:
-            bool: Is the member currently active on an
-            avengers affiliated team? (True/False)
-
-        """
-
-        if not self.current.strip():
-            return None
-        else:
-            return True if self.current == 'YES' else False
+        return int(self.appearances)
 
     def gender(self):
         """
@@ -108,7 +87,16 @@ class Avenger:
             str: The recorded gender of the character
 
         """
-        return self.gender_value
+        return self.gender
+
+    def urlslug(self):
+        """
+
+        Returns:
+            str: The urlslug of the character
+
+        """
+        return self.urlslug
 
     def year(self):
         """
@@ -118,11 +106,11 @@ class Avenger:
             as a full or reserve member of the Avengers
 
         """
-        return int(self.year_value)
+        return int(self.year)
 
     def get_month(self):
-        months = ["jan", "feb", "mar", "apr", "may", "jun",
-                  "jul", "aug", "sep", "oct", "nov", "dec"]
+        months = ["january", "february", "march", "april", "may", "june",
+                  "july", "august", "september", "october", "november", "december"]
 
         for i in range(0, len(months)):
             if months[i] in self.first_appearance.lower():
@@ -201,15 +189,14 @@ class Avenger:
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
-                avenger = Avenger(rc)
-                ofile.write('# ' + str(idx) + str(avenger.name_alias()) + '\n\n')
-                ofile.write('* Number of Appearances : ' + str(avenger.appearances()) +'\n')
-                ofile.write('* Year Joines: ' + str(avenger.year()) + '\n')
-                ofile.write('* Years Since Joining: '+ str(avenger.years_since_joining()) + '\n')
-                ofile.write('* URL: ' + str(avenger.url()) + '\n')
-                ofile.write('## Notes' + '\n')
-                ofile.write(avenger.notes() + '\n')
-# The above will work like this:
+                character = dc_characters(rc)
+                ofile.write('# ' + str(idx) + str(dc-characters.name()) + '\n\n')
+                ofile.write('* Number of Appearances : ' + str(dc-characters.appearances()) +'\n')
+                ofile.write('* Year Joined: ' + str(dc-characters.year()) + '\n')
+                ofile.write('* Years Since Joining: '+ str(dc-characters.years_since_joining()) + '\n')
+                ofile.write('* URL: ' + str(dc-characters.urlslug()) + '\n')
+
+    # The above will work like this:
 #       What is the avenger's name? This should be level 1.
 # How may appearances have they had? This will be a bullet point.
 # What year did they join? This will be a bullet point.
