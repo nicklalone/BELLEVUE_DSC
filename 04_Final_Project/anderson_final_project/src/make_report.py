@@ -23,6 +23,10 @@ def generate_report(infile, outfile):
     with open(infile, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
+        
+    # Joe F.: You may run into an error here about not able to convert str/int type.
+    # If this type of error comes up referencing this piece, you may try removing 'int(x'
+    # and instead just have x: ['liters_of_pure_alcohol']
     sorted_records = sorted(file, key=lambda x: int(x['liters_of_pure_alcohol']), reverse=True)[:10]
     avenger = Avenger()
     avenger.to_markdown(sorted_records, outfile)
