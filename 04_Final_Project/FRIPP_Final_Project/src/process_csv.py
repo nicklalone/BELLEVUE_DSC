@@ -1,8 +1,8 @@
 import sys
 import csv
-from msds510.utils import conversion
+from src.msds510.utils import conversion
 
-
+# processFile('C:\\Users\\jfrip\\OneDrive\\Data Science Workspaces\\School\\FRIPP_Final_Project\\data\\interim\\dc-wikia-data-utf8.csv','C:\\Users\\jfrip\\OneDrive\\Data Science Workspaces\\School\\FRIPP_Final_Project\\data\\processed\\dc-wikia-data-processed.csv')
 
 def main():
     """interprets command line request
