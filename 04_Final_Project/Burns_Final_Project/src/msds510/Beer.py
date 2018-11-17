@@ -8,7 +8,7 @@ class Beer:
         no records is provided, the instance attributes are not set.
 
         Args:
-            record (dict): Dictionary-based record of Avenger data
+            record (dict): Dictionary-based record of drinks data
         """
 
         if record:
@@ -46,7 +46,6 @@ class Beer:
 
         """
         return int(self.spirit)
-
 
 
     def wine_servings(self):
@@ -108,9 +107,6 @@ class Beer:
                 ofile.write('* Wine Servings: ' + str(beer.wine_servings()) + "\n ")
                 ofile.write('* Liters of Alcohol: ' + str(beer.total_litres_of_pure_alcohol()) + "\n ")
 
-                # ofile.write("# " +str(idx +1)+" " + str(beer.country()) + " " + "\n\n")
-                #ofile.write("* Beer Servings " + str(beer.beer_servings()) + "\n ")
-                #ofile.write("\n\n")
 
                 # each line needs to be formatted to return what's needed for the Markdown file. There are many different ways
                 # to do this. The below comments have good pointers. I would focus on using the polymorphism aspect of the + operator,
@@ -126,14 +122,4 @@ class Beer:
                 #As a further tip to the above, remember that the index (idx) starts at zero
                 #so we'll want to add 1 to it before converting to a string
 
-# The above will work like this:
-#       What is the avenger's name? This should be level 1.
-# How may appearances have they had? This will be a bullet point.
-# What year did they join? This will be a bullet point.
-# How many years since joining? This will be a bullet point.
-# What is the avenger's URL? This will be a bullet point.
-# The notes section will be last as a level 2 heading.
-# followed by the notes themselves.
-# Spacing will be up to you.
 
-# Remember to refer to the example report in the reports folder

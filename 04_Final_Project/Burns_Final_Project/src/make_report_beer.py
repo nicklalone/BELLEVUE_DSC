@@ -4,7 +4,6 @@ import sys
 from  msds510.Beer import Beer as br
 # Added import sys and Avenger class import
 
-# if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 def main():
     """interprets command line request
     Args:
@@ -43,7 +42,7 @@ def generateReport(infile, outfile):
 
     sortedRecords = sorted(file,
                            key=lambda k: int(k['beer_servings']),
-                           reverse=True)[:30]
+                           reverse=True)[:15]
 
     beer = br()
     beer.to_markdown(sortedRecords, outfile)
