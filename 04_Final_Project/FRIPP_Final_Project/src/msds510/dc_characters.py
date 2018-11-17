@@ -21,6 +21,7 @@ class dc_characters:
             self.eye_color = record["eye"]
             self.hair_color = record["hair"]
             self.sex = record["sex"]
+            self.first_appearance = record['first_appearance']
             self.appearance_count = record["appearances"]
             self.year = record["year"]
             # self.years_since_joining_value = record["years_since_joining"]
@@ -29,10 +30,17 @@ class dc_characters:
         """
 
         Returns:
-            str: The ID Number from the DC list
+            int: The ID Number from the DC list
 
         """
         return int(self.id_value)
+
+    def name(self):
+        """
+        Returns:
+            str: Returns Name of DC Character
+        """
+        return self.name
 
     def alignment(self):
         """
@@ -53,7 +61,7 @@ class dc_characters:
     def hair_color(self):
         """
         Returns:
-            str: Hair COlor of DC Character
+            str: Hair Color of DC Character
         """
         return self.hair_color
 
@@ -75,10 +83,10 @@ class dc_characters:
         """
 
         Returns:
-            int: The number of appearances of comic book DC Character
+            float: The number of appearances of comic book DC Character
 
         """
-        return int(self.appearances)
+        return float(self.appearances)
 
     def gender(self):
         """
@@ -97,6 +105,16 @@ class dc_characters:
 
         """
         return self.urlslug
+
+    def first_appearance(self):
+        """
+
+        Returns:
+            int: The year the character was introduced
+            as a full or reserve member of the Avengers
+
+        """
+        return int(self.first_appearance)
 
     def year(self):
         """
@@ -164,7 +182,7 @@ class dc_characters:
             str: A human-readable value for this character
 
         """
-        return self.name_alias()
+        return self.name()
 
     def __repr__(self):
         """
@@ -173,9 +191,9 @@ class dc_characters:
             str: String representation of object.  Useful for debugging.
         """
 
-        return "Avenger(" + ",".join(key + "=" + val
+        return "DC Character(" + ",".join(key + "=" + val
                                      for key, val in self.record.items()
-                                     if key == 'name_alias'
+                                     if key == 'name'
                                      or key == 'url') + ")"
 
     def to_markdown(self, recordslist, outfile):
@@ -189,21 +207,9 @@ class dc_characters:
         """
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
-                character = dc_characters(rc)
-                ofile.write('# ' + str(idx) + str(dc-characters.name()) + '\n\n')
-                ofile.write('* Number of Appearances : ' + str(dc-characters.appearances()) +'\n')
-                ofile.write('* Year Joined: ' + str(dc-characters.year()) + '\n')
-                ofile.write('* Years Since Joining: '+ str(dc-characters.years_since_joining()) + '\n')
-                ofile.write('* URL: ' + str(dc-characters.urlslug()) + '\n')
-
-    # The above will work like this:
-#       What is the avenger's name? This should be level 1.
-# How may appearances have they had? This will be a bullet point.
-# What year did they join? This will be a bullet point.
-# How many years since joining? This will be a bullet point.
-# What is the avenger's URL? This will be a bullet point.
-# The notes section will be last as a level 2 heading.
-# followed by the notes themselves.
-# Spacing will be up to you.
-
-# Remember to refer to the example report in the reports folder
+                characters = dc_characters(rc)
+                ofile.write('# ' + str(idx +1) + characters.name() + '\n\n')
+                ofile.write('* Number of Appearances : ' + characters.appearances() +'\n')
+                ofile.write('* Year Joined: ' + characters.year() + '\n')
+                ofile.write('* Years Since Joining: '+ characters.years_since_joining() + '\n')
+                ofile.write('* URL: ' + characters.urlslug() + '\n\n')
