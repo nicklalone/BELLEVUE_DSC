@@ -1,7 +1,7 @@
 import sys
 import csv
 
-from msds510.Fifa import Fifa as av
+from msds510.Fifa import Fifa 
 # if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 def main():
 
@@ -36,8 +36,8 @@ def main():
                            key=lambda k: float(k['population_share']),
                            reverse=True)[:10]
 
-    fifa = av()
-    fifa.to_markdown(sortedRecords, outfile)
+    Fifa = Fifa()
+    Fifa.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
