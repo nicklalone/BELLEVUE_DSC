@@ -86,7 +86,7 @@ class dc_characters:
             float: The number of appearances of comic book DC Character
 
         """
-        return float(self.appearances)
+        return self.appearances
 
     def gender(self):
         """
