@@ -1,11 +1,7 @@
 import sys
 import csv
-import sys
-from  msds510.Beer import Beer as br
-# Added import sys and Avenger class import
-
-# NRR comments: I didn't see that Namibia would top the list. Nice informative report.
-
+from msds510.biopic import Biopic
+# if the biopic utility is supposed to be imported here, how do I do that? Which utility?
 def main():
     """interprets command line request
     Args:
@@ -38,16 +34,18 @@ def generateReport(infile, outfile):
     """
 
     file = []
-    with open(infile, 'r') as csvfile:
+    with open(infile, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         file = list(reader)
 
+	#Write to File the list of All Biopic Movies sorted by Title	
+		
     sortedRecords = sorted(file,
-                           key=lambda k: int(k['beer_servings']),
-                           reverse=True)[:15]
+                           key=lambda k: (k['title']),
+                           reverse=False)[:]
 
-    beer = br()
-    beer.to_markdown(sortedRecords, outfile)
+    biopic = Biopic()
+    biopic.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()
