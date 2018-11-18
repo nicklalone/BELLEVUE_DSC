@@ -1,6 +1,6 @@
 import sys
 import csv
-from utils.avenger import Avenger
+from msds510.avenger import Avenger
 
 
 def main():

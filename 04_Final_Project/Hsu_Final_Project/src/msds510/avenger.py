@@ -41,9 +41,9 @@ class Avenger:
         # Returns the percentage gap between males and females (absolute value)
         return self.gap_value
 
-    def __str__(self):
-        # Reads the object as a string
-        return self.name()
+    # def __str__(self):
+    #     # Reads the object as a string
+    #     return self.name()
 
     def __repr__(self):
         """
