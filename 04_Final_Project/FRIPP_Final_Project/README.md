@@ -1,4 +1,13 @@
 # Fripp MSDS510 Final Project
+<br />
+## Report of Top Ten Appearances by DC Comics Characters
+
+<br />
+<br />
+
+**All Files are in the top level src and src>msds510 path; Accidentally duplicated in src>src paths**
+<br />
+* Leaving some files in the duplicated sub-src path as collaborators contributed here
 
 <br />
 <br />

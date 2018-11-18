@@ -10,7 +10,8 @@ def read_csv(csv_path):
     with open(csv_path) as f:
         csv_reader = csv.reader(f)
         rows = [row for row in csv_reader]
-
+    
+    #Joe F.: Looks like you're printing row 62; are one of these a typo?
     print('Printing Row 162 using csv.reader')
     pprint(rows[62])
 

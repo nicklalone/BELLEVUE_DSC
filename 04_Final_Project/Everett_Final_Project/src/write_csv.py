@@ -15,7 +15,7 @@ def main(input_csv, output_csv):
     python_friendly_names = [python_friendly_name(name) for name in fieldnames]
     new_records = [{python_friendly_name(name): value for name, value in record.items()} for record in records]
 
-    with open(output_csv, 'w') as f:
+    with open(output_csv, 'w', newline = '') as f:
         csv_writer = csv.DictWriter(f, fieldnames=python_friendly_names)
         csv_writer.writeheader()
         csv_writer.writerows(new_records)

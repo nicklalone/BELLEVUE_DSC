@@ -3,6 +3,10 @@
 #Christine Hathaway - maybe change the name Avenger to Fandango?
 #I know it doesn't change anything, but maybe makes a little more sense when reading through the code?
 
+#Joe F.: I would change your comment out on the functions in here to docstrings, perhaps. ...
+#... This will allow the help text to appear if someone were to copy and use the code ...
+#... without necessarily looking at the content (i.e. pull the function in a console) 
+
 class Avenger:
     def __init__(self, record=None):
         """

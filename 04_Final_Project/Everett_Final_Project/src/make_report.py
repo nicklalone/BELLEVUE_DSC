@@ -42,7 +42,7 @@ def generateReport(infile, outfile):
 
     sortedRecords = sorted(file,
                            key=lambda k: int(k['respondentid']),
-                           reverse=True)[:10]
+                           reverse=False)[:10]
 
     avenger = Avenger()
     avenger.to_markdown(sortedRecords, outfile)

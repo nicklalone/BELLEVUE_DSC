@@ -1,8 +1,11 @@
 import sys, csv
-from msds510.avenger import *
+from src.msds510.dc_characters import dc_characters
 
 # if the avenger utility is supposed to be imported here, how do I do that? Which utility?
 # Can use Avenger, or * since the entire class is one object
+# generateReport('C:\\Users\\jfrip\\OneDrive\\Data Science Workspaces\\School\\FRIPP_Final_Project\\data\\
+# processed\\dc-wikia-data-processed.3.csv','C:\\Users\\jfrip\\
+# OneDrive\\Data Science Workspaces\\School\\FRIPP_Final_Project\\src\\reports\\dc-report2.md')
 
 def main():
     """interprets command line request
@@ -42,11 +45,11 @@ def generateReport(infile, outfile):
         file = list(reader)
 
     sortedRecords = sorted(file,
-                           key=lambda k: int(k['appearances']),
+                           key=lambda k: k['appearances'],
                            reverse=True)[:10]
 
-    avenger = Avenger()
-    avenger.to_markdown(sortedRecords, outfile)
+    characters = dc_characters()
+    characters.to_markdown(sortedRecords, outfile)
 
 if __name__ == '__main__':
     main()

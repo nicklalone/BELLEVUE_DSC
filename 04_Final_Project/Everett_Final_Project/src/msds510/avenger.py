@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 import datetime
 
+>>>>>>> 0b017827aef0595bdaf5a01efbe1cbe387f3eba6
 class Avenger:
     def __init__(self, record=None):
         """
@@ -13,7 +16,7 @@ class Avenger:
         if record:
             self.record = record
             self.respondentid = record["respondentid"]
-            self.consider = record["consider_the_following_hypothetical_situations:_<br>in_lottery_a,_you_have_a_50%_chance_of_success,_with_a_payout_of_$100._<br>in_lottery_b,_you_have_a_90%_chance_of_success,_with_a_payout_of_$20._<br><br>assuming_you_have_$10_to_bet,_would_you_play_lottery_a_or_lottery_b"]
+            self.consider = record["consider"]
             self.cigarettes = record["do_you_ever_smoke_cigarettes"]
             self.alcohol = record["do_you_ever_drink_alcohol"]
             self.gamble = record["do_you_ever_gamble"]
@@ -26,7 +29,7 @@ class Avenger:
             self.age = record["age"]
             self.household_income = record["household_income"]
             self.education = record["education"]
-            self.location = record["location_(census_region)"]
+            self.location = record["location"]
 
     def respondentid(self):
         return int(self.respondentid)
@@ -85,21 +88,21 @@ class Avenger:
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 avenger = Avenger(rc)
-                ofile.write('# ' + str(idx + 1) + '. ' + avenger.respondentid() + '\n\n')
-                ofile.write('* Choice of lottery: ' + str(avenger.consider()) + '\n')
-                ofile.write('* Smoker: ' + str(avenger.cigarettes()) + '\n')
-                ofile.write('* Drinker: ' + str(avenger.alcohol()) + '\n')
-                ofile.write('* Gambler: ' + avenger.gamble() + '\n')
-                ofile.write('* Skydiver: ' + str(avenger.skydiving() + '\n'))
-                ofile.write('* Speeder: ' + avenger.speed() + '\n')
-                ofile.write('* Cheater: ' + avenger.cheated() + '\n')
-                ofile.write('* Steak Eater: ' + avenger.eat_steak() + '\n')
-                ofile.write('* Temperature of Steak: ' + avenger.steak_temp() + '\n')
-                ofile.write('* Gender: ' + avenger.gender() + '\n')
-                ofile.write('* Age Group: ' + avenger.age() + '\n')
-                ofile.write('* Household Income: ' + avenger.household_income() + '\n')
-                ofile.write('* Education: ' + avenger.education() + '\n')
-                ofile.write('* Region: ' + avenger.location() + '\n\n')
+                ofile.write('# ' + str(idx + 1) + '. Respondent ID #' + avenger.respondentid + '\n\n')
+                ofile.write('* Choice of lottery: ' + str(avenger.consider) + '\n')
+                ofile.write('* Smoker: ' + str(avenger.cigarettes) + '\n')
+                ofile.write('* Drinker: ' + str(avenger.alcohol) + '\n')
+                ofile.write('* Gambler: ' + avenger.gamble + '\n')
+                ofile.write('* Skydiver: ' + str(avenger.skydiving + '\n'))
+                ofile.write('* Speeder: ' + avenger.speed + '\n')
+                ofile.write('* Cheater: ' + avenger.cheated + '\n')
+                ofile.write('* Steak Eater: ' + avenger.eat_steak + '\n')
+                ofile.write('* Temperature of Steak: ' + avenger.steak_temp + '\n')
+                ofile.write('* Gender: ' + avenger.gender + '\n')
+                ofile.write('* Age Group: ' + avenger.age + '\n')
+                ofile.write('* Household Income: ' + avenger.household_income + '\n')
+                ofile.write('* Education: ' + avenger.education + '\n')
+                ofile.write('* Region: ' + avenger.location + '\n\n')
 
 
 # FYI- Comments need to be updated to reflect the actual data file

@@ -194,7 +194,7 @@ class Avenger:
         """takes a list of records, formats them
         and prints them to an output file.
         Args:
-            recordslist: list of top 10 avenger records
+            recordslist: list of top 10 dc records
             outfile: a file location string.
         Result:
             prints the contents to a formatted outfile.

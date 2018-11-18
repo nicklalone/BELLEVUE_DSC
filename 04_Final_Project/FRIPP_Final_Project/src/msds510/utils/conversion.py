@@ -49,6 +49,18 @@ def to_int(value):
     except Exception:
         return None
 
+def to_float(value):
+    """takes an incoming numeric string and converts it
+        to a float.
+    Args:
+        value: a numeric string
+    Returns:
+        an integer or None when can't be converted
+    """
+    try:
+        return float(value)
+    except Exception:
+        return None
 
 def to_bool(value):
     """takes an incoming string (empty, YES, NO)
@@ -149,7 +161,7 @@ def transform_record(rdict):
     rdict['hair'] = to_str(rdict['hair'])
     rdict['sex'] = to_str(rdict['sex'])
     rdict['gsm'] = to_str(rdict['gsm'])
-    rdict['appearances'] = to_int(rdict['appearances'])
+    rdict['appearances'] = to_float(rdict['appearances'])
     # rdict["current"] = to_bool(rdict["current"])
     rdict['alive'] = to_bool(living_is_True(rdict['alive']))
     rdict['year'] = to_int(rdict['year'])
