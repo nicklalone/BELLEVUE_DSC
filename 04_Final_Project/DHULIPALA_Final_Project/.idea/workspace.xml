@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19adb92c-f31d-4321-a4fd-c18ff7dc0bfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Burns_Final_Project/src/msds510/Beer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Burns_Final_Project/src/msds510/Beer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Burns_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Burns_Final_Project/src/process_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/make_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/make_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Everett_Final_Project/src/msds510/avenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Everett_Final_Project/src/msds510/avenger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Everett_Final_Project/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Everett_Final_Project/src/read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GARDNER_Final_Project/src/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GARDNER_Final_Project/src/read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HATHAWAY_Final_Project/src/weather_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HATHAWAY_Final_Project/src/weather_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NANDURI_Final_Project/src/msds510/marvel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NANDURI_Final_Project/src/msds510/marvel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NANDURI_Final_Project/src/process_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NANDURI_Final_Project/src/process_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vinesh_Final_Project/src/msds510/midterm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Vinesh_Final_Project/src/msds510/midterm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,21 +49,22 @@
     <session id="376704093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="Python" value="7" />
         </counts>
       </usages-collector>
@@ -92,15 +84,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/convert_to_utf8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/raw/biopics.csv">
           <provider selected="true" editor-type-id="text-editor" />
@@ -153,7 +136,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/make_report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="705">
               <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -179,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/msds510/biopics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
+            <state relative-caret-position="2175">
               <caret line="145" column="24" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
             </state>
           </provider>
@@ -217,7 +200,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
+    <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1905" />
     <option name="height" value="988" />
@@ -360,7 +343,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="23" width="1905" height="988" extended-state="0" />
+    <frame x="15" y="23" width="1905" height="988" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -441,6 +424,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/make_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -453,23 +446,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/msds510/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/msds510/biopics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
+        <state relative-caret-position="2175">
           <caret line="145" column="24" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/make_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/msds510/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reports/movies_released.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1447" />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
