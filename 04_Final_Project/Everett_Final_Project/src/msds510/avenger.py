@@ -31,6 +31,7 @@ class Avenger:
             self.education = record["education"]
             self.location = record["location"]
 
+# Hsu-comment: Should put in comments for the new data. Easier for others to know what each value stands for.
     def respondentid(self):
         return int(self.respondentid)
 

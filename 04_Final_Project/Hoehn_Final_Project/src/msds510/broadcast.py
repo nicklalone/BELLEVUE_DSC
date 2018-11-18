@@ -86,6 +86,7 @@ class Broadcast:
         '''
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(showlist):
+                # Hsu_Comment: Can put both 'new lines' in one quotation block (i.e. '\n\n'). Functionally the same, but helps with cutting down on 'fluff'
                 ofile.write('# ' + str(idx +1) + '. ' + rc['show'] + '\n' + '\n')
                 ofile.write('* Guest list: ' + (rc['raw_guest_list']) + '\n')
                 ofile.write('* Group: ' + (rc['group']) + '\n')

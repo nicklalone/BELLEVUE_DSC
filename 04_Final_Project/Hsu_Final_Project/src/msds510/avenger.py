@@ -14,10 +14,10 @@ class Avenger:
         if record:
             self.record = record
             self.name_value = record['name']
-            self.total_value = record['total']
-            self.male_share_value = record['male_share']
-            self.female_share_value = record['female_share']
-            self.gap_value = record['gap']
+            self.total_value = round(float(record['total']))
+            self.male_share_value = round(float(record['male_share']) * 100, 2)
+            self.female_share_value = round(float(record['female_share']) * 100, 2)
+            self.gap_value = round(float(record['gap']) * 100, 2)
 
     # Method Definitions
 
@@ -62,11 +62,11 @@ class Avenger:
         # Arguments:
             # records_list: list of records utilized in the Avengers class
         with open(outfile, 'w') as ofile:
-            ofile.write('# List of the top 10 names with the lowest gender gap.\n\n')
+            ofile.write('# List of the top 10 names with the lowest gender gap percentage.\n\n')
             for idx, rc in enumerate(records_list, 1):
                 avenger = Avenger(rc)
                 ofile.write('## ' + str(idx) + '. ' + avenger.name() + '\n\n')
-                ofile.write('* Total number of people with the name: ' + avenger.total() + '\n')
-                ofile.write('* Percent of males: ' + avenger.male_share() + '\n')
-                ofile.write('* Percent of females: ' + avenger.female_share() + '\n')
-                ofile.write('* Gap: ' + avenger.gap() + '\n\n')
+                ofile.write('* Total number of people with the name: ' + str(avenger.total()) + '\n')
+                ofile.write('* Percent of males: ' + str(avenger.male_share()) + '%\n')
+                ofile.write('* Percent of females: ' + str(avenger.female_share()) + '%\n')
+                ofile.write('* Gap: ' + str(avenger.gap()) + '%\n\n')
