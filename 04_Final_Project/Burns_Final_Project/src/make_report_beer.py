@@ -4,6 +4,8 @@ import sys
 from  msds510.Beer import Beer as br
 # Added import sys and Avenger class import
 
+# NRR comments: I didn't see that Namibia would top the list. Nice informative report.
+
 def main():
     """interprets command line request
     Args:

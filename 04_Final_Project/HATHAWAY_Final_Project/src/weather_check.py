@@ -53,6 +53,9 @@ class Weathercheck:
         age_over_60 = 0
         no_age_given = 0
 
+        # NRR comment: I like the below usage looping concept for grouping by age. Its quite handy.
+    
+
         for idx, rc in enumerate(recordslist):
             weather = Weathercheck(rc)
             if weather.age == "18 - 29":
