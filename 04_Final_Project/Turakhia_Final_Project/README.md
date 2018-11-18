@@ -2,8 +2,6 @@
 
 This report shows all the movies present in the Biopic CSV File and is sorted Alphabetically. 
 
- The report shows the list of movies released by date. Following is the information provided for each movie
-
  
 Below is an example of the Movie List Items that are present in the Final Report
  
