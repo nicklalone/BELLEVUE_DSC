@@ -17,3 +17,18 @@
  - `person_of_color`: '1'
  - `subject_sex`: 'Female'
  - `lead_actor_actress`: 'Soraya Omar-Scego (young) and Liya Kebede (older)'
+
+## Out of the above fields, the following variables were choosen for the output in the markdown file
+
+
+# 1. Movie Name
+
+* Year Released:  2014
+* Box Office:  $350M
+* Director:  Clint Eastwood
+* Country:  US
+* Site:  http://www.imdb.com/title/tt2179136/
+
+## Lead Actors
+
+Bradley Cooper
