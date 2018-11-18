@@ -98,6 +98,7 @@ class Beer:
         Result:
             prints the contents to a formatted outfile.
         """
+		#I have written this in a similar manner as well. I find this simple and efficient for long term maintenance and readability. One issue I had was in windows I had to remove the () after the str.
         with open(outfile, 'w') as ofile:
             for idx, rc in enumerate(recordslist):
                 beer = Beer(rc)
