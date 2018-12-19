@@ -1,2 +1,0 @@
-This will be used for reproducing the analysis environment.
-E.g. generated with 'pip freeze > requirements.txt'
