@@ -15,5 +15,5 @@ At completion of the online Master’s in Data Science, graduates will be able t
 1. Communicate data science results into answers for domain challenges.
 1. Identify ethical considerations in dataset preparation and modeling.
 
-#### University Accreditation
+### University Accreditation
 Bellevue University is accredited by the Higher Learning Commission (hlcommission.org), a regional accreditation agency recognized by the U.S. Department of Education.
