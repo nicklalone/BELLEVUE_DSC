@@ -1,2 +1,6 @@
-# BELLEVUE_DSC
-A repository for DSC Students to Share their Code, collaborate, and respond to class assignments
+### Bellevue Data Science 
+#### Recruitment Materials and Program Philosophies.
+
+### Why come to Bellevue University?
+
+### What is our philosophy about teaching difficult concepts like programming, statistics, and mathematics?
